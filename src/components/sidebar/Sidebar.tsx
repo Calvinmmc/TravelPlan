@@ -11,6 +11,8 @@ export default function Sidebar() {
   const deleteTrip = useTripStore((s) => s.deleteTrip)
   const importTrip = useTripStore((s) => s.importTrip)
 
+  // 窄屏默认收起，给地图留空间
+  const [collapsed, setCollapsed] = useState(() => window.innerWidth < 1024)
   const [creating, setCreating] = useState(false)
   const [name, setName] = useState('')
   const [start, setStart] = useState(today())
@@ -49,9 +51,28 @@ export default function Sidebar() {
     }
   }
 
+  if (collapsed) {
+    return (
+      <aside className="flex w-11 shrink-0 flex-col items-center border-r border-stone-200 bg-stone-100/70 pt-3">
+        <button
+          title="展开行程列表"
+          onClick={() => setCollapsed(false)}
+          className="rounded-md p-1.5 hover:bg-stone-200/60"
+        >
+          🧳
+        </button>
+      </aside>
+    )
+  }
+
   return (
     <aside className="flex w-56 shrink-0 flex-col border-r border-stone-200 bg-stone-100/70">
-      <div className="px-4 pb-2 pt-4 text-sm font-semibold text-stone-500">🧳 我的行程</div>
+      <div className="flex items-center justify-between px-4 pb-2 pt-4 text-sm font-semibold text-stone-500">
+        <span>🧳 我的行程</span>
+        <button title="收起" onClick={() => setCollapsed(true)} className="rounded px-1 hover:bg-stone-200/60">
+          «
+        </button>
+      </div>
 
       <nav className="flex-1 overflow-y-auto px-2">
         {trips.map((t) => (

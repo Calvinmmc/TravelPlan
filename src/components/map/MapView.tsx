@@ -85,8 +85,15 @@ export default function MapView({ trip }: { trip: Trip }) {
       if (name && current && !current.name) updateStop(id, { name })
     })
 
+    // 容器尺寸变化（收起侧边栏、切换横竖布局）时重新计算地图大小
+    const resizeObserver = new ResizeObserver(() => map.resize())
+    resizeObserver.observe(containerRef.current!)
+
     mapRef.current = map
     return () => {
+      resizeObserver.disconnect()
+      // 地图被重建（热更新 / StrictMode）时，新地图要等自己的 style.load 才算就绪
+      setReady(false)
       map.remove()
       mapRef.current = null
     }
@@ -95,9 +102,10 @@ export default function MapView({ trip }: { trip: Trip }) {
   // 路线 + 标记
   useEffect(() => {
     const map = mapRef.current
-    if (!map || !ready) return
+    const source = map?.getSource('routes') as GeoJSONSource | undefined
+    if (!map || !ready || !source) return
 
-    ;(map.getSource('routes') as GeoJSONSource).setData({
+    source.setData({
       type: 'FeatureCollection',
       // 每段单独一条线，按到达方式决定实线/虚线
       features: visibleDays.flatMap(({ day, color }) =>

@@ -3,6 +3,7 @@ import { useTripStore, useCurrentTrip } from './store/useTripStore'
 import Sidebar from './components/sidebar/Sidebar'
 import Itinerary from './components/itinerary/Itinerary'
 import MapView from './components/map/MapView'
+import MapErrorBoundary from './components/map/MapErrorBoundary'
 
 export default function App() {
   const loaded = useTripStore((s) => s.loaded)
@@ -19,12 +20,15 @@ export default function App() {
     <div className="flex h-full">
       <Sidebar />
       {trip ? (
-        <>
+        // 宽屏左右分栏；窄屏（<768px）地图在上、列表在下
+        <div className="flex min-w-0 flex-1 flex-col-reverse md:flex-row">
           <Itinerary trip={trip} />
-          <main className="relative flex-1">
-            <MapView trip={trip} />
+          <main className="relative min-h-0 min-w-0 flex-1">
+            <MapErrorBoundary>
+              <MapView trip={trip} />
+            </MapErrorBoundary>
           </main>
-        </>
+        </div>
       ) : (
         <div className="grid flex-1 place-items-center text-stone-400">新建一个行程开始规划 ✈️</div>
       )}

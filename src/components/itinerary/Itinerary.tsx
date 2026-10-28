@@ -17,12 +17,12 @@ export default function Itinerary({ trip }: { trip: Trip }) {
   }
 
   return (
-    <section className="flex w-[440px] shrink-0 flex-col border-r border-stone-200 bg-white">
-      <header className="border-b border-stone-100 px-6 pb-4 pt-6">
+    <section className="flex h-[55%] min-h-0 shrink-0 flex-col border-t border-stone-200 bg-white md:h-auto md:w-[clamp(300px,40vw,440px)] md:border-r md:border-t-0">
+      <header className="border-b border-stone-100 px-4 pb-3 pt-4 md:px-6 md:pb-4 md:pt-6">
         <input
           value={trip.name}
           onChange={(e) => updateTrip({ name: e.target.value })}
-          className="w-full bg-transparent text-2xl font-bold outline-none"
+          className="w-full bg-transparent text-xl font-bold outline-none md:text-2xl"
         />
         <div className="mt-2 flex items-center gap-2 text-sm text-stone-500">
           <input type="date" value={trip.startDate}
