@@ -1,12 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import maplibregl, { type GeoJSONSource, type LngLatBoundsLike } from 'maplibre-gl'
+import maplibregl, { type GeoJSONSource } from 'maplibre-gl'
 import { DASHED_TRANSPORT, type Trip } from '../../types'
 import { useTripStore } from '../../store/useTripStore'
 import { dayColor } from '../../lib/colors'
 import { reverseGeocode } from '../../lib/geocode'
-
-// OpenFreeMap：基于 OpenStreetMap 的免费矢量底图，无需 Key
-const STYLE_URL = 'https://tiles.openfreemap.org/styles/liberty'
+import { createMap, fitToPoints } from '../../lib/map'
 
 export default function MapView({ trip }: { trip: Trip }) {
   const containerRef = useRef<HTMLDivElement>(null)
@@ -31,14 +29,7 @@ export default function MapView({ trip }: { trip: Trip }) {
 
   // 初始化地图（只做一次）
   useEffect(() => {
-    const map = new maplibregl.Map({
-      container: containerRef.current!,
-      style: STYLE_URL,
-      center: [0, 20],
-      zoom: 1.5,
-    })
-    map.addControl(new maplibregl.NavigationControl(), 'top-right')
-    map.addControl(new maplibregl.ScaleControl({ unit: 'metric' }), 'bottom-right')
+    const { map, dispose } = createMap(containerRef.current!)
 
     // 样式就绪即可叠加路线和标记，不必等底图瓦片全部下载完（网络慢时 load 事件会很晚）
     map.once('style.load', () => {
@@ -85,16 +76,11 @@ export default function MapView({ trip }: { trip: Trip }) {
       if (name && current && !current.name) updateStop(id, { name })
     })
 
-    // 容器尺寸变化（收起侧边栏、切换横竖布局）时重新计算地图大小
-    const resizeObserver = new ResizeObserver(() => map.resize())
-    resizeObserver.observe(containerRef.current!)
-
     mapRef.current = map
     return () => {
-      resizeObserver.disconnect()
       // 地图被重建（热更新 / StrictMode）时，新地图要等自己的 style.load 才算就绪
       setReady(false)
-      map.remove()
+      dispose()
       mapRef.current = null
     }
   }, [])
@@ -151,17 +137,7 @@ export default function MapView({ trip }: { trip: Trip }) {
   useEffect(() => {
     const map = mapRef.current
     if (!map || !ready) return
-    const stops = visibleDays.flatMap(({ day }) => day.stops)
-    if (stops.length === 0) return
-    if (stops.length === 1) {
-      map.flyTo({ center: [stops[0].lng, stops[0].lat], zoom: 14 })
-      return
-    }
-    const bounds = stops.reduce(
-      (b, s) => b.extend([s.lng, s.lat]),
-      new maplibregl.LngLatBounds([stops[0].lng, stops[0].lat], [stops[0].lng, stops[0].lat]),
-    )
-    map.fitBounds(bounds as LngLatBoundsLike, { padding: 80, maxZoom: 15, duration: 800 })
+    fitToPoints(map, visibleDays.flatMap(({ day }) => day.stops))
     // 只在切换行程/筛选时触发，编辑地点不重新缩放
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [trip.id, dayFilter, ready])

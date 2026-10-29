@@ -3,6 +3,7 @@
 // 用法：node scripts/merge-research.mjs research/<slug>
 import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
+import { median } from './lib/validators.mjs'
 
 const PARTS = ['sights', 'stay-shop', 'food-cost']
 const CATEGORY_LABELS = { sight: '景点', transport: '交通节点', lodging: '住宿', shopping: '购物', food: '餐厅' }
@@ -46,6 +47,21 @@ const merged = {
   unverified: uniq(parts.flatMap((x) => x.unverified)),
 }
 writeFileSync(join(dir, 'research.json'), JSON.stringify(merged, null, 2) + '\n')
+
+// 目的地中心点：取非交通类地点坐标的中位数（避开出发城市机场这类远点），写回 destination.json
+const destFile = join(dir, 'destination.json')
+if (existsSync(destFile)) {
+  const dest = JSON.parse(readFileSync(destFile, 'utf8'))
+  const pts = merged.places.filter((p) => p.category !== 'transport')
+  if (pts.length) {
+    dest.lat = Number(median(pts.map((p) => p.lat)).toFixed(4))
+    dest.lng = Number(median(pts.map((p) => p.lng)).toFixed(4))
+    writeFileSync(destFile, JSON.stringify(dest, null, 2) + '\n')
+    console.log(`✓ 更新 ${destFile} 中心点 ${dest.lat}, ${dest.lng}`)
+  }
+} else {
+  console.log(`！${destFile} 不存在，请按 src/types/research.ts 的 Destination 创建`)
+}
 
 // ---- README.md ----
 const fmtPrice = (p) => {

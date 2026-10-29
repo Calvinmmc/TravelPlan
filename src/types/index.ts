@@ -42,6 +42,8 @@ export interface Trip {
   endDate: string
   /** 花费的币种，如 JPY、CNY */
   currency?: string
+  /** 来自哪个目的地（research/<slug>），从目的地页添加的行程会带上 */
+  destination?: string
   days: Day[]
   createdAt: number
   updatedAt: number

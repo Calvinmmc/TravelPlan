@@ -1,10 +1,12 @@
 import { useRef, useState } from 'react'
 import { useTripStore } from '../../store/useTripStore'
 import { addDays, today } from '../../lib/date'
-import { libraryTrips } from '../../lib/library'
+import { destinations, getDestination, flagEmoji } from '../../lib/destinations'
+import { navigate, routeHref, type Route } from '../../lib/router'
+import DestinationTree from './DestinationTree'
 import type { Trip } from '../../types'
 
-export default function Sidebar() {
+export default function Sidebar({ route }: { route: Route }) {
   const trips = useTripStore((s) => s.trips)
   const currentTripId = useTripStore((s) => s.currentTripId)
   const selectTrip = useTripStore((s) => s.selectTrip)
@@ -24,6 +26,7 @@ export default function Sidebar() {
     e.preventDefault()
     if (!name.trim() || end < start) return
     createTrip(name.trim(), start, end)
+    navigate({ name: 'trips' })
     setCreating(false)
     setName('')
   }
@@ -47,6 +50,7 @@ export default function Sidebar() {
       const trip = JSON.parse(await file.text()) as Trip
       if (!trip.name || !Array.isArray(trip.days)) throw new Error('格式不对')
       importTrip(trip)
+      navigate({ name: 'trips' })
     } catch {
       alert('导入失败：不是有效的行程文件')
     }
@@ -62,6 +66,9 @@ export default function Sidebar() {
         >
           🧳
         </button>
+        <a title="全部目的地" href={routeHref({ name: 'explore' })} className="mt-1 rounded-md p-1.5 hover:bg-stone-200/60">
+          🌏
+        </a>
       </aside>
     )
   }
@@ -79,12 +86,18 @@ export default function Sidebar() {
         {trips.map((t) => (
           <div
             key={t.id}
-            onClick={() => selectTrip(t.id)}
-            className={`group flex cursor-pointer items-center justify-between rounded-md px-2 py-1.5 text-sm ${
-              t.id === currentTripId ? 'bg-white font-medium shadow-sm' : 'hover:bg-stone-200/60'
+            onClick={() => {
+              selectTrip(t.id)
+              navigate({ name: 'trips' })
+            }}
+            className={`group flex cursor-pointer items-center justify-between gap-1 rounded-md px-2 py-1.5 text-sm ${
+              route.name === 'trips' && t.id === currentTripId ? 'bg-white font-medium shadow-sm' : 'hover:bg-stone-200/60'
             }`}
           >
-            <span className="truncate">{t.name}</span>
+            <span className="truncate">
+              {tripFlag(t.destination)}
+              {t.name}
+            </span>
             <button
               title="删除行程"
               onClick={(e) => {
@@ -131,21 +144,13 @@ export default function Sidebar() {
           </button>
         )}
 
-        {libraryTrips.length > 0 && (
-          <div className="mt-4">
-            <div className="px-2 pb-1 text-xs font-semibold text-stone-400">📚 示例行程（点击添加一份）</div>
-            {libraryTrips.map(({ slug, trip }) => (
-              <button
-                key={slug}
-                title={`${trip.startDate} → ${trip.endDate}`}
-                onClick={() => importTrip(trip)}
-                className="w-full truncate rounded-md px-2 py-1.5 text-left text-sm text-stone-500 hover:bg-stone-200/60"
-              >
-                {trip.name}
-              </button>
-            ))}
-          </div>
-        )}
+        <div className="mt-5 flex items-center justify-between px-2 pb-1 text-sm font-semibold text-stone-500">
+          <span>🌏 目的地</span>
+          <a href={routeHref({ name: 'explore' })} className={`text-xs font-normal hover:text-stone-700 ${route.name === 'explore' ? 'text-stone-700' : 'text-stone-400'}`}>
+            全部 {destinations.length} ›
+          </a>
+        </div>
+        <DestinationTree route={route} />
       </nav>
 
       <div className="flex gap-1 border-t border-stone-200 p-2 text-xs">
@@ -155,4 +160,10 @@ export default function Sidebar() {
       </div>
     </aside>
   )
+}
+
+/** 从目的地添加的行程，名称前显示国旗 */
+function tripFlag(slug?: string) {
+  const d = slug ? getDestination(slug) : undefined
+  return d ? `${flagEmoji(d.countryCode)} ` : ''
 }

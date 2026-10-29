@@ -6,16 +6,19 @@ argument-hint: <目的地> [天数或日期] [出发城市] [偏好…]
 
 # /plan-trip：目的地调研 + 行程生成
 
-流水线：3 个调研 agent 并行检索 → 脚本合并、校验 → 规划 agent 排行程 → 生成可导入 app 的 `trip.json`。
+流水线：登记目的地 → 3 个调研 agent 并行检索 → 脚本合并、校验 → 规划 agent 排行程 → 网站上自动出现这个目的地和它的行程方案。
 
 产物放在 `research/<slug>/`：
 
 | 文件 | 内容 |
 |---|---|
+| `destination.json` | 目的地信息：国家、大洲等，网站按 大洲 → 国家 → 目的地 分类展示 |
 | `sights.json` / `stay-shop.json` / `food-cost.json` | 各调研 agent 的原始结果 |
 | `research.json` | 合并后的完整调研数据（格式：`src/types/research.ts`） |
 | `README.md` | 按类别排好的一览表，带来源链接，给人看的 |
-| `trip.json` | 逐日行程，在 app 左下角「导入」即可使用 |
+| `trips/<方案>.json` | 逐日行程方案。一个目的地可以有多个方案，如 `3d-city.json`、`5d-main-island-miyako.json` |
+
+**目的地的粒度**：一个城市或一个紧凑的旅行地区一个目的地，如「清迈」「冲绳」「京都」。多城市的长线行程（如「日本关西 7 日」）按主要停留城市拆成多个目的地分别调研；行程方案放在停留最久的那个目的地下，并在 `Trip.name` 里写清楚覆盖的城市。
 
 ## 1. 确认出行参数
 
@@ -46,7 +49,18 @@ argument-hint: <目的地> [天数或日期] [出发城市] [偏好…]
 | **本币** | 汇率换算和预算的人民币参考 | 配置 `homeCurrency` |
 | **slug** | 目的地的英文或拼音，短横线格式，如 `okinawa`、`chiang-mai` | 由目的地生成 |
 
-如果 `research/<slug>/research.json` 已经存在，并且 `generatedAt` 在 30 天以内，问用户：是直接复用旧调研只重新排行程，还是重新调研。
+如果 `research/<slug>/research.json` 已经存在，并且 `generatedAt` 在 30 天以内，问用户：是直接复用旧调研、只新增一个行程方案，还是重新调研。
+
+### 登记目的地
+
+`research/<slug>/destination.json` 不存在时，按 `src/types/research.ts` 的 `Destination` 写入：
+- `slug`、`name`（中文）、`localName`（当地语言或英文）
+- `region`（上级行政区，可选）
+- `country`（国家中文名）、`countryCode`（ISO 3166-1 两位大写，如 JP、TH）
+- `continent`：亚洲 / 欧洲 / 北美洲 / 南美洲 / 大洋洲 / 非洲 / 南极洲
+- `summary`：一句话介绍。调研完成后可以根据结果改写得更具体
+
+不要写 `lat` / `lng`，合并脚本会根据调研地点自动计算中心点。
 
 ## 2. 并行调研
 
@@ -78,12 +92,13 @@ node scripts/validate-research.mjs research/<slug>/research.json
 用 Agent 启动 `travel-itinerary-planner`，传入：
 - `research/<slug>/research.json` 的路径
 - 全部出行参数
-- 输出路径 `research/<slug>/trip.json`
+- 输出路径 `research/<slug>/trips/<方案>.json`。文件名用英文短横线格式，概括天数和范围，如 `5d-main-island-miyako`；不要覆盖已有方案
+- `Trip.destination` 填 `<slug>`
 
-完成后运行：
+完成后运行，校验所有目的地、调研和方案是否一致：
 
 ```bash
-node scripts/validate-trip.mjs research/<slug>/trip.json
+node scripts/validate-all.mjs
 ```
 
 ## 5. 交付
@@ -93,7 +108,7 @@ node scripts/validate-trip.mjs research/<slug>/trip.json
 - 预算估算（按档位，不含机票和住宿，另外单列住宿区间）
 - 3–5 条最值得注意的发现，比如季节、预约、交通限制
 - 待核实的事项
-- 使用方法：在 app 左下角点「导入」，选 `research/<slug>/trip.json`
+- 使用方法：提交并推送 `research/<slug>/` 后，网站侧边栏「🌏 目的地」里会出现这个目的地，进去点「添加到我的行程」即可；本地也可以 `npm run dev` 打开 `#/explore/<slug>` 预览
 - 详细一览表在 `research/<slug>/README.md`
 
 不要把 JSON 或整张表贴进对话。

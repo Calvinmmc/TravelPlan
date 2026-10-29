@@ -1,8 +1,41 @@
 /**
  * 目的地调研数据的格式。
  * 由 .claude/agents/travel-*-researcher 生成，存放在 research/<slug>/*.json，
- * scripts/validate-research.mjs 按这里的定义做校验 —— 修改字段时两边一起改。
+ * scripts/lib/validators.mjs 按这里的定义做校验 —— 修改字段时两边一起改。
+ *
+ * research/<slug>/
+ *   destination.json     Destination
+ *   sights.json 等       ResearchFile（各 agent 的原始结果）
+ *   research.json        ResearchFile（合并后）
+ *   trips/<方案>.json    Trip（src/types/index.ts），一个目的地可以有多个方案
  */
+
+export const CONTINENTS = ['亚洲', '欧洲', '北美洲', '南美洲', '大洋洲', '非洲', '南极洲'] as const
+export type Continent = (typeof CONTINENTS)[number]
+
+/**
+ * 目的地（城市或地区）的基本信息：research/<slug>/destination.json。
+ * 「全部目的地」页按 continent → country → 目的地 分组。
+ */
+export interface Destination {
+  slug: string
+  /** 中文名，如 冲绳、清迈 */
+  name: string
+  /** 当地语言或英文名 */
+  localName?: string
+  /** 上级行政区，可选，如 冲绳县、清迈府 */
+  region?: string
+  /** 国家中文名 */
+  country: string
+  /** ISO 3166-1 两位大写代码，如 JP、TH */
+  countryCode: string
+  continent: Continent
+  /** 中心点，由 scripts/merge-research.mjs 根据调研地点自动计算 */
+  lat?: number
+  lng?: number
+  /** 一句话介绍 */
+  summary?: string
+}
 
 export type PlaceCategory = 'sight' | 'shopping' | 'lodging' | 'food' | 'transport'
 

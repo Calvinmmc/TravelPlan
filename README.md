@@ -11,7 +11,8 @@
 
 打开上面的网址即可，不需要安装任何东西。
 
-- **示例行程**：左侧栏「📚 示例行程」里点一下，就会添加一份到「我的行程」，可以随意修改。
+- **按目的地浏览**：左侧栏「🌏 目的地」按 大洲 → 国家 → 城市 分类（目的地少时自动省略只有一个分组的层级）。进入某个城市可以看到它的所有行程方案和调研地点地图，点「添加到我的行程」就复制一份，可以随意修改。
+- **分享某个城市**：每个城市都有自己的链接，如 `https://calvinmmc.github.io/TravelPlan/#/explore/okinawa`。
 - **新建行程**：「＋ 新建行程」，填名称和日期。
 - **添加地点**：点某一天的「＋ 添加地点」，再点地图，地名会自动填上。
 - **编辑**：点地点卡片可以改时间、交通方式、花费、备注，也能上移、下移、删除。
@@ -57,10 +58,11 @@
 | 文件 | 用途 |
 |---|---|
 | `README.md` | 调研一览表：景点、住宿、购物、餐厅、价格，每条都有来源链接 |
-| `trip.json` | 逐日行程，在网页左下角「导入」即可使用 |
+| `destination.json` | 目的地信息（国家、大洲），决定它在网站上的分类 |
+| `trips/<方案>.json` | 逐日行程方案，同一个城市可以有多个 |
 | `research.json` 等 | 原始结构化数据 |
 
-**分享给大家**：把 `research/<目的地>/` 提交并推送到 GitHub，网站自动更新后，所有人都能在「📚 示例行程」里看到它。
+**分享给大家**：把 `research/<目的地>/` 提交并推送到 GitHub，网站自动更新后，所有人都能在「🌏 目的地」里看到这个城市和它的行程方案。
 
 > 调研结果是某个时间点的网络信息，价格、营业时间、交通时刻可能变化。标了 ⚠️ 或「未经调研」的内容，出发前务必再确认。
 
@@ -87,9 +89,8 @@
 ```bash
 npm run dev      # 本地开发，http://localhost:5173
 npm run build    # 构建到 dist/
-node scripts/validate-research.mjs research/<目的地>/research.json   # 校验调研数据
-node scripts/validate-trip.mjs research/<目的地>/trip.json           # 校验行程
-node scripts/merge-research.mjs research/<目的地>                     # 合并调研并生成 README
+node scripts/validate-all.mjs                     # 校验所有目的地、调研数据和行程方案
+node scripts/merge-research.mjs research/<目的地>   # 合并调研、生成 README、计算目的地中心点
 ```
 
 **部署自己的一份**：fork 本仓库 → Settings → Pages → Source 选「GitHub Actions」。之后每次推送到 `main` 都会自动校验数据、构建并发布。
@@ -102,6 +103,6 @@ node scripts/merge-research.mjs research/<目的地>                     # 合�
 | `.claude/agents/` | 3 个调研 agent 和 1 个行程规划 agent |
 | `.claude/skills/plan-trip/` | `/plan-trip` 命令和调研规则 |
 | `scripts/` | 数据校验和合并脚本 |
-| `research/` | 各目的地的调研结果和行程 |
+| `research/<目的地>/` | 每个目的地一个目录：目的地信息、调研结果、行程方案 |
 
-地图底图来自 [OpenFreeMap](https://openfreemap.org/)，地名查询来自 [Photon](https://photon.komoot.io/)，都是免费的公共服务，个人使用足够；在部分网络环境下加载可能较慢。
+地图底图来自 [OpenFreeMap](https://openfreemap.org/)，地名查询来自 [Photon](https://photon.komoot.io/)，都是免费的公共服务，个人使用足够；在部分网络环境下加载可能较慢。国旗图标在 Windows 上使用 [Twemoji](https://github.com/twitter/twemoji) 国旗字体（CC-BY 4.0），通过 [country-flag-emoji-polyfill](https://github.com/talkjs/country-flag-emoji-polyfill) 加载。

@@ -1,10 +1,10 @@
 import type { Trip } from '../types'
 import { withFreshIds } from './id'
-import okinawa from '../../research/okinawa/trip.json'
+import okinawa from '../../research/okinawa/trips/5d-main-island-miyako.json'
 
 /**
- * 首次打开时的示例行程。
- * 由 /plan-trip 流水线生成（调研数据见 research/okinawa/），重新生成 trip.json 后这里自动更新。
+ * 首次打开时放进「我的行程」的示例。
+ * 来自 /plan-trip 生成的冲绳方案，重新生成后这里自动更新。
  */
 export function demoTrip(): Trip {
   return withFreshIds(okinawa as Trip)

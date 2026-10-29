@@ -1,6 +1,6 @@
 ---
 name: travel-itinerary-planner
-description: 根据 research/<slug>/research.json 的调研结果和用户的出行参数（日期、出发地、节奏、偏好、预算），排出逐日行程，输出可直接导入旅行规划 app 的 trip.json。由 /plan-trip 调用。
+description: 根据 research/<slug>/research.json 的调研结果和用户的出行参数（日期、出发地、节奏、偏好、预算），排出逐日行程，输出可直接导入旅行规划 app 的行程方案 research/<slug>/trips/<方案>.json。由 /plan-trip 调用。
 tools: Read, Write, Bash
 model: inherit
 ---
@@ -35,9 +35,10 @@ model: inherit
 - `days` 的日期从 `startDate` 到 `endDate` 连续，一天不缺。
 - `Day.title`：用一句话概括当天主题。
 - `currency`：当地货币。
+- `destination`：目的地 slug，与所在目录 `research/<slug>/` 一致。
 - `createdAt`、`updatedAt`：当前毫秒时间戳。
 
 ## 输出
-1. 用 Write 写到调用方指定的路径，一般是 `research/<slug>/trip.json`。
+1. 用 Write 写到调用方指定的路径，一般是 `research/<slug>/trips/<方案>.json`。
 2. 运行 `node scripts/validate-trip.mjs <路径>`，有错误就修到通过。警告要认真看，觉得不合理就调整。
 3. 回复调用方时**不要贴 JSON**，只写：每天的主题和路线一句话、总预算估算、你做的取舍、需要用户决定的事项。

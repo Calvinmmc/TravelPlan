@@ -1,14 +1,18 @@
 import { useEffect } from 'react'
 import { useTripStore, useCurrentTrip } from './store/useTripStore'
+import { useRoute } from './lib/router'
 import Sidebar from './components/sidebar/Sidebar'
 import Itinerary from './components/itinerary/Itinerary'
 import MapView from './components/map/MapView'
 import MapErrorBoundary from './components/map/MapErrorBoundary'
+import ExploreView from './components/explore/ExploreView'
+import DestinationView from './components/explore/DestinationView'
 
 export default function App() {
   const loaded = useTripStore((s) => s.loaded)
   const load = useTripStore((s) => s.load)
   const trip = useCurrentTrip()
+  const route = useRoute()
 
   useEffect(() => {
     load()
@@ -18,8 +22,12 @@ export default function App() {
 
   return (
     <div className="flex h-full">
-      <Sidebar />
-      {trip ? (
+      <Sidebar route={route} />
+      {route.name === 'explore' ? (
+        <ExploreView />
+      ) : route.name === 'destination' ? (
+        <DestinationView slug={route.slug} />
+      ) : trip ? (
         // 宽屏左右分栏；窄屏（<768px）地图在上、列表在下
         <div className="flex min-w-0 flex-1 flex-col-reverse md:flex-row">
           <Itinerary trip={trip} />

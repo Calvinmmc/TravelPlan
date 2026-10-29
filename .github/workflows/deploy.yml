@@ -27,9 +27,7 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Validate research data
-        run: |
-          for f in research/*/research.json; do node scripts/validate-research.mjs "$f"; done
-          for f in research/*/trip.json; do node scripts/validate-trip.mjs "$f"; done
+        run: node scripts/validate-all.mjs
       - run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/
