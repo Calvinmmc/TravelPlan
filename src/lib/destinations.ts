@@ -75,3 +75,45 @@ export const matchDestination = (d: DestinationEntry, q: string) => {
   const s = q.trim().toLowerCase()
   return !s || [d.name, d.localName, d.region, d.country, d.continent, d.slug].some((v) => v?.toLowerCase().includes(s))
 }
+
+// ---------- 国家 ----------
+
+export interface CountryEntry {
+  code: string
+  name: string
+  continent: Continent
+  destinations: DestinationEntry[]
+  planCount: number
+  placeCount: number
+}
+
+export const countries: CountryEntry[] = [...new Set(destinations.map((d) => d.countryCode))]
+  .map((code) => {
+    const ds = destinations.filter((d) => d.countryCode === code)
+    return {
+      code,
+      name: ds[0].country,
+      continent: ds[0].continent,
+      destinations: ds,
+      planCount: ds.reduce((n, d) => n + d.plans.length, 0),
+      placeCount: ds.reduce((n, d) => n + (d.stats?.places ?? 0), 0),
+    }
+  })
+  .sort((a, b) => a.name.localeCompare(b.name, 'zh'))
+
+export const getCountry = (code: string) => countries.find((c) => c.code === code.toUpperCase())
+
+/** 每个大洲的国家和目的地数量（没有数据的大洲数量为 0） */
+export const continentSummary = CONTINENTS.map((continent) => ({
+  continent,
+  countries: countries.filter((c) => c.continent === continent).length,
+  destinations: destinations.filter((d) => d.continent === continent).length,
+}))
+
+export const totals = {
+  destinations: destinations.length,
+  countries: countries.length,
+  continents: continentSummary.filter((c) => c.destinations > 0).length,
+  plans: destinations.reduce((n, d) => n + d.plans.length, 0),
+  places: destinations.reduce((n, d) => n + (d.stats?.places ?? 0), 0),
+}

@@ -35,6 +35,13 @@ export interface Destination {
   lng?: number
   /** 一句话介绍 */
   summary?: string
+  /** 调研统计，由 scripts/merge-research.mjs 自动写入，首页不用加载 research.json 就能显示 */
+  stats?: {
+    /** 调研日期 YYYY-MM-DD */
+    researchedAt: string
+    places: number
+    byCategory: Partial<Record<PlaceCategory, number>>
+  }
 }
 
 export type PlaceCategory = 'sight' | 'shopping' | 'lodging' | 'food' | 'transport'

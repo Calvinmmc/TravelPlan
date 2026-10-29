@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useTripStore } from '../../store/useTripStore'
 import { addDays, today } from '../../lib/date'
 import { destinations, getDestination, flagEmoji } from '../../lib/destinations'
@@ -16,6 +16,10 @@ export default function Sidebar({ route }: { route: Route }) {
 
   // 窄屏默认收起，给地图留空间
   const [collapsed, setCollapsed] = useState(() => window.innerWidth < 1024)
+  // 手机上侧边栏是浮层，切换页面后自动收起
+  useEffect(() => {
+    if (window.innerWidth < 768) setCollapsed(true)
+  }, [route])
   const [creating, setCreating] = useState(false)
   const [name, setName] = useState('')
   const [start, setStart] = useState(today())
@@ -66,23 +70,34 @@ export default function Sidebar({ route }: { route: Route }) {
         >
           🧳
         </button>
-        <a title="全部目的地" href={routeHref({ name: 'explore' })} className="mt-1 rounded-md p-1.5 hover:bg-stone-200/60">
-          🌏
+        <a title="首页" href={routeHref({ name: 'home' })} className="mt-1 rounded-md p-1.5 hover:bg-stone-200/60">
+          🏠
         </a>
       </aside>
     )
   }
 
   return (
-    <aside className="flex w-56 shrink-0 flex-col border-r border-stone-200 bg-stone-100/70">
-      <div className="flex items-center justify-between px-4 pb-2 pt-4 text-sm font-semibold text-stone-500">
-        <span>🧳 我的行程</span>
-        <button title="收起" onClick={() => setCollapsed(true)} className="rounded px-1 hover:bg-stone-200/60">
+    <>
+    {/* 手机上展开时盖在页面上，点遮罩收起 */}
+    <div className="fixed inset-0 z-30 bg-black/30 md:hidden" onClick={() => setCollapsed(true)} />
+    <aside className="flex w-56 shrink-0 flex-col border-r border-stone-200 bg-stone-100 max-md:fixed max-md:inset-y-0 max-md:left-0 max-md:z-40 max-md:w-64 max-md:shadow-xl md:bg-stone-100/70">
+      <div className="flex items-center justify-between px-2 pb-1 pt-3">
+        <a
+          href={routeHref({ name: 'home' })}
+          className={`flex-1 rounded-md px-2 py-1.5 text-sm font-semibold ${
+            route.name === 'home' ? 'bg-white text-stone-800 shadow-sm' : 'text-stone-600 hover:bg-stone-200/60'
+          }`}
+        >
+          🏠 首页
+        </a>
+        <button title="收起" onClick={() => setCollapsed(true)} className="ml-1 rounded px-1.5 py-1 text-stone-500 hover:bg-stone-200/60">
           «
         </button>
       </div>
 
       <nav className="flex-1 overflow-y-auto px-2">
+        <div className="px-2 pb-1 pt-3 text-sm font-semibold text-stone-500">🧳 我的行程</div>
         {trips.map((t) => (
           <div
             key={t.id}
@@ -146,7 +161,7 @@ export default function Sidebar({ route }: { route: Route }) {
 
         <div className="mt-5 flex items-center justify-between px-2 pb-1 text-sm font-semibold text-stone-500">
           <span>🌏 目的地</span>
-          <a href={routeHref({ name: 'explore' })} className={`text-xs font-normal hover:text-stone-700 ${route.name === 'explore' ? 'text-stone-700' : 'text-stone-400'}`}>
+          <a href={routeHref({ name: 'home' })} className="text-xs font-normal text-stone-400 hover:text-stone-700">
             全部 {destinations.length} ›
           </a>
         </div>
@@ -159,6 +174,7 @@ export default function Sidebar({ route }: { route: Route }) {
         <input ref={fileRef} type="file" accept=".json,application/json" hidden onChange={onImport} />
       </div>
     </aside>
+    </>
   )
 }
 

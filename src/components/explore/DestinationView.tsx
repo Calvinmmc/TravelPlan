@@ -16,8 +16,8 @@ export default function DestinationView({ slug }: { slug: string }) {
       <div className="grid flex-1 place-items-center text-center text-stone-400">
         <div>
           <p>找不到目的地「{slug}」</p>
-          <a href={routeHref({ name: 'explore' })} className="mt-2 inline-block text-sm text-stone-600 underline">
-            查看全部目的地
+          <a href={routeHref({ name: 'home' })} className="mt-2 inline-block text-sm text-stone-600 underline">
+            回到首页
           </a>
         </div>
       </div>
@@ -73,11 +73,15 @@ function DestinationDetail({ dest }: { dest: DestinationEntry }) {
         <div className="flex-1 overflow-y-auto">
           <header className="border-b border-stone-100 px-4 pb-4 pt-4 md:px-6 md:pt-6">
             <nav className="text-xs text-stone-400">
-              <a href={routeHref({ name: 'explore' })} className="hover:text-stone-600">
-                全部目的地
+              <a href={routeHref({ name: 'home' })} className="hover:text-stone-600">
+                首页
               </a>
               {' › '}
-              {dest.continent} › {flagEmoji(dest.countryCode)} {dest.country}
+              {dest.continent}
+              {' › '}
+              <a href={routeHref({ name: 'country', code: dest.countryCode })} className="hover:text-stone-600">
+                {flagEmoji(dest.countryCode)} {dest.country}
+              </a>
               {dest.region && ` › ${dest.region}`}
             </nav>
             <h1 className="mt-2 text-xl font-bold md:text-2xl">{dest.name}</h1>

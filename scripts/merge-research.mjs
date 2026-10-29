@@ -56,9 +56,13 @@ if (existsSync(destFile)) {
   if (pts.length) {
     dest.lat = Number(median(pts.map((p) => p.lat)).toFixed(4))
     dest.lng = Number(median(pts.map((p) => p.lng)).toFixed(4))
-    writeFileSync(destFile, JSON.stringify(dest, null, 2) + '\n')
-    console.log(`✓ 更新 ${destFile} 中心点 ${dest.lat}, ${dest.lng}`)
   }
+  // 调研统计：首页、国家页直接用，不必加载 research.json
+  const byCategory = {}
+  for (const p of merged.places) byCategory[p.category] = (byCategory[p.category] ?? 0) + 1
+  dest.stats = { researchedAt: merged.generatedAt, places: merged.places.length, byCategory }
+  writeFileSync(destFile, JSON.stringify(dest, null, 2) + '\n')
+  console.log(`✓ 更新 ${destFile}：中心点 ${dest.lat}, ${dest.lng}，${merged.places.length} 个调研地点`)
 } else {
   console.log(`！${destFile} 不存在，请按 src/types/research.ts 的 Destination 创建`)
 }

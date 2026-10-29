@@ -8,5 +8,16 @@
   "continent": "亚洲",
   "summary": "亚热带海岛：那霸城市观光与购物、北部美丽海水族馆、庆良间与宫古岛的海",
   "lat": 26.2163,
-  "lng": 127.6883
+  "lng": 127.6883,
+  "stats": {
+    "researchedAt": "2026-10-28",
+    "places": 89,
+    "byCategory": {
+      "sight": 22,
+      "shopping": 13,
+      "transport": 11,
+      "lodging": 15,
+      "food": 28
+    }
+  }
 }

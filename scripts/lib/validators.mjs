@@ -150,6 +150,13 @@ export function validateDestination(d) {
   if (hasLat && (!isNum(d.lat) || Math.abs(d.lat) > 90)) errors.push('lat 无效')
   if (hasLng && (!isNum(d.lng) || Math.abs(d.lng) > 180)) errors.push('lng 无效')
   if (!hasLat) warnings.push('还没有中心点坐标，运行 merge-research 会自动补上')
+  if (d.stats !== undefined) {
+    const s = d.stats
+    if (!DATE_RE.test(s?.researchedAt ?? '')) errors.push('stats.researchedAt 必须是 YYYY-MM-DD')
+    if (!isNum(s?.places) || s.places < 0) errors.push('stats.places 必须是非负数')
+    const cats = Object.entries(s?.byCategory ?? {})
+    if (cats.some(([k, v]) => !CATEGORIES.includes(k) || !isNum(v) || v < 0)) errors.push('stats.byCategory 的类别或数量无效')
+  }
   return { errors, warnings }
 }
 

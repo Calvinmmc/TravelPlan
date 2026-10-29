@@ -5,7 +5,8 @@ import Sidebar from './components/sidebar/Sidebar'
 import Itinerary from './components/itinerary/Itinerary'
 import MapView from './components/map/MapView'
 import MapErrorBoundary from './components/map/MapErrorBoundary'
-import ExploreView from './components/explore/ExploreView'
+import Dashboard from './components/home/Dashboard'
+import CountryView from './components/home/CountryView'
 import DestinationView from './components/explore/DestinationView'
 import SharedTripView from './components/share/SharedTripView'
 
@@ -26,8 +27,10 @@ export default function App() {
       <Sidebar route={route} />
       {route.name === 'shared' ? (
         <SharedTripView payload={route.payload} />
-      ) : route.name === 'explore' ? (
-        <ExploreView />
+      ) : route.name === 'home' ? (
+        <Dashboard />
+      ) : route.name === 'country' ? (
+        <CountryView code={route.code} />
       ) : route.name === 'destination' ? (
         <DestinationView slug={route.slug} />
       ) : trip ? (

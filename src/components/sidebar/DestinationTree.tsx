@@ -53,9 +53,14 @@ export default function DestinationTree({ route }: { route: Route }) {
             {open &&
               g.countries.map((c) => (
                 <div key={c.countryCode} className={showContinent ? 'pl-3' : ''}>
-                  <div className="px-2 pb-0.5 pt-1.5 text-xs text-stone-400">
+                  <a
+                    href={routeHref({ name: 'country', code: c.countryCode })}
+                    className={`block rounded-md px-2 pb-0.5 pt-1.5 text-xs hover:text-stone-700 ${
+                      route.name === 'country' && route.code === c.countryCode ? 'font-semibold text-stone-700' : 'text-stone-400'
+                    }`}
+                  >
                     {flagEmoji(c.countryCode)} {c.country}
-                  </div>
+                  </a>
                   {c.destinations.map((d) => (
                     <a
                       key={d.slug}
