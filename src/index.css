@@ -31,3 +31,12 @@ body, .place-marker, .place-popup { font-family: "Twemoji Country Flags", ui-san
 .place-popup-title { font-weight: 600; font-size: 14px; color: #1c1917; padding-right: 12px; }
 .place-popup-sub { color: #a8a29e; font-size: 12px; }
 .place-popup a { color: #2e86ab; text-decoration: underline; }
+
+/* 导出长图 / 打印：文档渲染在屏幕外（见 ExportDialog），打印时只显示它 */
+.print-area { position: fixed; left: -10000px; top: 0; width: 640px; background: #fff; }
+@media print {
+  #root { display: none !important; }
+  html, body { height: auto !important; background: #fff !important; }
+  .print-area { position: static !important; width: auto !important; }
+  @page { margin: 12mm; }
+}

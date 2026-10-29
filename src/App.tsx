@@ -7,6 +7,7 @@ import MapView from './components/map/MapView'
 import MapErrorBoundary from './components/map/MapErrorBoundary'
 import ExploreView from './components/explore/ExploreView'
 import DestinationView from './components/explore/DestinationView'
+import SharedTripView from './components/share/SharedTripView'
 
 export default function App() {
   const loaded = useTripStore((s) => s.loaded)
@@ -23,7 +24,9 @@ export default function App() {
   return (
     <div className="flex h-full">
       <Sidebar route={route} />
-      {route.name === 'explore' ? (
+      {route.name === 'shared' ? (
+        <SharedTripView payload={route.payload} />
+      ) : route.name === 'explore' ? (
         <ExploreView />
       ) : route.name === 'destination' ? (
         <DestinationView slug={route.slug} />

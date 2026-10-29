@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import maplibregl from 'maplibre-gl'
-import { createMap, fitToPoints } from '../../lib/map'
+import { addRouteLayers, createMap, fitToPoints, setRoutes, type RouteSegment } from '../../lib/map'
 
 export interface MapPoint {
   id: string
@@ -27,6 +27,8 @@ interface Props {
   fitKey: string
   /** 缩放时要框住的点，默认全部；可以排除出发城市机场这类远点 */
   fitPoints?: { lng: number; lat: number }[]
+  /** 可选：连线（如行程路线） */
+  routes?: RouteSegment[]
   maxZoom?: number
 }
 
@@ -63,7 +65,7 @@ function popupContent({ title, subtitle, lines, link }: MapPoint['popup']) {
 }
 
 /** 展示一组地点的地图（目的地总览、目的地调研地点），点击标记选中并弹出详情 */
-export default function PlacesMap({ points, selectedId, onSelect, fitKey, fitPoints, maxZoom = 15 }: Props) {
+export default function PlacesMap({ points, selectedId, onSelect, fitKey, fitPoints, routes, maxZoom = 15 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null)
   const mapRef = useRef<maplibregl.Map | null>(null)
   const markersRef = useRef(new Map<string, maplibregl.Marker>())
@@ -74,7 +76,10 @@ export default function PlacesMap({ points, selectedId, onSelect, fitKey, fitPoi
 
   useEffect(() => {
     const { map, dispose } = createMap(containerRef.current!)
-    map.once('style.load', () => setReady(true))
+    map.once('style.load', () => {
+      addRouteLayers(map)
+      setReady(true)
+    })
     map.on('click', () => onSelectRef.current(null))
     mapRef.current = map
     return () => {
@@ -83,6 +88,12 @@ export default function PlacesMap({ points, selectedId, onSelect, fitKey, fitPoi
       mapRef.current = null
     }
   }, [])
+
+  // 连线
+  useEffect(() => {
+    const map = mapRef.current
+    if (map && ready) setRoutes(map, routes ?? [])
+  }, [routes, ready])
 
   // 标记
   useEffect(() => {

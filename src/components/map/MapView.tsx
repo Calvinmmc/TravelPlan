@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import maplibregl, { type GeoJSONSource } from 'maplibre-gl'
-import { DASHED_TRANSPORT, type Trip } from '../../types'
+import maplibregl from 'maplibre-gl'
+import type { Trip } from '../../types'
 import { useTripStore } from '../../store/useTripStore'
 import { dayColor } from '../../lib/colors'
 import { reverseGeocode } from '../../lib/geocode'
-import { createMap, fitToPoints } from '../../lib/map'
+import { addRouteLayers, createMap, fitToPoints, setRoutes, tripSegments } from '../../lib/map'
 
 export default function MapView({ trip }: { trip: Trip }) {
   const containerRef = useRef<HTMLDivElement>(null)
@@ -33,31 +33,7 @@ export default function MapView({ trip }: { trip: Trip }) {
 
     // 样式就绪即可叠加路线和标记，不必等底图瓦片全部下载完（网络慢时 load 事件会很晚）
     map.once('style.load', () => {
-      map.addSource('routes', { type: 'geojson', data: { type: 'FeatureCollection', features: [] } })
-      map.addLayer({
-        id: 'routes-casing',
-        type: 'line',
-        source: 'routes',
-        layout: { 'line-join': 'round', 'line-cap': 'round' },
-        paint: { 'line-color': '#fff', 'line-width': 7, 'line-opacity': 0.9 },
-      })
-      map.addLayer({
-        id: 'routes-line',
-        type: 'line',
-        source: 'routes',
-        filter: ['!=', ['get', 'dashed'], true],
-        layout: { 'line-join': 'round', 'line-cap': 'round' },
-        paint: { 'line-color': ['get', 'color'], 'line-width': 4 },
-      })
-      // 飞机/船：虚线
-      map.addLayer({
-        id: 'routes-dashed',
-        type: 'line',
-        source: 'routes',
-        filter: ['==', ['get', 'dashed'], true],
-        layout: { 'line-join': 'round' },
-        paint: { 'line-color': ['get', 'color'], 'line-width': 3, 'line-dasharray': [2, 2] },
-      })
+      addRouteLayers(map)
       setReady(true)
     })
 
@@ -88,29 +64,7 @@ export default function MapView({ trip }: { trip: Trip }) {
   // 路线 + 标记
   useEffect(() => {
     const map = mapRef.current
-    const source = map?.getSource('routes') as GeoJSONSource | undefined
-    if (!map || !ready || !source) return
-
-    source.setData({
-      type: 'FeatureCollection',
-      // 每段单独一条线，按到达方式决定实线/虚线
-      features: visibleDays.flatMap(({ day, color }) =>
-        day.stops.slice(1).map((stop, i) => {
-          const prev = day.stops[i]
-          return {
-            type: 'Feature' as const,
-            properties: { color, dashed: !!stop.transport && DASHED_TRANSPORT.includes(stop.transport) },
-            geometry: {
-              type: 'LineString' as const,
-              coordinates: [
-                [prev.lng, prev.lat],
-                [stop.lng, stop.lat],
-              ],
-            },
-          }
-        }),
-      ),
-    })
+    if (!map || !ready || !setRoutes(map, tripSegments(visibleDays.map(({ day, color }) => ({ stops: day.stops, color }))))) return
 
     const markers = markersRef.current
     markers.forEach((m) => m.remove())
