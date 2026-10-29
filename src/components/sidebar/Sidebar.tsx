@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react'
 import { useTripStore } from '../../store/useTripStore'
 import { addDays, today } from '../../lib/date'
+import { libraryTrips } from '../../lib/library'
 import type { Trip } from '../../types'
 
 export default function Sidebar() {
@@ -128,6 +129,22 @@ export default function Sidebar() {
           >
             ＋ 新建行程
           </button>
+        )}
+
+        {libraryTrips.length > 0 && (
+          <div className="mt-4">
+            <div className="px-2 pb-1 text-xs font-semibold text-stone-400">📚 示例行程（点击添加一份）</div>
+            {libraryTrips.map(({ slug, trip }) => (
+              <button
+                key={slug}
+                title={`${trip.startDate} → ${trip.endDate}`}
+                onClick={() => importTrip(trip)}
+                className="w-full truncate rounded-md px-2 py-1.5 text-left text-sm text-stone-500 hover:bg-stone-200/60"
+              >
+                {trip.name}
+              </button>
+            ))}
+          </div>
         )}
       </nav>
 

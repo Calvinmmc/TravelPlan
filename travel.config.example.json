@@ -1,0 +1,12 @@
+{
+  "_说明": "复制为 travel.config.json 后按自己的情况修改。/plan-trip 会用这里的值作为默认参数，对话里说的优先。travel.config.json 不会提交到 git。",
+  "origin": "上海",
+  "driverLicense": "中国大陆",
+  "travelers": { "adults": 2, "children": 0, "childrenAges": [] },
+  "budget": "舒适",
+  "homeCurrency": "CNY",
+  "pace": "适中",
+  "interests": ["美食", "购物", "自然风光"],
+  "avoid": [],
+  "notes": ""
+}
