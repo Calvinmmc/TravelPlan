@@ -3,7 +3,7 @@ export type Transport = 'walk' | 'transit' | 'drive' | 'bike' | 'train' | 'ferry
 export const TRANSPORT_LABELS: Record<Transport, string> = {
   walk: '🚶 步行',
   transit: '🚇 公交/地铁',
-  drive: '🚗 驾车',
+  drive: '🚗 驾车/打车',
   bike: '🚲 骑行',
   train: '🚄 火车',
   ferry: '⛴️ 船',

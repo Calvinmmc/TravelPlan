@@ -1,7 +1,7 @@
 import { create } from 'zustand'
 import type { Day, Stop, Trip } from '../types'
 import { db } from '../lib/db'
-import { uid } from '../lib/id'
+import { uid, withFreshIds } from '../lib/id'
 import { dateRange } from '../lib/date'
 import { demoTrip } from '../lib/seed'
 
@@ -138,7 +138,8 @@ export const useTripStore = create<TripState>((set, get) => {
       ),
 
     importTrip: (trip) => {
-      const copy: Trip = { ...trip, id: uid(), updatedAt: Date.now() }
+      // 全部重新生成 id：同一个文件导入两次，或文件里用了 d1-s1 这类简单 id，都不会冲突
+      const copy = withFreshIds(trip)
       set((s) => ({ trips: [copy, ...s.trips], currentTripId: copy.id, selectedStopId: null, dayFilter: null }))
       persist(copy)
     },

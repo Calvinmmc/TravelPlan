@@ -1,0 +1,2808 @@
+{
+  "destination": "冲绳",
+  "slug": "okinawa",
+  "part": "merged",
+  "travelMonth": "2026-12",
+  "generatedAt": "2026-10-28",
+  "places": [
+    {
+      "id": "churaumi-aquarium",
+      "category": "sight",
+      "name": "冲绳美丽海水族馆",
+      "localName": "沖縄美ら海水族館 (Okinawa Churaumi Aquarium)",
+      "area": "北部",
+      "lat": 26.6944,
+      "lng": 127.878,
+      "price": {
+        "min": 2180,
+        "max": 2180,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "成人个人票，含税；20人以上团体 ¥1,730"
+      },
+      "hours": "10–2月 8:30–18:30（17:30 停止入馆）",
+      "duration": "2.5–3小时",
+      "tags": [
+        "必去",
+        "雨天可去"
+      ],
+      "tips": "官网称到 2027-03-31 无计划休馆（台风等临时休馆除外），年末年初照常营业。官网未列出 16 点后优惠票。冲酱剧场·海豚表演 2027-01-04 至 01-09 暂停，12 月不受影响。工作人员可能要求出示证件。",
+      "sources": [
+        "https://churaumi.okinawa/guide/info/",
+        "https://churaumi.okinawa/guide/hour/",
+        "https://churaumi.okinawa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "shurijo-castle",
+      "category": "sight",
+      "name": "首里城公园",
+      "localName": "首里城 (Shurijo Castle)",
+      "area": "那霸",
+      "lat": 26.217,
+      "lng": 127.7194,
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2026-11-23 起的新价（原 ¥400）；高中生 ¥760，中小学生 ¥370，6岁以下免费"
+      },
+      "hours": "12–3月 收费区 8:30–18:00（17:30 最后入场）；免费区 8:00–18:30",
+      "duration": "1.5–2小时",
+      "tags": [
+        "必去",
+        "世界遗产",
+        "需预约"
+      ],
+      "tips": "复原后的正殿 2026-11-23 起公开，进正殿须预约 30 分钟时段（Webket：https://webket.jp/pc/ticket/index?fc=00471&ac=8001），每次付款最多 9 张；正殿以外的收费区无需预约。11-23 至 12-31 的票已在 9-1 和 10-1 13:00 分两批开卖，12 月上旬可能所剩不多。当天有空位时，开场前 15 分钟为止可在 Webket 或广福门售票处购买。官方预计 11-23 至 12-06 极为拥挤（此期间不接团体进正殿）。2026-11-22 全园闭园。北殿、南殿等其他建筑之后分阶段复原。",
+      "sources": [
+        "https://oki-park.jp/shurijo/ticket_guide/",
+        "https://oki-park.jp/shurijo/info/15/",
+        "https://travel.watch.impress.co.jp/docs/news/2133105.html",
+        "https://ryukyushimpo.jp/prtimes/entry-5460622.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "manzamo",
+      "category": "sight",
+      "name": "万座毛",
+      "localName": "万座毛 (Cape Manzamo)",
+      "area": "恩纳",
+      "lat": 26.505,
+      "lng": 127.8503,
+      "price": {
+        "min": 100,
+        "max": 100,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "大人小孩同价，学龄前免费"
+      },
+      "hours": "11–2月 8:00–19:00（日落即结束参观，可能提前关闭）",
+      "duration": "30–45分钟",
+      "tags": [
+        "必去",
+        "日落"
+      ],
+      "tips": "全年无休，台风等自然灾害时可能关闭。停车费官网未写，可致电 098-966-8080 询问。",
+      "sources": [
+        "https://www.manzamo.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kouri-bridge",
+      "category": "sight",
+      "name": "古宇利大桥",
+      "localName": "古宇利大橋 (Kouri Bridge)",
+      "area": "北部",
+      "lat": 26.6866,
+      "lng": 128.0173,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "通行免费"
+      },
+      "duration": "30分钟",
+      "tags": [
+        "免费",
+        "必去"
+      ],
+      "tips": "连接屋我地岛与古宇利岛，全长 1,960 m（也有资料写 2,020 m），2005 年通车。桥头有免费停车的观景台，也可以步行上桥。",
+      "sources": [
+        "https://www.airtrip.jp/travel-column/13758",
+        "https://www.openstreetmap.org/way/64181932"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kouri-island",
+      "category": "sight",
+      "name": "古宇利岛",
+      "localName": "古宇利島 (Kouri Island)",
+      "area": "北部",
+      "lat": 26.7043,
+      "lng": 128.0181,
+      "duration": "1–2小时",
+      "tags": [
+        "海滩"
+      ],
+      "tips": "有古宇利海滩、古宇利之驿「ソラハシ」。岛北侧海滩有心形石（Heart Rock），「恋之岛」的别称由此而来。坐标为岛屿中心。",
+      "sources": [
+        "https://www.airtrip.jp/travel-column/13758",
+        "https://www.openstreetmap.org/relation/5012699"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "american-village",
+      "category": "shopping",
+      "name": "美浜 American Village / Depot Island",
+      "localName": "美浜アメリカンビレッジ・デポアイランド (Mihama American Village)",
+      "area": "中部",
+      "lat": 26.3162,
+      "lng": 127.7567,
+      "hours": "各店不同（未查到统一营业时间）",
+      "duration": "2–3小时",
+      "tags": [
+        "美式街区",
+        "日落",
+        "烟火"
+      ],
+      "tips": "2026年12月北谷烟火均为20:00开始：12/5、12/12、12/19、12/24、12/25、12/26，免费观看，强风时可能取消。Depot Island 地址为北谷町美浜9-1。",
+      "sources": [
+        "https://www.openstreetmap.org/node/4443303792",
+        "https://ja.wikipedia.org/wiki/美浜アメリカンビレッジ",
+        "https://www.depot-island.co.jp/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "cape-maeda-blue-cave",
+      "category": "sight",
+      "name": "真荣田岬 · 青之洞窟",
+      "localName": "真栄田岬・青の洞窟 (Cape Maeda / Blue Cave)",
+      "area": "恩纳",
+      "lat": 26.4463,
+      "lng": 127.7714,
+      "hours": "停车场 12–3月约 7:00–18:00（另一来源写 7–19 时、1/1–1/3 休）",
+      "duration": "2–3小时（参团浮潜）",
+      "tags": [
+        "浮潜"
+      ],
+      "tips": "坐标为岬角，青之洞窟观景点约在 26.4428, 127.7736。停车场 180 个车位，每小时 ¥100。洞窟是否开放看当天旗色：蓝旗开放；黄旗只允许潜水店带的团；红/橙旗关闭。洞窟关闭时，很多团会改去附近的 Maeda Flats。冬季（12–2 月）必须穿湿衣；有攻略认为最佳季节是 5–10 月。浪大或有波浪警报时禁止游泳和跳水。当天海况可问管理事务所 098-982-5339。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80043197",
+        "https://okinawa-labo.com/en/Okinawa-Blue-House-3808",
+        "https://www.jeepe.jp/ja/articles/okinawa-blue-cave-snorkeling-diving-2150",
+        "https://www.openstreetmap.org/node/8302889844"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "okinawa-world-gyokusendo",
+      "category": "sight",
+      "name": "冲绳世界 · 玉泉洞",
+      "localName": "おきなわワールド・玉泉洞 (Okinawa World / Gyokusendo Cave)",
+      "area": "南部",
+      "lat": 26.1394,
+      "lng": 127.7504,
+      "price": {
+        "min": 2000,
+        "max": 2000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "成人入园费；官网另有网上预售票"
+      },
+      "hours": "9:00–17:30（16:00 最后受理）",
+      "duration": "3–5小时",
+      "tags": [
+        "雨天可去"
+      ],
+      "tips": "官网建议游览 3–5 小时。表演刚结束时玉泉洞入口可能拥挤。夏季限定的洞窟探险团（7/18–9/30）12 月没有。",
+      "sources": [
+        "https://www.gyokusendo.co.jp/okinawaworld/fee/",
+        "https://www.gyokusendo.co.jp/okinawaworld/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nakijin-castle",
+      "category": "sight",
+      "name": "今归仁城迹",
+      "localName": "今帰仁城跡 (Nakijin Castle Ruins)",
+      "area": "北部",
+      "lat": 26.6915,
+      "lng": 127.9291,
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2025-09-01 起的成人价；10人以上团体 ¥800"
+      },
+      "hours": "12月（通常期）8:00–18:00（17:30 最后入场）",
+      "duration": "1小时",
+      "tags": [
+        "世界遗产"
+      ],
+      "tips": "全年开放。旧攻略写的 ¥400 / ¥600 已过时。",
+      "sources": [
+        "https://www.nakijinjoseki-osi.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "sefa-utaki",
+      "category": "sight",
+      "name": "斋场御岳",
+      "localName": "斎場御嶽 (Sefa-utaki)",
+      "area": "南部",
+      "lat": 26.1724,
+      "lng": 127.8264,
+      "price": {
+        "min": 600,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网成人（16岁以上）价；有二手资料写 ¥300，以官网为准"
+      },
+      "hours": "11–2月 9:00–17:30（16:45 停止售票，17:00 最后入场）",
+      "duration": "1小时",
+      "tags": [
+        "世界遗产"
+      ],
+      "tips": "门口不卖票，要先到约 500 m 外的南城市地域物产馆买票。2026 年休息日为 6/15–17 和 11/9–11，12 月照常开放。据琉球新报 2026-10-24 报道，当地 DMO 正研究最迟明年改为「全程导览制」，届时票价和参观方式可能变化。",
+      "sources": [
+        "https://sefa.okinawa/en/",
+        "https://www.walkerplus.com/spot/ar1047s05558/data.html",
+        "https://ryukyushimpo.jp/economics/entry-5574092.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "naminoue-shrine",
+      "category": "sight",
+      "name": "波上宫",
+      "localName": "波上宮 (Naminoue Shrine)",
+      "area": "那霸",
+      "lat": 26.2206,
+      "lng": 127.6711,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内自由参观"
+      },
+      "hours": "授与所约 9:00–17:00，无休",
+      "duration": "30分钟",
+      "tags": [
+        "免费"
+      ],
+      "tips": "祈祷受理时间另有规定，以当天告示为准。电话 098-868-3697。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80042428",
+        "https://www.openstreetmap.org/way/1337981786"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "katsuren-castle",
+      "category": "sight",
+      "name": "胜连城迹",
+      "localName": "勝連城跡 (Katsuren Castle Ruins)",
+      "area": "中部",
+      "lat": 26.3305,
+      "lng": 127.879,
+      "price": {
+        "min": 600,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Amawari Park 套票（城迹+设施）；没有城迹单独门票；小孩 ¥400"
+      },
+      "hours": "城迹约 9:00–18:00（闭城前 30 分钟停止入场）；Amawari Park 9:00–17:30，各来源略有出入",
+      "duration": "1–1.5小时",
+      "tags": [
+        "世界遗产"
+      ],
+      "tips": "基本全年无休，年末年初可能有特别休业。营业时间以官方为准。",
+      "sources": [
+        "https://www.kkday.com/product/172948",
+        "https://www.mapple.net/region/a0705000000_g04030308/spot/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "bise-fukugi-road",
+      "category": "sight",
+      "name": "备濑福木林道",
+      "localName": "備瀬のフクギ並木 (Bise Fukugi Tree Road)",
+      "area": "北部",
+      "lat": 26.7028,
+      "lng": 127.8806,
+      "duration": "30–60分钟",
+      "tags": [
+        "散步"
+      ],
+      "tips": "坐标是 OSM 上备濑集落中一个未命名的景点标记，不一定是林道入口。在美丽海水族馆北边，两地很近。",
+      "sources": [
+        "https://www.openstreetmap.org/node/5895799085"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "umikaji-terrace",
+      "category": "sight",
+      "name": "濑长岛 Umikaji Terrace",
+      "localName": "瀬長島ウミカジテラス (Umikaji Terrace)",
+      "area": "南部",
+      "lat": 26.1767,
+      "lng": 127.6406,
+      "duration": "1–2小时",
+      "tags": [
+        "日落"
+      ],
+      "tips": "在那霸机场南边的濑长岛。本文件只核实了坐标（OSM），没有核实营业时间。",
+      "sources": [
+        "https://www.openstreetmap.org/node/6833302685"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "aharen-beach",
+      "category": "sight",
+      "name": "阿波连海滩（渡嘉敷岛）",
+      "localName": "阿波連ビーチ (Aharen Beach, Tokashiki)",
+      "area": "庆良间",
+      "lat": 26.1691,
+      "lng": 127.3472,
+      "duration": "半天–1天",
+      "tags": [
+        "浮潜",
+        "海滩"
+      ],
+      "tips": "当天往返坐高速船：泊港 9:00→渡嘉敷 9:40，回程 17:00→17:40（冬季时刻表 2026-10-01 至 2027-02-28）。渡轮只有 10:00 去、15:30 回，当天往返太赶。12 月：庆良间 12 月平均气温约 19°C；11–2 月北风强、常有风浪，有攻略写「不适合游泳」。下水要穿湿衣（有业者说在旺季以外长时间下水会冷），船也可能停航。从港口到海滩的交通方式和票价未核实。",
+      "sources": [
+        "https://okinawa-kankospot.com/en/ferries/tokashiki",
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en",
+        "https://weather.time-j.net/Climate/Chart/Kerama",
+        "https://www.his-j.com/okinawa/op/activity/detail/?opid=1061",
+        "https://www.openstreetmap.org/relation/6982081"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "furuzamami-beach",
+      "category": "sight",
+      "name": "古座间味海滩（座间味岛）",
+      "localName": "古座間味ビーチ (Furuzamami Beach, Zamami)",
+      "area": "庆良间",
+      "lat": 26.2237,
+      "lng": 127.3087,
+      "duration": "半天–1天",
+      "tags": [
+        "浮潜",
+        "海滩"
+      ],
+      "tips": "泊港坐高速船 Queen Zamami 约 50 分钟（经阿嘉岛约 70 分钟），渡轮约 2 小时。12 月北风强，常有风浪。座间味是观鲸据点，但 2025–26 季观鲸团到 1-08 才开始（预定到 3-25），往年最早约 12 月底，12 月上旬基本看不到鲸鱼。观鲸协会电话 098-896-4141。",
+      "sources": [
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en",
+        "https://ryukyushimpo.jp/tag/ホエールウオッチング",
+        "https://www.bepal.net/play/sea/30435",
+        "https://www.openstreetmap.org/relation/6963548"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "irabu-bridge",
+      "category": "sight",
+      "name": "伊良部大桥",
+      "localName": "伊良部大橋 (Irabu Bridge)",
+      "area": "宫古岛",
+      "lat": 24.7967,
+      "lng": 125.2395,
+      "duration": "30分钟",
+      "tags": [
+        "必去"
+      ],
+      "tips": "连接宫古岛与伊良部岛，过桥后经伊良部岛可到下地岛（17END）。坐标为桥中段（OSM）。桥长、是否收费，本文件未找到来源核实。",
+      "sources": [
+        "https://www.openstreetmap.org/way/325806590"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yonaha-maehama-beach",
+      "category": "sight",
+      "name": "与那霸前滨海滩",
+      "localName": "与那覇前浜ビーチ (Yonaha Maehama Beach)",
+      "area": "宫古岛",
+      "lat": 24.736,
+      "lng": 125.2612,
+      "duration": "1–2小时",
+      "tags": [
+        "海滩",
+        "必去"
+      ],
+      "tips": "12 月：冬季宫古攻略称 11–12 月平均气温约 23–25°C，12 月白天约 22°C。冬季有东北季风。",
+      "sources": [
+        "https://www.openstreetmap.org/way/1007334733",
+        "https://www.veltra.com/jp/yokka/article/miyako_hidden_winter/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "higashi-hennazaki",
+      "category": "sight",
+      "name": "东平安名崎",
+      "localName": "東平安名崎 (Cape Higashi-hennazaki)",
+      "area": "宫古岛",
+      "lat": 24.7188,
+      "lng": 125.4691,
+      "price": {
+        "min": 300,
+        "max": 300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "登平安名埼灯台（初中以上；小学以下免费）；岬角本身免费"
+      },
+      "hours": "岬角全天开放；灯塔参观时间未核实",
+      "duration": "1小时",
+      "tags": [
+        "必去"
+      ],
+      "tips": "灯塔可以登顶（约 100 级台阶），日本最南的可参观灯塔之一。免费停车约 50 个车位。从宫古机场开车约 35 分钟，出租车约 30 分钟、约 ¥3,500。灯塔票价来自二手资料。",
+      "sources": [
+        "https://tabi-mag.jp/on0079/",
+        "https://www.gltjp.com/zh-hant/directory/item/16203/",
+        "https://www.veltra.com/jp/guide/?p=80202",
+        "https://www.openstreetmap.org/node/1441709260"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "sunayama-beach",
+      "category": "sight",
+      "name": "砂山海滩",
+      "localName": "砂山ビーチ (Sunayama Beach)",
+      "area": "宫古岛",
+      "lat": 24.8394,
+      "lng": 125.2806,
+      "duration": "1小时",
+      "tags": [
+        "海滩"
+      ],
+      "tips": "本文件只核实了坐标（OSM）。拱形岩、是否有救生员等信息未核实。",
+      "sources": [
+        "https://www.openstreetmap.org/way/496244201"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "17end-shimojishima",
+      "category": "sight",
+      "name": "17END（下地岛）",
+      "localName": "17END (Shimojishima Airport RW17 end)",
+      "area": "宫古岛",
+      "lat": 24.839,
+      "lng": 125.145,
+      "duration": "1小时",
+      "tags": [
+        "海滩"
+      ],
+      "tips": "坐标为估计：按下地岛机场跑道北端推算。17END 是下地岛机场北端跑道旁的海滩，地址为宫古岛市伊良部。北侧 17END 路段禁止车辆通行，要从机场停车场步行（有攻略写从机场步行约 40 分钟）。机场一般停车场 299 个车位，出入时间 7:00–20:30（2025-04-16 更新），周末常满。沙洲只在退潮时露出，去之前查潮汐。",
+      "sources": [
+        "https://www.pref.okinawa.jp/machizukuri/kowankuko/1012617/1012639/1012642/index.html",
+        "https://www.gltjp.com/ja/directory/item/17522/",
+        "https://tabi-mag.jp/on0084/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yabiji-reef",
+      "category": "sight",
+      "name": "八重干濑（Yabiji 珊瑚礁群）",
+      "localName": "八重干瀬 (Yabiji)",
+      "area": "宫古岛",
+      "lat": 25.0091,
+      "lng": 125.2889,
+      "duration": "半天（约4小时团）",
+      "tags": [
+        "浮潜"
+      ],
+      "tips": "只能跟船团前往（从池间港、伊良部岛等地出发）。有业者「全年出团」，冬季也有半日行程，会按当天天气和风向调整集合地点或取消。礁区大面积露出水面主要在春夏，12 月看不到。坐标为 OSM 礁区标点。",
+      "sources": [
+        "https://www.veltra.com/jp/japan/okinawa/miyako_island/a/170164",
+        "https://www.veltra.com/jp/japan/okinawa/miyako_island/a/183555",
+        "https://www.openstreetmap.org/node/8609437923"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ikema-bridge",
+      "category": "sight",
+      "name": "池间大桥",
+      "localName": "池間大橋 (Ikema Bridge)",
+      "area": "宫古岛",
+      "lat": 24.9201,
+      "lng": 125.2604,
+      "duration": "30分钟",
+      "tags": [],
+      "tips": "连接宫古岛与池间岛。本文件只核实了坐标（OSM），桥长未核实。",
+      "sources": [
+        "https://www.openstreetmap.org/way/1289915833"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "naha-airport",
+      "category": "transport",
+      "name": "那霸机场 · 单轨那霸空港站",
+      "localName": "那覇空港 / ゆいレール那覇空港駅 (Naha Airport, OKA)",
+      "area": "那霸",
+      "lat": 26.2065,
+      "lng": 127.6522,
+      "tags": [
+        "机场",
+        "单轨"
+      ],
+      "tips": "坐标为单轨那霸空港站。单轨从这里开往终点てだこ浦西站。飞宫古有 JTA（日航系）和 ANA，约 45–55 分钟，每天多班。上海直飞走国际线。航站楼购物见 stay-shop 的 naha-airport-terminal。",
+      "sources": [
+        "https://www.openstreetmap.org/way/324129153",
+        "https://www.yui-rail.co.jp/ticketinfo-ticket/ticketinfo/ticket/",
+        "https://travelist.jp/airport_MMY/airport_OKA/airline_ANA/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "asahibashi-station",
+      "category": "transport",
+      "name": "单轨旭桥站",
+      "localName": "旭橋駅 (Asahibashi Sta., Yui Rail)",
+      "area": "那霸",
+      "lat": 26.2119,
+      "lng": 127.6755,
+      "tags": [
+        "单轨"
+      ],
+      "tips": "OSM 显示站旁有巴士总站（バスターミナル）方向的出口。",
+      "sources": [
+        "https://www.openstreetmap.org/node/6540547645"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kenchomae-station",
+      "category": "transport",
+      "name": "单轨县厅前站",
+      "localName": "県庁前駅 (Kenchomae Sta., Yui Rail)",
+      "area": "那霸",
+      "lat": 26.2144,
+      "lng": 127.6793,
+      "tags": [
+        "单轨"
+      ],
+      "tips": "国际通西端（县厅前一侧）的车站。",
+      "sources": [
+        "https://www.openstreetmap.org/node/6540547646",
+        "https://www.jalan.net/kankou/spt_47201aj2200024177/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "omoromachi-station",
+      "category": "transport",
+      "name": "单轨おもろまち站",
+      "localName": "おもろまち駅 (Omoromachi Sta., Yui Rail)",
+      "area": "那霸",
+      "lat": 26.2228,
+      "lng": 127.6984,
+      "tags": [
+        "单轨"
+      ],
+      "tips": "T Galleria（DFS）附近，周边有 ORIX、Sky Rental 等租车点（只适用于持合规驾照的人）。",
+      "sources": [
+        "https://www.openstreetmap.org/node/6540583670",
+        "https://www.nta.co.jp/activity/rental_car/okinawa/okinawa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "shuri-station",
+      "category": "transport",
+      "name": "单轨首里站",
+      "localName": "首里駅 (Shuri Sta., Yui Rail)",
+      "area": "那霸",
+      "lat": 26.2192,
+      "lng": 127.7256,
+      "tags": [
+        "单轨"
+      ],
+      "tips": "去首里城一般在这站下车，到城门的步行时间未核实。",
+      "sources": [
+        "https://www.openstreetmap.org/node/6540583676"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "tomari-port-tomarin",
+      "category": "transport",
+      "name": "泊港 · Tomarin 客运站",
+      "localName": "泊港 とまりん (Tomari Port / Tomarin)",
+      "area": "那霸",
+      "lat": 26.2237,
+      "lng": 127.6838,
+      "tags": [
+        "码头",
+        "需预约"
+      ],
+      "tips": "去渡嘉敷、座间味的船都从这里出发。渡嘉敷船出发前 2 个月起可在官方门户 https://tokashiki-ferry.jp/Senpaku/portal 网上预约；船票只在乘船当天出票，开船前 30 分钟买好、前 10 分钟登船。去程回程坐不同船型时，往返票不适用，要在各自码头分别买单程。车辆不能网上订，10:00–17:00 电话预约。座间味船在座间味村官网预约，旺季可能提前 2 个月售罄，需要护照号码等信息。",
+      "sources": [
+        "https://tokashiki-ferry.jp/Senpaku/portal",
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en",
+        "https://www.openstreetmap.org/way/53652748"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "tokashiki-port",
+      "category": "transport",
+      "name": "渡嘉敷港",
+      "localName": "渡嘉敷港 (Tokashiki Port)",
+      "area": "庆良间",
+      "lat": 26.1991,
+      "lng": 127.3695,
+      "tags": [
+        "码头"
+      ],
+      "tips": "冬季时刻表（2026-10-01 至 2027-02-28）：高速船 Marine Liner 泊港 9:00、16:00 出发（约 40 分钟），渡嘉敷 10:00、17:00 回程；渡轮 Ferry Tokashiki 泊港 10:00→11:10，渡嘉敷 15:30→16:40。10–11 月有加开、停航的日子，要看当天运行状态。环境协力税每人 ¥100（高中以上），登船时收取。咨询：渡嘉敷村船舶课那霸事务所 098-868-7541。坐标为 OSM 名为「渡嘉敷港」的点，不是客运站大楼本身。",
+      "sources": [
+        "https://okinawa-kankospot.com/en/ferries/tokashiki",
+        "https://tokashiki-ferry.jp/Senpaku/portal",
+        "https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf",
+        "https://www.openstreetmap.org/node/5885063593"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "zamami-port",
+      "category": "transport",
+      "name": "座间味港客运站",
+      "localName": "座間味港フェリーターミナル (Zamami Port)",
+      "area": "庆良间",
+      "lat": 26.2266,
+      "lng": 127.302,
+      "tags": [
+        "码头"
+      ],
+      "tips": "泊港高速船 Queen Zamami 每天 2–3 班，直航约 50 分钟、经阿嘉岛约 70 分钟；渡轮每天 1 班，约 2 小时。退票：7 天前免费，6–2 天前收 30%，前一天收 50%，当天收 100%；因天气停航全额退款。",
+      "sources": [
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en",
+        "https://www.openstreetmap.org/way/93259723"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "miyako-airport",
+      "category": "transport",
+      "name": "宫古机场",
+      "localName": "宮古空港 (Miyako Airport, MMY)",
+      "area": "宫古岛",
+      "lat": 24.7828,
+      "lng": 125.2962,
+      "tags": [
+        "机场"
+      ],
+      "tips": "那霸↔宫古：JTA 约 45 分钟、ANA 约 50 分钟，每天多班。出租车到平良市区约 15 分钟、¥1,500–2,000，到东平安名崎约 30 分钟、约 ¥3,500。宫古岛市有网约车，周五、周六 16:00 至次日 5:00 运营。",
+      "sources": [
+        "https://www.openstreetmap.org/way/57015910",
+        "https://travelist.jp/airport_MMY/airport_OKA/airline_ANA/",
+        "https://www.nap-camp.com/mag/108152",
+        "https://www.veltra.com/jp/guide/?p=80202",
+        "https://ryukyushimpo.jp/tag/タクシー"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shimojishima-airport",
+      "category": "transport",
+      "name": "下地岛机场",
+      "localName": "下地島空港 (Shimojishima Airport, SHI)",
+      "area": "宫古岛",
+      "lat": 24.8245,
+      "lng": 125.1468,
+      "tags": [
+        "机场"
+      ],
+      "tips": "一般停车场 299 个车位，出入时间 7:00–20:30（2025-04-16 更新），周末常满。17END 在机场北端，只能步行前往。2026-01 的旅游问答提到很多租车公司不在下地岛机场接送。那霸是否有直飞下地岛的航班未核实。",
+      "sources": [
+        "https://www.pref.okinawa.jp/machizukuri/kowankuko/1012617/1012639/1012642/index.html",
+        "https://4travel.jp/dm_qa_each-86264.html",
+        "https://www.openstreetmap.org/way/57015909"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "shanghai-pudong-airport",
+      "category": "transport",
+      "name": "上海浦东国际机场",
+      "localName": "上海浦东国际机场 (Shanghai Pudong, PVG)",
+      "area": "上海",
+      "lat": 31.1427,
+      "lng": 121.8041,
+      "tags": [
+        "机场",
+        "出发地"
+      ],
+      "tips": "浦东↔那霸直飞：东方航空（MU）、春秋航空（9C），飞行约 2 小时 25 分钟–2 小时 40 分钟。第三方数据（2026-09）显示每周约 3–4 班，东航 9:50 从 T1 出发，春秋 10:35 从 T2 出发。吉祥航空据称 2024-11 已停飞该航线。春秋自 2025-12-20 起停售浦东–冲绳每日第 2 班。2026/27 冬春航季（2026-10-25 至 2027-03-27）的实际班表要以航司官网为准。",
+      "sources": [
+        "https://www.directflights.com/PVG-OKA",
+        "https://www.skyscanner.com/routes/pvg/oka/shanghai-pudong-to-okinawa-naha.html",
+        "https://news.ifeng.com/c/8oURAyHVOwV",
+        "https://www.openstreetmap.org/relation/19842271"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "kokusai-dori",
+      "category": "shopping",
+      "name": "国际通",
+      "localName": "国際通り (Kokusai-dori)",
+      "area": "那霸",
+      "lat": 26.2153,
+      "lng": 127.6846,
+      "hours": "各店不同；每周日 12:00–18:00 为步行街",
+      "duration": "2–3小时",
+      "tags": [
+        "伴手礼",
+        "街区",
+        "步行街"
+      ],
+      "tips": "全长约1.6km（县厅前到安里三岔路），约600家店，集中买伴手礼最方便，价格是标准游客价。坐标为街道西段的地图标点。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_47201aj2200024177/",
+        "https://www.jalan.net/kankou/spt_guide000000191995/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "heiwa-dori",
+      "category": "shopping",
+      "name": "平和通 / 市场本通商店街",
+      "localName": "平和通り・市場本通り (Heiwa-dori arcades)",
+      "area": "那霸",
+      "lat": 26.215,
+      "lng": 127.6887,
+      "hours": "各店不同",
+      "duration": "1–2小时",
+      "tags": [
+        "伴手礼",
+        "拱廊商店街",
+        "本地价"
+      ],
+      "tips": "以本地顾客为主，衣物、食品、杂货较便宜，能淘到少见的东西；有百年琉球玻璃老店久場川屋（くば笠屋）本店。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_47201aj2200025764/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "makishi-public-market",
+      "category": "shopping",
+      "name": "第一牧志公设市场",
+      "localName": "那覇市第一牧志公設市場 (Makishi Public Market)",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6883,
+      "hours": "8:00–22:00（各店不同），2楼食堂约至20:00最后点餐；第4个周日休（多数资料写12月除外）",
+      "duration": "1–2小时",
+      "tags": [
+        "市场",
+        "海鲜",
+        "代客加工"
+      ],
+      "tips": "2023年3月在原址重新开业。1楼买海鲜可拿到2楼食堂代加工。12月第4个周日是否营业各来源说法不一，去前确认。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/第一牧志公設市場",
+        "https://rurubu.jp/andmore/spot/80042438",
+        "https://www.gltjp.com/ja/directory/item/13361/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "t-galleria-okinawa",
+      "category": "shopping",
+      "name": "T Galleria 冲绳 by DFS",
+      "localName": "Tギャラリア 沖縄 by DFS",
+      "area": "那霸",
+      "lat": 26.2226,
+      "lng": 127.6979,
+      "hours": "10:00–20:00（季节、店铺不同；じゃらん写11:00开门），全年无休",
+      "duration": "1–2小时",
+      "tags": [
+        "免税",
+        "奢侈品",
+        "化妆品",
+        "冲绳特定免税"
+      ],
+      "tips": "紧邻单轨おもろまち站，有免费停车服务。适用冲绳特定免税：从那霸机场（国内线、国际线）或宫古机场、下地岛机场（国内线）出发均可，年满18岁、个人自用，在机场柜台提货。",
+      "sources": [
+        "https://www.walkerplus.com/spot/ar1047s576265/data.html",
+        "https://www.jalan.net/kankou/spt_guide000000215970/",
+        "https://www.dfs.com/en/okinawa/terms-and-conditions-okinawa/general-article-japan"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "naha-main-place",
+      "category": "shopping",
+      "name": "San-A 那霸 Main Place",
+      "localName": "サンエー那覇メインプレイス (San-A Naha Main Place)",
+      "area": "那霸",
+      "lat": 26.2257,
+      "lng": 127.6952,
+      "hours": "9:00–22:00（食品馆至23:00），无休",
+      "duration": "1–2小时",
+      "tags": [
+        "购物中心",
+        "超市",
+        "伴手礼"
+      ],
+      "tips": "停车位约2,500个。超市里的冲绳点心、黑糖、泡盛是本地价，适合批量买。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/サンエー那覇メインプレイス",
+        "https://rurubu.jp/andmore/spot/80042591"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "naha-airport-terminal",
+      "category": "shopping",
+      "name": "那霸机场旅客航站楼",
+      "localName": "那覇空港旅客ターミナル (Naha Airport)",
+      "area": "那霸",
+      "lat": 26.2065,
+      "lng": 127.6507,
+      "hours": "设施时间：国内线区域 6:00–24:00，国际线区域 6:00–22:00（各店不同）",
+      "duration": "1小时",
+      "tags": [
+        "机场",
+        "伴手礼",
+        "DFS"
+      ],
+      "tips": "国内线2楼出发大厅集中了大量伴手礼店；国内线候机区内有 DFS；国际线与国内线之间的连接设施内有商业街「ゆいにちストリート」。坐标为国内线航站楼1楼观光案内所。设施时间来源为2021年规程，偏旧。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/那覇空港",
+        "https://www.cab.mlit.go.jp/wcab/file/nahar3.3.25.pdf",
+        "https://www.jalan.net/kankou/spt_47201aa1030000649/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ashibinaa-outlet",
+      "category": "shopping",
+      "name": "冲绳奥特莱斯 Ashibinaa",
+      "localName": "沖縄アウトレットモール あしびなー (Okinawa Outlet Mall Ashibinaa)",
+      "area": "豊崎",
+      "lat": 26.1589,
+      "lng": 127.6569,
+      "hours": "10:00–20:00（餐饮店各异）",
+      "duration": "2小时",
+      "tags": [
+        "奥特莱斯",
+        "品牌折扣",
+        "离机场近"
+      ],
+      "tips": "107家店，约1,000个车位。2026年1月22日开了冲绳首家 Anker 直营奥特莱斯店。适合自驾日还车前顺路逛。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/沖縄アウトレットモールあしびなー",
+        "https://www.triptojapan.com/ja/places/okinawa-outlet-mall-ashibinaa/crziMRn4RrSP2Zik4NRc7w",
+        "https://www.phileweb.com/news/d-av/202601/14/64296.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "iias-okinawa-toyosaki",
+      "category": "shopping",
+      "name": "iias 冲绳豊崎",
+      "localName": "イーアス沖縄豊崎 (iias Okinawa Toyosaki)",
+      "area": "豊崎",
+      "lat": 26.1575,
+      "lng": 127.6504,
+      "hours": "10:00–21:00（部分店铺 9:00 开门或营业到 23:00）",
+      "duration": "2小时",
+      "tags": [
+        "购物中心",
+        "离机场近",
+        "水族馆"
+      ],
+      "tips": "约3,000个车位。内有 DMM かりゆし水族館、AEON Style、Loft、Bic Camera、优衣库、GU、大创。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/イーアス沖縄豊崎",
+        "https://livejapan.com/en/in-japan/spot-lj0137760"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "aeon-mall-okinawa-rycom",
+      "category": "shopping",
+      "name": "AEON Mall 冲绳 Rycom",
+      "localName": "イオンモール沖縄ライカム (AEON Mall Okinawa Rycom)",
+      "area": "中部",
+      "lat": 26.3142,
+      "lng": 127.7957,
+      "hours": "专卖店 10:00–22:00；餐厅 11:00–23:00；AEON Style 2F 8:00–23:00、3F/4F 9:00–22:00",
+      "duration": "2–3小时",
+      "tags": [
+        "购物中心",
+        "北上顺路"
+      ],
+      "tips": "约4,000个车位。自驾北部来回可顺路。台风时可能临时提前关门。",
+      "sources": [
+        "https://okinawarycom.aeonmall.jp/",
+        "https://ja.wikipedia.org/wiki/イオンモール沖縄ライカム",
+        "https://okinawahai.com/?p=24269"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "miyako-public-market",
+      "category": "shopping",
+      "name": "宫古岛市公设市场",
+      "localName": "宮古島市公設市場 (Miyakojima City Public Market)",
+      "area": "宫古岛",
+      "lat": 24.804,
+      "lng": 125.2787,
+      "hours": "8:00–21:00（各店不同，休息日也各店不同）",
+      "duration": "30分钟–1小时",
+      "tags": [
+        "市场",
+        "宫古牛",
+        "便当"
+      ],
+      "tips": "在平良市区，规模小，上午部分店铺可能没开；便当和熟食便宜，适合买宫古牛。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_guide000000185006/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shima-no-eki-miyako",
+      "category": "shopping",
+      "name": "岛之驿 宫古",
+      "localName": "島の駅みやこ (Shima no Eki Miyako)",
+      "area": "宫古岛",
+      "lat": 24.7959,
+      "lng": 125.2743,
+      "hours": "10–3月 9:00–18:00，4–9月 9:00–19:00，全年无休",
+      "duration": "1小时",
+      "tags": [
+        "伴手礼",
+        "特产",
+        "免费停车"
+      ],
+      "tips": "在伊良部大桥附近的平良久贝，免费停车（约46个车位）。雪盐商品、泡盛、黑糖点心、宫古荞麦面齐全，有美食区。宫古机场2楼有分店（10:00–18:00）。有资料写7:30开门，与其他来源不一致。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_guide000000218953/",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1803025",
+        "https://www.ana.co.jp/ja/es/japan-travel-planner/okinawa/0000015.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yukishio-museum",
+      "category": "shopping",
+      "name": "雪盐博物馆",
+      "localName": "雪塩ミュージアム (Yukishio Museum)",
+      "area": "宫古岛",
+      "lat": 24.9022,
+      "lng": 125.2684,
+      "hours": "9:00–17:00（冬季）；夏季至18:00或18:30（来源不一），无休",
+      "duration": "30分钟–1小时",
+      "tags": [
+        "雪盐",
+        "免费参观",
+        "伴手礼"
+      ],
+      "tips": "地址平良狩俣191，在池间大桥前，离宫古机场约30分钟车程，免费入场。可以吃雪盐冰淇淋，商店有雪盐相关和馆内限定商品。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80129718",
+        "https://www.mapple.net/article/30858/",
+        "https://www.jalan.net/kankou/spt_alikejpB001196171/map/",
+        "https://www.gltjp.com/en/directory/item/13727/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "the-nest-naha",
+      "category": "lodging",
+      "name": "THE NEST 那霸",
+      "localName": "THE NEST NAHA",
+      "area": "那霸",
+      "lat": 26.2127,
+      "lng": 127.6723,
+      "price": {
+        "min": 14000,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示约7,000日元/人起，按2人1间换算；快照日期不明，不是12月实价"
+      },
+      "tags": [
+        "经济",
+        "停车：1,800日元/天",
+        "旭桥站步行约5分钟",
+        "2025年7月开业"
+      ],
+      "tips": "那霸西1丁目，旭桥/港区一带；14楼有22米恒温无边泳池。",
+      "sources": [
+        "https://www.jalan.net/yad305301/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "daiwa-roynet-omoromachi-premier",
+      "category": "lodging",
+      "name": "Daiwa Roynet 那霸おもろまち PREMIER",
+      "localName": "ダイワロイネットホテル那覇おもろまちPREMIER",
+      "area": "那霸",
+      "lat": 26.2246,
+      "lng": 127.696,
+      "price": {
+        "min": 13500,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2人双床纯住宿约13,500起，含早约15,500起；快照日期不明"
+      },
+      "tags": [
+        "经济",
+        "停车：1,100日元/晚",
+        "おもろまち站步行约6分钟"
+      ],
+      "tips": "离 T Galleria 和 San-A Main Place 很近，到国际通步行约15分钟。",
+      "sources": [
+        "https://www.jalan.net/yad325896/",
+        "https://www.jalan.net/yad325896/kuchikomi/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-collective",
+      "category": "lodging",
+      "name": "Hotel Collective",
+      "localName": "ホテルコレクティブ (Hotel Collective)",
+      "area": "那霸",
+      "lat": 26.2152,
+      "lng": 127.6855,
+      "price": {
+        "min": 21200,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约21,200起；快照日期不明"
+      },
+      "tags": [
+        "中档",
+        "停车：1,800日元/晚（立体停车场）",
+        "国际通沿街"
+      ],
+      "tips": "那霸松尾2-5-7，在国际通上；周日12:00–18:00步行街期间，车辆只能从浮岛通进出。有大浴场和泳池。",
+      "sources": [
+        "https://www.jalan.net/yad382520/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hyatt-regency-naha",
+      "category": "lodging",
+      "name": "Hyatt Regency 那霸冲绳",
+      "localName": "ハイアット リージェンシー 那覇 沖縄 (Hyatt Regency Naha Okinawa)",
+      "area": "那霸",
+      "lat": 26.2144,
+      "lng": 127.6902,
+      "price": {
+        "min": 22950,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约22,950起；快照日期不明"
+      },
+      "tags": [
+        "高档",
+        "停车：1,500日元/晚",
+        "国际通步行3分钟"
+      ],
+      "tips": "牧志3-6-20，牧志站步行约8分钟，离机场车程约20分钟；有室外泳池，早餐评价高。",
+      "sources": [
+        "https://www.jalan.net/yad373185/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "royal-park-iconic-naha",
+      "category": "lodging",
+      "name": "The Royal Park Hotel Iconic 那霸",
+      "localName": "ザ ロイヤルパークホテル アイコニック 那覇",
+      "area": "那霸",
+      "lat": 26.2144,
+      "lng": 127.6786,
+      "price": {
+        "min": 19040,
+        "max": 28120,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん排行显示约9,520日元/人起（2人1间约19,040）；开业纪念方案（适用2026/1/30–7/31）2人含早28,120起。都不是12月实价"
+      },
+      "tags": [
+        "高档",
+        "停车：1,800日元/晚",
+        "县厅前站步行约2分钟",
+        "2026年1月开业"
+      ],
+      "tips": "久茂地1-11-1，琉球银行新总部大楼7–13楼，257间客房。泳池只在3–11月开放，12月用不了。",
+      "sources": [
+        "https://www.jalan.net/yad376067/",
+        "https://www.fashion-press.net/news/130406"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "vessel-campana-okinawa",
+      "category": "lodging",
+      "name": "Vessel Hotel Campana 冲绳",
+      "localName": "ベッセルホテルカンパーナ沖縄 (Vessel Hotel Campana Okinawa)",
+      "area": "中部",
+      "lat": 26.3151,
+      "lng": 127.7542,
+      "tags": [
+        "中档",
+        "停车：免费（页面乱码，待确认）",
+        "北谷美浜",
+        "大浴场"
+      ],
+      "tips": "在北谷美浜，日落海滩前，离那霸机场约40分钟；有展望大浴场、桑拿和屋顶泳池。房价未查到。",
+      "sources": [
+        "https://www.jalan.net/yad306902/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hilton-okinawa-chatan",
+      "category": "lodging",
+      "name": "Hilton 冲绳北谷",
+      "localName": "ヒルトン沖縄北谷リゾート (Hilton Okinawa Chatan Resort)",
+      "area": "中部",
+      "lat": 26.3194,
+      "lng": 127.7545,
+      "price": {
+        "min": 37042,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约37,042起；快照日期不明"
+      },
+      "tags": [
+        "高档",
+        "停车：2026-05-15起收费，约500日元（金额待确认）",
+        "北谷美浜"
+      ],
+      "tips": "美浜40-1，步行可到 American Village 和海滩，离那霸机场约40分钟。隔壁是 DoubleTree by Hilton 冲绳北谷。",
+      "sources": [
+        "https://www.jalan.net/yad308366/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-monterey-okinawa",
+      "category": "lodging",
+      "name": "Hotel Monterey 冲绳 Spa & Resort",
+      "localName": "ホテルモントレ沖縄 スパ＆リゾート (Hotel Monterey Okinawa Spa & Resort)",
+      "area": "恩纳",
+      "lat": 26.4537,
+      "lng": 127.8057,
+      "price": {
+        "min": 26600,
+        "max": 29400,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "排行页显示13,300日元/人起（2人约26,600），方案页显示2人29,400起；快照日期不明"
+      },
+      "tags": [
+        "中档",
+        "停车：500日元/天",
+        "全海景",
+        "4个泳池"
+      ],
+      "tips": "恩纳村冨着1550-1，经冲绳自动车道离那霸机场约60分钟，339间客房，有大浴场。",
+      "sources": [
+        "https://www.jalan.net/yad311816/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hyatt-regency-seragaki-island",
+      "category": "lodging",
+      "name": "Hyatt Regency 濑良垣岛冲绳",
+      "localName": "ハイアット リージェンシー 瀬良垣アイランド 沖縄 (Hyatt Regency Seragaki Island Okinawa)",
+      "area": "恩纳",
+      "lat": 26.512,
+      "lng": 127.8689,
+      "price": {
+        "min": 40200,
+        "max": 71800,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん不同快照显示2人约40,200–71,800；另收度假费330日元/人（6岁以上）"
+      },
+      "tags": [
+        "高档",
+        "停车：1,000日元/天（另有约2,000日元/天选项）",
+        "小岛度假村"
+      ],
+      "tips": "整座小岛都是酒店范围，有桥连到本岛；离那霸机场约90分钟车程。",
+      "sources": [
+        "https://www.jalan.net/yad383182/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "orion-hotel-motobu",
+      "category": "lodging",
+      "name": "Orion Hotel Motobu Resort & Spa",
+      "localName": "オリオンホテル モトブ リゾート＆スパ",
+      "area": "本部",
+      "lat": 26.6992,
+      "lng": 127.8794,
+      "price": {
+        "min": 61710,
+        "max": 194480,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "11/27–11/28 快照（应为2026年），2人含早：海景豪华房61,710、高层海景85,800、小套房104,545、皇家套房194,480"
+      },
+      "tags": [
+        "高档",
+        "停车：约1,000日元（按天还是按次说法不一）",
+        "紧邻美丽海水族馆"
+      ],
+      "tips": "本部町备濑148-1，步行约7分钟到美丽海水族馆；有温泉，是 JUNGLIA 冲绳的合作酒店。",
+      "sources": [
+        "https://www.jalan.net/yad307948/",
+        "https://jcation.com/hotel/detail-2269/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "royal-view-hotel-churaumi",
+      "category": "lodging",
+      "name": "Royal View Hotel 美丽海",
+      "localName": "ロイヤルビューホテル美ら海 (Royal View Hotel Churaumi)",
+      "area": "本部",
+      "lat": 26.6953,
+      "lng": 127.8793,
+      "tags": [
+        "中档",
+        "停车：费用未查到",
+        "步行5分钟到水族馆"
+      ],
+      "tips": "本部町石川938；经许田IC离那霸机场约1小时47分钟。房价未查到。",
+      "sources": [
+        "https://www.jalan.net/yad346870/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-atollemerald-miyakojima",
+      "category": "lodging",
+      "name": "Hotel Atoll Emerald 宫古岛",
+      "localName": "ホテルアトールエメラルド宮古島 (Hotel Atollemerald Miyakojima)",
+      "area": "宫古岛",
+      "lat": 24.8056,
+      "lng": 125.2747,
+      "price": {
+        "min": 15800,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人纯住宿约15,800起；快照日期不明"
+      },
+      "tags": [
+        "中档",
+        "停车：免费（据じゃらん）",
+        "平良市区"
+      ],
+      "tips": "平良下里108-7，离宫古机场约13分钟、下地岛机场约20分钟；海景好，建筑较旧。",
+      "sources": [
+        "https://www.jalan.net/yad362861/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hilton-okinawa-miyako",
+      "category": "lodging",
+      "name": "Hilton 冲绳宫古岛",
+      "localName": "ヒルトン沖縄宮古島リゾート (Hilton Okinawa Miyako Island Resort)",
+      "area": "宫古岛",
+      "lat": 24.8013,
+      "lng": 125.2591,
+      "tags": [
+        "高档",
+        "停车：约300个车位，代客泊车约1,000日元（待确认）",
+        "免费机场接驳"
+      ],
+      "tips": "平良久贝550-7（トゥリバー地区），离宫古机场约15分钟、下地岛机场约25分钟，有宫古机场免费接驳巴士。2026年4月隔壁新开了 Canopy by Hilton（306间）。房价只查到外币快照，没有写入。",
+      "sources": [
+        "https://www.jalan.net/yad353775/",
+        "https://travel.watch.impress.co.jp/docs/news/2062341.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "iraph-sui-miyako",
+      "category": "lodging",
+      "name": "Iraph SUI, a Luxury Collection Hotel, 冲绳宫古",
+      "localName": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+      "area": "宫古岛",
+      "lat": 24.8093,
+      "lng": 125.1889,
+      "price": {
+        "min": 91000,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "Best Rate 方案（含晚餐和早餐）2人约91,000起；快照日期不明"
+      },
+      "tags": [
+        "高档",
+        "停车：有，费用未查到",
+        "伊良部岛",
+        "免费机场接送"
+      ],
+      "tips": "在伊良部大桥桥头，58间客房；离下地岛机场约10分钟、宫古机场约35分钟；两个机场都有免费接送，需提前3天预约。",
+      "sources": [
+        "https://www.jalan.net/yad377836/",
+        "https://www.jalan.net/yad377836/qa/0006312191.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "miyakojima-tokyu-hotel",
+      "category": "lodging",
+      "name": "宫古岛东急酒店",
+      "localName": "宮古島東急ホテル&リゾーツ (Miyakojima Tokyu Hotel & Resorts)",
+      "area": "宫古岛",
+      "lat": 24.7413,
+      "lng": 125.2622,
+      "tags": [
+        "高档",
+        "停车：费用未查到",
+        "与那霸前滨海滩"
+      ],
+      "tips": "下地与那霸914，紧邻与那霸前滨海滩，离宫古机场约10分钟。房价没有可靠来源，未写入。",
+      "sources": [
+        "https://www.jalan.net/yad347149/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "jacks-steak-house",
+      "category": "food",
+      "name": "杰克牛排馆",
+      "localName": "Jack's Steak House / ジャッキーステーキハウス",
+      "area": "那霸",
+      "lat": 26.2129,
+      "lng": 127.6725,
+      "price": {
+        "min": 1500,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Gurunavi 午晚均价约 ¥2,000，Savor Japan 约 ¥1,500；菲力 L 250g ¥3,800（年份不明）"
+      },
+      "hours": "11:00–22:00；定休日来源冲突（周三休 / 仅元旦、旧盆休）",
+      "tags": [
+        "美式牛排",
+        "菲力牛排",
+        "老字号"
+      ],
+      "tips": "旭桥站步行约 5–8 分钟。是否接受预约未核实，去之前电话确认 098-868-2408。",
+      "sources": [
+        "https://gurunavi.com/en/f159100/rst",
+        "https://rurubu.jp/andmore/spot/80042587",
+        "https://travel.navitime.com/en/area/jp/spot/02301-1300749"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "steak-house-88-kokusai",
+      "category": "food",
+      "name": "88 牛排馆 国际通店",
+      "localName": "Steak House 88 Kokusai-dori / ステーキハウス88 国際通り店",
+      "area": "那霸",
+      "lat": 26.2163,
+      "lng": 127.6885,
+      "price": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "TableCheck：国际通店 午 ¥1,500 / 晚 ¥2,500，西口店 午 ¥2,500 / 晚 ¥3,000；石垣牛、和牛另计"
+      },
+      "hours": "11:00–23:00（LO 22:00）",
+      "tags": [
+        "牛排",
+        "石垣牛",
+        "可网上预约"
+      ],
+      "tips": "可在 TableCheck 预约。国际通一带有多家 88 分店，此坐标是 OSM 上国际通沿线的一家，未确认是否为牧志 3-1-6 的国际通店。",
+      "sources": [
+        "https://www.tablecheck.com/steakhouse88-kokusaidori",
+        "https://www.tablecheck.com/steakhouse88-kokusaidori-nishiguchi",
+        "https://digjapan.travel/en/spot/id=8535"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "makishi-public-market-2f",
+      "category": "food",
+      "name": "第一牧志公设市场（2F 代客料理）",
+      "localName": "第一牧志公設市場 / Makishi Public Market",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6883,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每道（代煮费）",
+        "note": "第三方 2026 指南：一般烹调约 ¥500/道，蒸、盐烤、煮龙虾或虾 ¥600–800，炒、炸 ¥700–1,000；食材在 1F 另按时价购买"
+      },
+      "tags": [
+        "海鲜",
+        "夜光贝",
+        "龙虾",
+        "代客料理（持ち上げ）"
+      ],
+      "tips": "在 1F 买海鲜，拿到 2F 餐厅代煮，食材和代煮费分别付款。新馆 2023 年 3 月在原址重开。营业时间未核实。",
+      "sources": [
+        "https://japanactivity.com/makishi-public-market-guide"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tomari-iyumachi",
+      "category": "food",
+      "name": "泊港鱼市场",
+      "localName": "泊いゆまち / Tomari Iyumachi",
+      "area": "那霸",
+      "lat": 26.2301,
+      "lng": 127.6802,
+      "price": {
+        "min": 1100,
+        "max": 1100,
+        "currency": "JPY",
+        "unit": "每份刺身",
+        "note": "仅一条 Trip.com 游记提到一份刺身 ¥1,100，未注明日期"
+      },
+      "hours": "6:00–18:00（另有说法约 16:00 收摊；各摊卖完即止）",
+      "tags": [
+        "刺身",
+        "金枪鱼",
+        "部分摊位只收现金"
+      ],
+      "tips": "早去。座位很少，多数人外带或在车里吃。电话 098-868-1096。",
+      "sources": [
+        "https://www.oki-islandguide.com/attractions/tomari-iyumachi-fish-market",
+        "https://uk.trip.com/moments/poi-tomariiyumachi-30762049",
+        "https://www.komoot.com/highlight/7126293"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "yunangi",
+      "category": "food",
+      "name": "ゆうなんぎい（冲绳家庭料理）",
+      "localName": "ゆうなんぎい / Yunangi",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6819,
+      "price": {
+        "min": 570,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "冲绳面 ¥570 起（年份不明）"
+      },
+      "hours": "12:00–15:00 / 17:30–22:30；休息日未查到",
+      "tags": [
+        "拉夫泰",
+        "苦瓜炒",
+        "排骨面",
+        "排队"
+      ],
+      "tips": "县厅前站步行约 5 分钟，开门前就有人排队。午餐单点会配米饭、腌菜、味噌汤成定食。电话 098-867-3765。",
+      "sources": [
+        "https://www.deep-exp.com/cn/okinawa/spot/1872"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "urizun",
+      "category": "food",
+      "name": "うりずん（安里）",
+      "localName": "うりずん / Urizun",
+      "area": "那霸",
+      "lat": 26.2174,
+      "lng": 127.6964,
+      "hours": "17:30–23:00 或 24:00；第 2、4 周日休 / 全年无休（来源冲突）",
+      "tags": [
+        "ドゥル天（田芋饼）",
+        "泡盛",
+        "居酒屋",
+        "可预约"
+      ],
+      "tips": "ドゥル天的发源店，泡盛覆盖全县各酒厂，另有自酿古酒。安里站步行即到，无停车场。电话预约 098-885-2178。",
+      "sources": [
+        "https://gurunavi.com/en/fazp100/rst",
+        "https://en.okinawatraveler.net/okinawa-ryukyuryouri"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shuri-soba",
+      "category": "food",
+      "name": "首里そば",
+      "localName": "首里そば / Shuri Soba",
+      "area": "那霸",
+      "lat": 26.2175,
+      "lng": 127.7228,
+      "price": {
+        "min": 500,
+        "max": 500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "首里そば中碗 ¥500，年份不明，现价可能更高"
+      },
+      "hours": "11:30–14:00（另说 14:30），卖完即止；周四、周日休",
+      "tags": [
+        "冲绳面",
+        "卖完即止"
+      ],
+      "tips": "限量供应，常在 14 点前卖完。OSM 上有两处同名点，此处取赤田町一带那个，需复核。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80042467",
+        "https://www.gltjp.com/ja/directory/item/13454/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "ganaha-butanikuten",
+      "category": "food",
+      "name": "我那覇豚肉店",
+      "localName": "我那覇豚肉店 / Ganaha Butanikuten",
+      "area": "那霸",
+      "lat": 26.2197,
+      "lng": 127.6849,
+      "price": {
+        "min": 3388,
+        "max": 3828,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "120 分钟吃到饱：山原豚 ¥3,388 / 阿古猪 ¥3,828（含税）；饮料放题另加 ¥1,958"
+      },
+      "tags": [
+        "阿古猪涮涮锅",
+        "吃到饱",
+        "需预约"
+      ],
+      "tips": "吃到饱需提前一天预约。价格来自 Retty 上的 2 号店（カフーナ旭橋），坐标是 OSM 上沖映大通り的本店。营业时间未查到；页面上有两个电话（098-868-1358 / 098-863-5380），需确认。",
+      "sources": [
+        "https://retty.me/restaurant/100000808299/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ryukyu-no-ushi-kokusai",
+      "category": "food",
+      "name": "琉球之牛 国际通店",
+      "localName": "焼肉 琉球の牛 那覇国際通り / Ryukyu no Ushi",
+      "area": "那霸",
+      "lat": 26.2163,
+      "lng": 127.6892,
+      "tags": [
+        "冲绳和牛烤肉",
+        "需预约"
+      ],
+      "tips": "县内 4 家店（那霸 2 家、北谷、恩纳）。价格未查到，点评站标为偏高。建议预约。",
+      "sources": [
+        "https://www.funliday.com/pois/27054272",
+        "https://www.funliday.com/posts/okinawa-yakiniku/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "sennichi",
+      "category": "food",
+      "name": "千日（冰善哉）",
+      "localName": "千日 / Sennichi",
+      "area": "那霸",
+      "lat": 26.2177,
+      "lng": 127.6733,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "两个 listing 分别写 ¥500 和预算 ¥1,000，均无年份"
+      },
+      "hours": "11:30–20:00（冬季至 19:00）；周一休",
+      "tags": [
+        "冰善哉",
+        "只收现金"
+      ],
+      "tips": "1962 年开业的老店。旭桥站步行约 10 分钟。电话 098-868-5387。",
+      "sources": [
+        "https://www.gltjp.com/en/directory/item/13465/",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1800031/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "itoman-gyomin-shokudo",
+      "category": "food",
+      "name": "糸满渔民食堂",
+      "localName": "糸満漁民食堂 / Itoman Gyomin Shokudo",
+      "area": "糸满",
+      "lat": 26.1394,
+      "lng": 127.6561,
+      "price": {
+        "min": 1000,
+        "max": 2000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Savor Japan 均价：午 ¥1,000 / 晚 ¥2,000（年份不明）；当日鱼黄油煎定食约 ¥1,300（时价）"
+      },
+      "hours": "午 11:30–LO 14:30，晚 18:00–LO 21:30；周二休（旧资料）",
+      "tags": [
+        "鱼黄油煎（イマイユ）",
+        "鱼汁",
+        "海鲜"
+      ],
+      "tips": "坐标为估计（按西崎町 4 丁目）。找到的最新报道是 2020 年，当前是否营业需先电话确认 098-992-7277。",
+      "sources": [
+        "https://savorjapan.com/0006057203",
+        "https://allabout.co.jp/gm/gc/446327",
+        "https://ryukyushimpo.jp/gourmet/entry-1122689.html"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "itoman-osakana-center",
+      "category": "food",
+      "name": "糸满渔协 鱼中心",
+      "localName": "糸満漁業協同組合 お魚センター / Itoman Fish Market",
+      "area": "糸满",
+      "lat": 26.1381,
+      "lng": 127.6614,
+      "hours": "约 9:00–18:00",
+      "tags": [
+        "刺身",
+        "海鲜",
+        "鱼市场"
+      ],
+      "tips": "在道之驿糸满后方，距那霸机场约 15 分钟车程。仓库里有 10 多个鲜鱼摊和熟食摊。",
+      "sources": [
+        "https://www.gltjp.com/en/article/item/10694/",
+        "https://hamoni.jp/en/area/okinawa/itoman/shops"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "blue-seal-makiminato",
+      "category": "food",
+      "name": "Blue Seal 牧港本店",
+      "localName": "ブルーシール 牧港本店 / Blue Seal Makiminato",
+      "area": "中部",
+      "lat": 26.2674,
+      "lng": 127.7214,
+      "price": {
+        "min": 380,
+        "max": 380,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "单球 ¥380、双球 ¥640 是国际通店的数据（年份不明）；本店限定 7 球加软冰淇淋圣代 ¥2,500"
+      },
+      "tags": [
+        "冰淇淋",
+        "紫芋",
+        "盐金楚糕"
+      ],
+      "tips": "2024 年翻新。本店单球价格未查到。电话 098-877-8258。",
+      "sources": [
+        "https://san-tatsu.jp/spots/442661/",
+        "https://mom-mom.net/en/travel/places/66f669f09a5ba4cd8509222f"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "aw-makiminato",
+      "category": "food",
+      "name": "A&W 牧港店",
+      "localName": "A&W Makiminato",
+      "area": "中部",
+      "lat": 26.2667,
+      "lng": 127.7284,
+      "hours": "6:00–26:00（2025 年 9 月资料）；drive-in 时段更短",
+      "tags": [
+        "root beer",
+        "汉堡",
+        "drive-in"
+      ],
+      "tips": "坐标为估计：取的是 OSM 上浦添 58 号沿线的 A&W，未确认是否为牧港店（牧港 4-9-1）。价格未查到。",
+      "sources": [
+        "https://digjapan.travel/en/blog/id=12706"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hamaya-soba-chatan",
+      "category": "food",
+      "name": "浜屋冲绳面（北谷）",
+      "localName": "そば専門店 浜屋 / Hamaya Soba",
+      "area": "中部",
+      "lat": 26.3293,
+      "lng": 127.7444,
+      "tags": [
+        "软骨排骨面",
+        "冲绳面"
+      ],
+      "tips": "北谷宫城海岸附近。营业时间、价格未查到。",
+      "sources": [
+        "https://www.mapple.net/region/a0705010301/spot/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "king-tacos-kin",
+      "category": "food",
+      "name": "King Tacos 金武本店",
+      "localName": "キングタコス 金武本店 / King Tacos Kin",
+      "area": "北部",
+      "lat": 26.455,
+      "lng": 127.922,
+      "price": {
+        "min": 950,
+        "max": 950,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "起司蔬菜塔可饭 2025-03-20 起由 ¥800 调到 ¥950（2026 年 1 月确认）"
+      },
+      "hours": "10:30 开门；关门时间来源冲突（21:00 / 1:00）",
+      "tags": [
+        "塔可饭",
+        "发源店",
+        "分量大"
+      ],
+      "tips": "坐标为估计（金武町 Camp Hansen 门前一带）。塔可饭由 Matsuzo Gibo 1984 年创制，Parlor Senri 已关，由家人在 King Tacos 延续。",
+      "sources": [
+        "https://www.pricey.jp/web/articles/4745",
+        "https://www.visitkintown.jp/en/spot/king-tacos-kin-main-branch",
+        "https://en.wikipedia.org/wiki/Taco_rice"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "seaside-drive-in",
+      "category": "food",
+      "name": "Seaside Drive-in（恩纳）",
+      "localName": "シーサイドドライブイン / Seaside Drive-in",
+      "area": "北部",
+      "lat": 26.4425,
+      "lng": 127.8035,
+      "price": {
+        "min": 550,
+        "max": 2600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "シーサイドサンド ¥550、チャップステーキ ¥1,500、炖牛尾 ¥2,600；招牌汤 ¥200（均无年份）"
+      },
+      "hours": "店内 8:00–20:00，外带 24 小时；周三休（遇节假日会调整）",
+      "tags": [
+        "美式汽车餐厅",
+        "招牌汤"
+      ],
+      "tips": "电话 098-964-2272，或看官方 SNS 确认。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80043229",
+        "https://www.mapple.net/article/49566/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "ryukyu-no-ushi-onna",
+      "category": "food",
+      "name": "琉球之牛 恩纳本馆",
+      "localName": "焼肉 琉球の牛 恩納本館 / Ryukyu no Ushi Onna",
+      "area": "北部",
+      "lat": 26.4519,
+      "lng": 127.8056,
+      "tags": [
+        "冲绳和牛烤肉",
+        "12 部位拼盘",
+        "和牛握寿司",
+        "需预约"
+      ],
+      "tips": "半包间式座位，建议预约。价格未查到。北谷店坐标 26.3204, 127.7538。",
+      "sources": [
+        "https://www.funliday.com/posts/okinawa-yakiniku/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kishimoto-shokudo",
+      "category": "food",
+      "name": "岸本食堂 本店",
+      "localName": "きしもと食堂 / Kishimoto Shokudo",
+      "area": "北部",
+      "lat": 26.6603,
+      "lng": 127.8959,
+      "price": {
+        "min": 500,
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "旧资料：冲绳面 ¥500 起；Tabelog 评价人均约 ¥999"
+      },
+      "hours": "11:00–17:30（另说 17:00），周三休；八重岳分店 11:00–19:00 无休",
+      "tags": [
+        "冲绳面",
+        "老店"
+      ],
+      "tips": "本部渡久地，可顺路去美丽海水族馆。电话：本店 0980-47-2887，八重岳店 0980-47-6608。",
+      "sources": [
+        "https://oki-islandguide.com/food_and_drink/kishimoto-shokudo",
+        "https://foodle.pro/restaurants/motobu/kishimoto-shokudo",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1800229/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "arakaki-zenzai",
+      "category": "food",
+      "name": "新垣善哉屋",
+      "localName": "新垣ぜんざい屋 / Arakaki Zenzaiya",
+      "area": "北部",
+      "lat": 26.6606,
+      "lng": 127.8958,
+      "price": {
+        "min": 300,
+        "max": 300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "善哉 ¥300（mapple，无年份；更早资料为 ¥250）"
+      },
+      "hours": "12:00–18:00，卖完即止；周一休（仅一个来源）",
+      "tags": [
+        "善哉刨冰",
+        "只收现金",
+        "卖完即止"
+      ],
+      "tips": "本部町渡久地，和岸本食堂相距很近。2025 年 7 月仍有人去过。",
+      "sources": [
+        "https://digjapan.travel/en/spot/id=8511",
+        "https://www.mapple.net/region/a0705010000_g03040300/spot/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "motobu-bokujo-motobu",
+      "category": "food",
+      "name": "本部牧场烤肉 本部店",
+      "localName": "焼肉 もとぶ牧場 もとぶ店 / Yakiniku Motobu Bokujo",
+      "area": "北部",
+      "lat": 26.6579,
+      "lng": 127.8854,
+      "price": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Gurunavi：午 ¥1,500 / 晚 ¥3,000（评论多为 2019–20 年），现价可能更高"
+      },
+      "hours": "11:30–15:00（LO 14:00）/ 17:00–22:00（LO 21:30）",
+      "tags": [
+        "本部牛",
+        "烤肉",
+        "牛排"
+      ],
+      "tips": "电话 0980-51-6777。Hamoni 写的地址不同，分店需确认。那霸也有分店（OSM 坐标 26.2153, 127.6794）。",
+      "sources": [
+        "https://gurunavi.com/en/f556000/rev/rst"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "shirasa-shokudo",
+      "category": "food",
+      "name": "しらさ食堂（古宇利岛）",
+      "localName": "しらさ食堂 / Shirasa Shokudo",
+      "area": "北部",
+      "lat": 26.6967,
+      "lng": 128.0166,
+      "price": {
+        "min": 1500,
+        "max": 4000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "海胆盖饭约 ¥4,000（用户自报，无日期）；海鲜盖饭 ¥1,500（旧文）"
+      },
+      "tags": [
+        "海胆盖饭",
+        "海葡萄盖饭",
+        "海鲜盖饭"
+      ],
+      "tips": "营业时间未查到。12 月是否供应海胆未确认，需先问店家。",
+      "sources": [
+        "https://okinawa.stripes.com/food-drink/shirasa-shokudo-serves-up-seafood-bowls-with-original-sauce.html",
+        "https://wanderlog.com/place/details/2681710"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "octopus-garden-aharen",
+      "category": "food",
+      "name": "Octopus Garden（阿波连海滩）",
+      "localName": "Octopus Garden",
+      "area": "渡嘉敷",
+      "lat": 26.1691,
+      "lng": 127.3472,
+      "tags": [
+        "冲绳面",
+        "塔可饭",
+        "咖喱",
+        "屋顶海景座"
+      ],
+      "tips": "坐标为估计（取阿波连海滩坐标，店在海滩入口）。冬季营业情况和价格未查到。",
+      "sources": [
+        "https://wanderlog.com/place/details/2681659"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "koja-soba",
+      "category": "food",
+      "name": "古谢面屋",
+      "localName": "古謝そば屋 / Koja Soba",
+      "area": "宫古岛",
+      "lat": 24.7905,
+      "lng": 125.2844,
+      "price": {
+        "min": 880,
+        "max": 880,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "KOJASOBA ¥880（rurubu，无年份）"
+      },
+      "hours": "11:00–16:00（LO）；周三休",
+      "tags": [
+        "宫古面",
+        "老店"
+      ],
+      "tips": "1932 年起卖宫古面的老店。电话 0980-72-8304。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80042987",
+        "https://www.enprimeurclub.com/restaurants/koja-sobaya-okinawa-miyakojima-restaurant"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "maruyoshi-shokudo",
+      "category": "food",
+      "name": "丸吉食堂",
+      "localName": "丸吉食堂 / Maruyoshi Shokudo",
+      "area": "宫古岛",
+      "lat": 24.734,
+      "lng": 125.385,
+      "price": {
+        "min": 600,
+        "max": 1300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "宫古面 ¥600 / ソーキ面 ¥1,300（无年份）"
+      },
+      "hours": "10:30 开门，卖完即止（约 14:00）；休息日来源冲突（周一、二、五 / 不定休）",
+      "tags": [
+        "宫古面",
+        "ソーキ面",
+        "取号"
+      ],
+      "tips": "坐标为估计，只按城辺砂川地区粗估，误差可能超过 1 km。取号制，早去。离宫古机场打车约 15 分钟。电话 0980-77-4211。",
+      "sources": [
+        "https://rurubu.jp/andmore/article/24736",
+        "https://www.mapple.net/article/30654/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "kihachi-yakiniku",
+      "category": "food",
+      "name": "喜八烤肉",
+      "localName": "焼肉 喜八 / Yakiniku Kihachi",
+      "area": "宫古岛",
+      "lat": 24.802,
+      "lng": 125.281,
+      "price": {
+        "max": 8000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Retty 晚餐预算约 ¥8,000；上盐牛舌 ¥1,650、特上カルビ ¥3,300（2023–24 年评论）"
+      },
+      "hours": "18:00–22:00；不定休",
+      "tags": [
+        "宫古牛",
+        "烤肉",
+        "需预约"
+      ],
+      "tips": "坐标为估计（平良下里）。整头采购宫古牛的老店，18 个座位，建议提前约 1 周预约 0980-73-3859。",
+      "sources": [
+        "https://retty.me/restaurant/100000924342/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "gouya",
+      "category": "food",
+      "name": "郷家（宫古民谣居酒屋）",
+      "localName": "泡盛と沖縄料理 郷家 / Gouya",
+      "area": "宫古岛",
+      "lat": 24.805,
+      "lng": 125.283,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人（演出费）",
+        "note": "民谣演出费：前排 ¥1,000、后排 ¥500（2025 年 1 月点评）；刺身拼盘 2 人份 ¥2,145 起（2025 年 2 月），餐费另计"
+      },
+      "hours": "17:30–21:00（2025 年 2 月资料）；周四休；民谣演出每天 19:30 开始",
+      "tags": [
+        "冲绳料理",
+        "宫古民谣现场",
+        "需预约"
+      ],
+      "tips": "坐标为估计（平良西里 570-2）。点评说淡季也会满座，必须预约。",
+      "sources": [
+        "https://www.mapple.net/article/30745/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "rakuen-no-kajitsu",
+      "category": "food",
+      "name": "乐园之果（来间岛）",
+      "localName": "農家れすとらん 楽園の果実 / Rakuen no Kajitsu",
+      "area": "宫古岛",
+      "lat": 24.7224,
+      "lng": 125.2477,
+      "hours": "11:00–18:00；11–2 月至 17:30",
+      "tags": [
+        "芒果圣代",
+        "冬季限定水果焗",
+        "冷冻芒果"
+      ],
+      "tips": "坐标为估计（取来间岛中心）。鲜芒果季是 7–8 月；冬季供应冷冻的「蔵出しマンゴー」系列和冬季限定水果焗，12 月能否吃到芒果圣代需电话确认 0980-76-2991。价格未查到。",
+      "sources": [
+        "https://rurubu.jp/andmore/article/24517",
+        "https://www.gltjp.com/ja/directory/item/17833/"
+      ],
+      "confidence": "low"
+    }
+  ],
+  "costs": [
+    {
+      "item": "单轨 Yui Rail 单程（成人）",
+      "price": {
+        "min": 250,
+        "max": 390,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "2025-02-01 调价后，起步 ¥250"
+      },
+      "sources": [
+        "https://www.okinawatimes.co.jp/articles/-/1488032",
+        "https://ryukyushimpo.jp/economics/entry-4099337.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "单轨 Yui Rail 1 日券（成人）",
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "首次使用起 24 小时；调价前为 ¥800"
+      },
+      "sources": [
+        "https://www.yui-rail.co.jp/ticketinfo-ticket/ticketinfo/1day-pass/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "单轨 Yui Rail 2 日券（成人）",
+      "price": {
+        "min": 1800,
+        "max": 1800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "首次使用起 48 小时"
+      },
+      "sources": [
+        "https://www.yui-rail.co.jp/ticketinfo-ticket/ticketinfo/1day-pass/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "单轨 Yui Rail 信用卡感应乘车当日封顶",
+      "price": {
+        "min": 800,
+        "max": 800,
+        "currency": "JPY",
+        "unit": "每天",
+        "note": "2025-03 报道的数字，现在是否仍是 ¥800 未核实"
+      },
+      "sources": [
+        "https://ryukyushimpo.jp/economics/entry-4099337.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "渡嘉敷高速船 Marine Liner 单程（成人）",
+      "price": {
+        "min": 3300,
+        "max": 3300,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "2026-10-01 起；儿童半价；另收环境税 ¥100"
+      },
+      "sources": [
+        "https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf",
+        "https://okinawa-kankospot.com/en/ferries/tokashiki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "渡嘉敷高速船 Marine Liner 往返（成人，那霸出发）",
+      "price": {
+        "min": 6270,
+        "max": 6270,
+        "currency": "JPY",
+        "unit": "往返",
+        "note": "2026-10-01 起；旧价 ¥4,810 已作废"
+      },
+      "sources": [
+        "https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf",
+        "https://okinawa-kankospot.com/en/ferries/tokashiki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "渡嘉敷渡轮 Ferry Tokashiki 单程（成人）",
+      "price": {
+        "min": 2200,
+        "max": 2200,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "2026-10-01 起"
+      },
+      "sources": [
+        "https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf",
+        "https://okinawa-kankospot.com/en/ferries/tokashiki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "渡嘉敷渡轮 Ferry Tokashiki 往返（成人，那霸出发）",
+      "price": {
+        "min": 4180,
+        "max": 4180,
+        "currency": "JPY",
+        "unit": "往返",
+        "note": "2026-10-01 起"
+      },
+      "sources": [
+        "https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf",
+        "https://okinawa-kankospot.com/en/ferries/tokashiki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "渡嘉敷环境协力税",
+      "price": {
+        "min": 100,
+        "max": 100,
+        "currency": "JPY",
+        "unit": "每人每次",
+        "note": "高中以上，登船时收取"
+      },
+      "sources": [
+        "https://okinawa-kankospot.com/en/ferries/tokashiki"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "座间味高速船 Queen Zamami 往返（成人）",
+      "price": {
+        "min": 6080,
+        "max": 6080,
+        "currency": "JPY",
+        "unit": "往返",
+        "note": "2026-03 资料，可能已调价"
+      },
+      "sources": [
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "座间味渡轮 Ferry Zamami 往返（成人）",
+      "price": {
+        "min": 4090,
+        "max": 4090,
+        "currency": "JPY",
+        "unit": "往返",
+        "note": "2026-03 资料，可能已调价"
+      },
+      "sources": [
+        "https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "机票 那霸→宫古（JAL/JTA 最低价）",
+      "price": {
+        "min": 6840,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "JAL 页面显示的 2026-09/10 日期最低价，属于促销价，实际价格随日期和余票变动"
+      },
+      "sources": [
+        "https://www.jal.co.jp/domestic/ja-jp/flights-to-miyako"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "机票 上海浦东→那霸（春秋航空低价）",
+      "price": {
+        "min": 118,
+        "max": 137,
+        "currency": "USD",
+        "unit": "单程",
+        "note": "Skyscanner 缓存的 11 月日期示例价，不代表 2026 年 12 月的实际价格"
+      },
+      "sources": [
+        "https://www.skyscanner.com/routes/pvg/oka/shanghai-pudong-to-okinawa-naha.html"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "租车 本岛那霸机场一带（起价）",
+      "price": {
+        "min": 4500,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每次起价",
+        "note": "NTA 以 2026-11-04 查询的起价，含税；紧凑型 ¥4,500 起，混动/SUV ¥5,000 起。租期未注明，不一定是一天的价格。中国大陆驾照不能用"
+      },
+      "sources": [
+        "https://www.nta.co.jp/activity/rental_car/okinawa/okinawa/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "租车 宫古岛（起价）",
+      "price": {
+        "min": 7150,
+        "max": 9400,
+        "currency": "JPY",
+        "unit": "每天（日归方案起价）",
+        "note": "HIS 页面：日归方案 ¥7,150 起；J-net 宫古机场店 J1 级 ¥8,400 起，下地岛机场店 A 级 ¥9,400 起；含免责补偿和税。页面未注明日期"
+      },
+      "sources": [
+        "https://www.his-j.com/kokunai/dst/okinawa/rentcar/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "高速公路 那霸IC→许田IC（普通车，ETC）",
+      "price": {
+        "min": 1040,
+        "max": 1040,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "冲绳道特别折扣 35.5%，预计到 2027-03-31；ETC 再叠加深夜折扣为 ¥730"
+      },
+      "sources": [
+        "https://www.w-nexco.co.jp/lp/okinawa_ageageetc/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "高速公路 那霸IC→许田IC（普通车，现金）",
+      "price": {
+        "min": 1610,
+        "max": 1610,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "现金付费车 2024-04 起不再享受折扣"
+      },
+      "sources": [
+        "https://www.w-nexco.co.jp/lp/okinawa_ageageetc/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "汽油 冲绳普通汽油",
+      "price": {
+        "min": 174.9,
+        "max": 174.9,
+        "currency": "JPY",
+        "unit": "每升",
+        "note": "2026-10-26 经产省调查；全国平均 ¥170.1"
+      },
+      "sources": [
+        "https://selectra.jp/energy/gasoline"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "出租车 冲绳本岛起步价（普通车）",
+      "price": {
+        "min": 650,
+        "max": 650,
+        "currency": "JPY",
+        "unit": "起步 1.65 km",
+        "note": "2026-08-24 起（原为 1.75 km ¥600）"
+      },
+      "sources": [
+        "https://ryukyushimpo.jp/tag/タクシー"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "出租车 宫古机场→平良市区",
+      "price": {
+        "min": 1500,
+        "max": 2000,
+        "currency": "JPY",
+        "unit": "每车",
+        "note": "约 15 分钟；宫古起步价未查到"
+      },
+      "sources": [
+        "https://www.veltra.com/jp/guide/?p=80202"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "出租车 宫古机场→东平安名崎",
+      "price": {
+        "min": 3500,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每车",
+        "note": "约 30 分钟，大约价"
+      },
+      "sources": [
+        "https://www.veltra.com/jp/guide/?p=80202"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "真荣田岬停车场",
+      "price": {
+        "min": 100,
+        "max": 100,
+        "currency": "JPY",
+        "unit": "每小时",
+        "note": "180 个车位"
+      },
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80043197"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "JAF 驾照日文译文（用于在日本驾驶）",
+      "price": {
+        "min": 6000,
+        "max": 6000,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "2026-07-01 起；仅瑞士、德国、法国、比利时、摩纳哥、台湾驾照可凭译文驾驶；只能在日本境内网上申请；换日本驾照用的译文为 ¥6,600"
+      },
+      "sources": [
+        "https://jaf.or.jp/common/visitor-procedures/about-dltas",
+        "https://jaf.or.jp/-/media/1/2590/2708/3096/pdf_info_chinese_202607_ippan_001.pdf"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "元祖紅芋塔（御菓子御殿）6个装",
+      "price": {
+        "min": 1296,
+        "max": 1296,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价；JAF 2025年10月文章写的是900日元，差距大，需在店里核实"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html",
+        "https://jafmate.jp/drive/must-buy-souvenir_20251022.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "元祖紅芋塔（御菓子御殿）10个装",
+      "price": {
+        "min": 2160,
+        "max": 2160,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "雪盐ちんすこう（南風堂）24个装",
+      "price": {
+        "min": 810,
+        "max": 810,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "雪盐ちんすこう（南風堂）48个装",
+      "price": {
+        "min": 1512,
+        "max": 1512,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价（2025年版是1,296日元）"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html",
+        "https://jafmate.jp/drive/must-buy-souvenir_20251022.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "开口笑（沖縄ハム サーターアンダギー）6个装",
+      "price": {
+        "min": 583,
+        "max": 583,
+        "currency": "JPY",
+        "unit": "每袋",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "宫古岛雪盐 120g",
+      "price": {
+        "min": 864,
+        "max": 864,
+        "currency": "JPY",
+        "unit": "每袋",
+        "note": "导游网站刊载价，日期不明"
+      },
+      "sources": [
+        "https://www.gltjp.com/ja/directory/item/16746/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "琉球玻璃杯（glacitta' Tsubu Cup）",
+      "price": {
+        "min": 1760,
+        "max": 1760,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "2022年1月文章，偏旧"
+      },
+      "sources": [
+        "https://en.hoshinoresorts.com/guide/area/okinawa-area/okinawa/okinawa-omiyage"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "冲绳面一碗",
+      "price": {
+        "min": 700,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每碗",
+        "note": "老店的 ¥500–600 旧价多已上涨"
+      },
+      "sources": [
+        "https://onedayawaytravel.com/?p=1630"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "定食午餐",
+      "price": {
+        "min": 900,
+        "max": 1500,
+        "currency": "JPY",
+        "unit": "每人"
+      },
+      "sources": [
+        "https://onedayawaytravel.com/?p=1630",
+        "https://jasumo.com/?p=11464"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "居酒屋晚餐",
+      "price": {
+        "min": 2000,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "日本全国数据（jasumo 2025），非冲绳专项"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "牛排晚餐（Jack's、88 等平价牛排馆）",
+      "price": {
+        "min": 1500,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Gurunavi 均价 ¥2,000，TableCheck 晚餐 ¥2,500–3,000，Jack's 菲力 L ¥3,800（无年份）；石垣牛、和牛另计"
+      },
+      "sources": [
+        "https://gurunavi.com/en/f159100/rst",
+        "https://www.tablecheck.com/steakhouse88-kokusaidori",
+        "https://rurubu.jp/andmore/spot/80042587"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "宫古牛烤肉晚餐",
+      "price": {
+        "min": 4000,
+        "max": 8000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "焼肉 牛平 晚 ¥4,000（Gurunavi）；喜八预算约 ¥8,000（Retty，2023–24 年）"
+      },
+      "sources": [
+        "https://gurunavi.com/en/fc3m800/mn/course1/1/rst",
+        "https://retty.me/restaurant/100000924342/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "便利店一餐",
+      "price": {
+        "min": 200,
+        "max": 700,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "饭团、三明治加饮料 ¥200–500；便当 ¥400–700"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "咖啡店早餐（吐司 + 鸡蛋 + 咖啡）",
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "单杯咖啡价格未查到；便利店罐装咖啡 ¥100–150"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "Blue Seal 冰淇淋单球",
+      "price": {
+        "min": 380,
+        "max": 380,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "国际通店数据，双球 ¥640；年份不明"
+      },
+      "sources": [
+        "https://mom-mom.net/en/travel/places/66f669f09a5ba4cd8509222f"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "庆良间浮潜（那霸出发，半日）",
+      "price": {
+        "min": 6000,
+        "max": 8500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "含船费、保险、导游、装备（阪急 2025 年 4 月起）；asoview、Veltra ¥6,800 起；冬季视海况常停开"
+      },
+      "sources": [
+        "https://x.hankyu-travel.com/f_up/data/pdf/osa_d/osa_d_281834.pdf",
+        "https://www.asoview.com/item/activity/pln3000012607/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "宫古岛海龟浮潜",
+      "price": {
+        "min": 3900,
+        "max": 10000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "岸边出发约 ¥3,900–7,000；包团约 ¥10,000 起；冬季多数店免费借防寒潜水服"
+      },
+      "sources": [
+        "https://www.asoview.com/item/activity/pln3000044727/",
+        "https://www.asoview.com/item/activity/pln3000039940/",
+        "https://www.veltra.com/jp/japan/okinawa/miyako_island/a/187320"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "每日预算：穷游（不含机票、酒店）",
+      "price": {
+        "min": 6000,
+        "max": 9000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "约 ¥250–380 人民币。按 jasumo 餐饮档位（¥2,000–3,000/天）加本地交通、门票推算，不含浮潜等活动"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464",
+        "https://onedayawaytravel.com/?p=1630"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日预算：中等（不含机票、酒店）",
+      "price": {
+        "min": 13000,
+        "max": 20000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "约 ¥550–850 人民币。按 jasumo 餐饮档位（¥4,000–6,000/天）加租车分摊、门票推算；onedayawaytravel 中档全包（含住宿）¥12,000–23,000"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464",
+        "https://onedayawaytravel.com/?p=1630"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日预算：舒适（不含机票、酒店）",
+      "price": {
+        "min": 30000,
+        "max": 45000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "约 ¥1,270–1,900 人民币。按 jasumo 高档餐饮（¥10,000+/天）加和牛晚餐、租车、门票推算"
+      },
+      "sources": [
+        "https://jasumo.com/?p=11464"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "汇率 JPY→CNY",
+      "price": {
+        "min": 0.04225,
+        "max": 0.04225,
+        "currency": "CNY",
+        "unit": "每 1 日元",
+        "note": "Wise 2026-10-28：1 JPY = 0.04225 CNY，即 1 CNY ≈ 23.67 JPY，¥10,000 ≈ 423 元人民币；近 7 日 0.0422–0.0426"
+      },
+      "sources": [
+        "https://wise.com/gb/currency-converter/jpy-to-cny-rate/history"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "notes": [
+    "驾照：持中国大陆驾照的游客不能在日本自驾。日本只认两种情况：(1) 1949 年《日内瓦公约》缔约国签发、格式符合该公约的国际驾照（IDP），入境后一年内、且签发后一年内有效；(2) 瑞士、德国、法国、比利时、摩纳哥、台湾的驾照，加上 JAF 或驻日使领馆出的日文译文。中国大陆不是 1949 年公约缔约国，签发不了合格的 IDP；大陆驾照的 JAF 译文只能用来换日本驾照（外免切替），条件是取得驾照后在签发国累计住满 3 个月。网上非正规渠道办的「国际驾照」租车公司可能不收。（来源：https://jaf.or.jp/common/visitor-procedures/about-dltas 、https://www.keishicho.metro.tokyo.lg.jp/multilingual/chinese/traffic_safety/drivers_licenses/index.files/kokusaimenkyo_chinese.pdf ）",
+    "首里城：复原后的正殿 2026-11-23 起公开，进正殿须预约 30 分钟时段（Webket）；成人票从 ¥400 涨到 ¥1,000。11-23 至 12-31 的票已在 9-1 和 10-1 开卖，12 月上旬请尽快确认还有没有余票；当天如有空位，开场前 15 分钟为止可现场或网上补买。官方预计 11-23 至 12-06 极为拥挤。（来源：https://oki-park.jp/shurijo/ticket_guide/ ）",
+    "12 月天气与海况：庆良间 12 月平均气温约 19°C；11–2 月北风强，海上常有风浪，有攻略写庆良间「不适合游泳」，船班也可能停航。浮潜要穿湿衣，青之洞窟看当天旗色决定是否开放。宫古岛 12 月白天约 22°C。（来源：https://weather.time-j.net/Climate/Chart/Kerama 、https://okidokey.jp/portal/blog/article.php?slug=okinawa-ferry-day-trip-guide&lang=en 、https://www.veltra.com/jp/yokka/article/miyako_hidden_winter/ ）",
+    "观鲸：庆良间座头鲸季约为 12 月底至次年 4 月；2025–26 季座间味观鲸团 1-08 开始、预定到 3-25。12 月上旬基本看不到鲸鱼。（来源：https://ryukyushimpo.jp/tag/ホエールウオッチング ）",
+    "中日航线：2025-11 以来中国航司大幅削减日本航线，2026 年 6 月当月中国大陆赴日航班取消率 37.5%。国航、东航、南航等对 2026-03-29 至 10-24 出发的日本航线客票免费退改，之后的期间目前没找到延长公告。春秋航空自 2025-12-20 起停售浦东–冲绳每日第 2 班。12 月的上海⇄那霸航班请订航司官网可查到的班次，并留意变动。（来源：https://global.hk01.com/即时中国/60366177/6月取消25条中日航线1488航班-中国赴日旅客量连六个月减少 、https://www.nbd.com.cn/articles/2026-01-27/4236360.html 、https://news.ifeng.com/c/8oURAyHVOwV ）",
+    "渡嘉敷船票 2026-10-01 起涨价：高速船单程 ¥3,300、往返 ¥6,270；渡轮单程 ¥2,200、往返 ¥4,180。不少攻略还在写旧价（¥2,530 / ¥4,810）。当天往返只能坐高速船：泊港 9:00 出发，渡嘉敷 17:00 回程。（来源：https://www.vill.tokashiki.okinawa.jp/material/files/group/1/unntinnkaitei2.pdf ）",
+    "不自驾的出行方式（有来源的部分）：那霸市内和首里城坐单轨；青之洞窟和八重干濑都有跟团出发的浮潜行程（八重干濑只能坐船去）；宫古岛用出租车（机场到市区 ¥1,500–2,000），周五、周六 16:00 至次日 5:00 有网约车。（来源：https://www.veltra.com/jp/japan/okinawa/miyako_island/a/170164 、https://www.veltra.com/jp/guide/?p=80202 、https://ryukyushimpo.jp/tag/タクシー ）",
+    "斋场御岳不在入口卖票，要先到南城市地域物产馆买票；当地正研究最迟明年改为全程导览制。2026 年休息日为 11/9–11，12 月照常开放。（来源：https://sefa.okinawa/en/ 、https://ryukyushimpo.jp/economics/entry-5574092.html ）",
+    "冲绳县住宿税 2027-02-01 起开征（住宿费的 2%，上限 ¥2,000），2026 年 12 月的住宿不受影响。（来源：https://travel.watch.impress.co.jp/docs/news/2142940.html ）",
+    "日本免税改为退税制（2026年11月1日起，无过渡期）：结账时先付含税价，出示护照，购买记录电子登记；离开日本时，在国际线出发大厅、办理值机之前，到海关或自助终端（可用 Visit Japan Web）核验，海关确认后由店铺退税（信用卡、银行转账、APP 或机场现金，各店不同）。条件：同店同日满5,000日元（税前），购买后90天内出境；取消消耗品的单独类别、50万日元上限和专用封装，但出境前不能食用；一张小票的商品必须全部带齐，否则整单不退；从国内线转国际线时，在最终离开日本的机场办理。日本居民不适用。",
+    "冲绳特定免税店（DFS，关税免除，和退税制是两套制度）：年满18岁、个人自用即可购买，日本居民也可以；适用的出发航班为那霸机场（国内线、国际线）、那霸邮轮码头，以及宫古机场、下地岛机场的国内线（石垣不在列）；在 T Galleria 或网上下单，到机场柜台凭确认邮件和登机牌提货，当天不取就自动取消；从离岛转机经那霸、中转时间太短时可能取不到货。免关税额度为20万日元，制度已延长到2027年3月底。",
+    "冲绳县住宿税2027年2月开征（县税2%，每人每晚上限2,000日元；与市町村税重叠时县税部分会下调），2026年12月入住不受影响。",
+    "酒税：2026年10月1日起酒税改正，冲绳回归特别措施的酒税减免结束；据报道 Orion 啤酒降价、发泡酒和酎ハイ涨价，具体零售价未查到。",
+    "じゃがポックル（Jagapokkuru）是北海道限定商品（北海道原料、北海道工厂生产），不是冲绳伴手礼。",
+    "住宿区域｜那霸：适合第1–2天。国际通、牧志一带吃饭购物步行可达；旭桥和久茂地离县厅前站、旭桥站近，交通方便；おもろまち靠近 DFS 和 Main Place，相对安静。单轨电车直达机场，市区几天可以不租车。缺点是酒店停车每晚1,100–1,800日元，国际通周日12:00–18:00为步行街，车辆进出受限。",
+    "住宿区域｜中部：北谷/美浜 American Village 一带，离那霸机场约40分钟。优点是看海边日落、逛美式街区，12月周六有20:00的烟火，北上或回程都顺路，旁边就是 AEON Rycom。缺点是到美丽海水族馆仍要1小时以上，部分酒店停车开始收费（Hilton 自2026年5月起）。",
+    "住宿区域｜恩纳：西海岸度假村集中，离那霸机场约60–90分钟，到本部半岛比那霸近得多。适合想住海景度假村的人。缺点是房价高，周边吃饭选择少，度假村停车多数要收费（500–1,000日元/天）。",
+    "住宿区域｜本部：美丽海水族馆和备濑福木林就在旁边，可以早上第一个入馆。缺点是离那霸机场约1小时47分钟，晚上周边店少；第3天当天要回那霸的话，不必在这里住。",
+    "住宿区域｜宫古岛：三个区域都需要租车。平良市区离宫古机场约10–15分钟，吃饭、购物（公设市场、岛之驿）方便，价位最友好；伊良部/下地岛海景最好，离下地岛机场约10分钟，但离市区约25–35分钟；与那霸前滨（东急）紧邻前滨海滩，离宫古机场约10分钟，适合以海滩为主的行程。",
+    "建议住宿安排：第1–2天住那霸2晚（国际通或旭桥），不租车，坐单轨电车。第3天早上在机场取车，经冲绳自动车道去美丽海（约1小时47分钟），回程顺路逛 AEON Rycom 或 American Village，最后在豊崎的 Ashibinaa / iias 补货后还车。宫古2晚有两种走法：A）第3天傍晚从那霸飞宫古，住第3、4晚，第5天从宫古离开（行程紧，需确认冬季末班机）；B）第3晚住北谷（如果是周六还能看烟火），第4天上午飞宫古，这样宫古只能住1晚，要住满2晚就得延长到6天。宫古优先住平良（Atoll Emerald 或 Hilton 宫古岛），兼顾吃饭和购物；想住海滩度假村选前滨东急；从下地岛机场进出就选伊良部的 Iraph SUI。注意：「5天」和「宫古2晚」在晚数上对不上，需要和用户确认。",
+    "只收现金或不收信用卡的店：千日、新垣善哉屋，泊港鱼市场部分摊位。冲绳面老店建议都备好现金。",
+    "卖完即止：首里そば（常在 14 点前卖完）、丸吉食堂、新垣善哉屋。想吃要中午前去。",
+    "需要或建议预约：喜八（提前约 1 周）、郷家（淡季也满座）、我那覇豚肉店吃到饱（提前一天）、琉球之牛。",
+    "12 月季节性：宫古芒果季是 7–8 月，冬季只有冷冻芒果甜品；古宇利岛的海胆盖饭 12 月是否供应需先确认；浮潜要看海况，常改期或停开，冬季穿防寒潜水服。",
+    "渡嘉敷一日游：阿波连冬季游客少，餐馆营业不定，建议在那霸泊港出发前买好便当或饭团带上岛。可打电话问渡嘉敷村观光协会 098-987-2332。",
+    "第一牧志公设市场的玩法：1F 买海鲜，拿到 2F 代煮，食材和代煮费分开付。",
+    "多数价格来自第三方网站且年份不明，2025 年起外卖、外食普遍涨价（如 King Tacos 塔可饭从 ¥800 涨到 ¥950），旧价只能作下限参考。",
+    "汇率按 Wise 2026-10-28：1 CNY ≈ 23.67 JPY。"
+  ],
+  "unverified": [
+    "持香港驾照的人能否办 IDP 并在日本驾驶：本次没有找到来源，需要查香港运输署或日本警察厅。",
+    "不自驾时的一日游巴士团、包车出租车、本岛北部高速巴士（如 Yanbaru Express）的班次和价格：本次没有查到来源。",
+    "首里城正殿 12 月上旬各时段还剩多少票，要在 Webket 上实时查。",
+    "上海浦东⇄那霸 2026/27 冬春航季的实际班次、频率和票价；中国航司 10-24 之后是否继续免费退改。",
+    "Yui Rail 1 日 / 2 日券价格和信用卡封顶 ¥800：官网屏蔽了抓取，数字来自搜索摘要和 2025-03 报道。",
+    "斋场御岳票价：官网写 ¥600，二手资料写 ¥300，以官网为准。",
+    "东平安名崎灯塔参观时间；¥300 票价来自二手资料。",
+    "宫古岛出租车起步价。",
+    "渡嘉敷「从渡嘉敷出发的往返票」价格（官方 PDF 版面解析不清）；座间味航线 2026 年最新票价；座间味观鲸团价格（只找到年份不明的 ¥5,400 / ¥7,700）。",
+    "12 月庆良间、宫古的海水温度（约 22–23°C 只是经验值）；冬季海滩是否还有救生员和防水母网。",
+    "渡嘉敷港到阿波连海滩的村营巴士班次和票价。",
+    "17END 坐标为估算值；伊良部大桥、池间大桥的长度，以及是否收费。",
+    "那霸⇄宫古是否还有 RAC 执飞；那霸⇄下地岛是否有直飞（Skymark 等）。",
+    "美国村、Umikaji Terrace、备濑福木林道、砂山海滩的营业时间和收费（本文件只核实了坐标）。",
+    "真荣田岬冬季因北风关闭的频率；停车场冬季营业时间各来源不一致。",
+    "美丽海水族馆是否还有 16 点后优惠票（官网票价页没有列出）。",
+    "胜连城迹的确切开放时间（各来源有出入）。",
+    "各区域房价区间（经济/中档/高档）原本是估算值，没有可靠来源，没有写入；各酒店价格都是预订站快照，日期多数不明，不代表2026年12月上旬实价。",
+    "经济型住宿只调研了那霸；北谷、恩纳、本部、宫古岛的经济型选项（民宿、公寓式酒店等）未调研。",
+    "宫古岛东急酒店：有预订站显示约42,055日元起，但具体是哪个网站、什么日期和条件都不明，没有写入。Hilton 冲绳宫古岛的房价只查到外币快照（约合38,000–45,000日元），没有写入。DoubleTree by Hilton 冲绳北谷（2人约33,282起）的坐标未取得，也没有写入。",
+    "Canopy by Hilton 冲绳宫古岛度假酒店（2026-04-01开业，平良久贝トゥリバー地区）：Nominatim 无法连接，坐标未取得，已从 places 中删除。",
+    "伊良部大桥 海之驿（いらぶ大橋 海の駅，伊良部字池間添1092-1，1楼卖特产、2楼餐厅）：Nominatim 无法连接，坐标和营业时间都没取到，已删除。「Island Market Irabu」没有找到对应设施。",
+    "营业时间待确认：国际通、平和通各店，American Village / Depot Island 各店，那霸机场各店铺（设施时间来源是2021年规程）；T Galleria 是10:00还是11:00开门；第一牧志市场12月第4个周日是否营业；岛之驿宫古开门时间（9:00还是7:30）；雪盐博物馆夏季关门时间。",
+    "各购物点的免税/退税对应情况没有逐一核实（例如 AEON Rycom 的免税柜台只见于第三方资料）。",
+    "伴手礼价格：元祖紅芋塔6个装有900和1,296两种说法；雪盐120g（864日元）和琉球玻璃杯（1,760日元）的来源日期不明或偏旧；Blue Seal 商品、Orion 啤酒零售价、泡盛（机场7年古酒7,560日元是旧资料）、黑糖、壶屋烧/Yachimun 陶器、风狮爷 shisa（有资料写200–20,000日元以上，来源不确定）的价格都没有可靠的近期来源；2026年的冲绳限定 Calbee 商品没有查到。",
+    "停车费来自乱码页面或说法不一，待确认：Vessel Campana（免费？）、Hilton 北谷（2026年5月起收费的具体金额）、Orion 本部（按天还是按次）、Hilton 宫古岛（代客泊车）、Iraph SUI、宫古岛东急、Royal View 美丽海。",
+    "JTB 页面显示宫古岛某酒店「2026/12/15 退房起至12/21全馆休业」，但没确认是哪一家（可能是宫古岛东急），预订前要确认。",
+    "退税制细节：那霸机场国际线退税柜台的具体位置、到账时间，以及日后是否会废除免税制度；冲绳特定免税店制度2027年3月以后是否继续。",
+    "2026年冬季那霸到宫古的末班机时间未查到。",
+    "宫古岛市、本部町各自的住宿税开征日期未核实（有资料写为1.2%，上限1,200日元）。",
+    "坐标说明：商场和景点的坐标取自 Wikipedia 或じゃらん的地图标点，酒店坐标取自じゃらん酒店页的静态地图；国际通、平和通是街道上的一个点；雪盐博物馆的标点名称是「雪塩製塩所」。建议出发前在地图上再核对一次。",
+    "Jack's 牛排馆的定休日（周三，还是只在元旦、旧盆休），以及是否接受预约。",
+    "第一牧志公设市场的营业时间和 2F 代煮费，只有第三方资料。",
+    "以下价格是旧数据或无年份：首里そば ¥500、岸本食堂、本部牧场烤肉、Seaside Drive-in、喜八菜单价、Blue Seal 单球、古谢面屋、丸吉食堂。",
+    "我那覇豚肉店的营业时间和电话；琉球之牛各店的价格。",
+    "雪盐软冰淇淋的价格；Blue Seal 牧港本店的单球价格；A&W 的价格。",
+    "糸满渔民食堂现在是否营业，能找到的最新报道是 2020 年。",
+    "以下坐标是估计的：丸吉食堂（误差可能超过 1 km）、喜八、郷家、King Tacos、乐园之果、A&W、糸满渔民食堂、Octopus Garden。88 牛排馆、A&W 的 OSM 点对应哪家分店也未确认；首里そば OSM 上有两个同名点。",
+    "12 月：庆良间和宫古的浮潜是否开团，古宇利岛是否供应海胆，阿波连餐馆冬季是否营业。",
+    "Orion 生啤在酒吧或居酒屋的价格、单杯咖啡价格：没有找到有出处的数字，因此未列入 costs。",
+    "每日预算三档是按 jasumo 的餐饮档位加交通、门票推算的，不是直接来源的数字。",
+    "浜屋冲绳面、ゆうなんぎい 的休息日和营业时间。",
+    "任务里提到的宜野湾「Senju」善哉店没有找到，那霸善哉改推了千日。"
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "destination": "冲绳",
+  "slug": "okinawa",
+  "part": "food-cost",
+  "travelMonth": "2026-12",
+  "generatedAt": "2026-10-28",
+  "places": [
+    {
+      "id": "jacks-steak-house",
+      "category": "food",
+      "name": "杰克牛排馆",
+      "localName": "Jack's Steak House / ジャッキーステーキハウス",
+      "area": "那霸",
+      "lat": 26.2129,
+      "lng": 127.6725,
+      "price": {
+        "min": 1500,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Gurunavi 午晚均价约 ¥2,000，Savor Japan 约 ¥1,500；菲力 L 250g ¥3,800（年份不明）"
+      },
+      "hours": "11:00–22:00；定休日来源冲突（周三休 / 仅元旦、旧盆休）",
+      "tags": ["美式牛排", "菲力牛排", "老字号"],
+      "tips": "旭桥站步行约 5–8 分钟。是否接受预约未核实，去之前电话确认 098-868-2408。",
+      "sources": [
+        "https://gurunavi.com/en/f159100/rst",
+        "https://rurubu.jp/andmore/spot/80042587",
+        "https://travel.navitime.com/en/area/jp/spot/02301-1300749"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "steak-house-88-kokusai",
+      "category": "food",
+      "name": "88 牛排馆 国际通店",
+      "localName": "Steak House 88 Kokusai-dori / ステーキハウス88 国際通り店",
+      "area": "那霸",
+      "lat": 26.2163,
+      "lng": 127.6885,
+      "price": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "TableCheck：国际通店 午 ¥1,500 / 晚 ¥2,500，西口店 午 ¥2,500 / 晚 ¥3,000；石垣牛、和牛另计"
+      },
+      "hours": "11:00–23:00（LO 22:00）",
+      "tags": ["牛排", "石垣牛", "可网上预约"],
+      "tips": "可在 TableCheck 预约。国际通一带有多家 88 分店，此坐标是 OSM 上国际通沿线的一家，未确认是否为牧志 3-1-6 的国际通店。",
+      "sources": [
+        "https://www.tablecheck.com/steakhouse88-kokusaidori",
+        "https://www.tablecheck.com/steakhouse88-kokusaidori-nishiguchi",
+        "https://digjapan.travel/en/spot/id=8535"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "makishi-public-market-2f",
+      "category": "food",
+      "name": "第一牧志公设市场（2F 代客料理）",
+      "localName": "第一牧志公設市場 / Makishi Public Market",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6883,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每道（代煮费）",
+        "note": "第三方 2026 指南：一般烹调约 ¥500/道，蒸、盐烤、煮龙虾或虾 ¥600–800，炒、炸 ¥700–1,000；食材在 1F 另按时价购买"
+      },
+      "tags": ["海鲜", "夜光贝", "龙虾", "代客料理（持ち上げ）"],
+      "tips": "在 1F 买海鲜，拿到 2F 餐厅代煮，食材和代煮费分别付款。新馆 2023 年 3 月在原址重开。营业时间未核实。",
+      "sources": [
+        "https://japanactivity.com/makishi-public-market-guide"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tomari-iyumachi",
+      "category": "food",
+      "name": "泊港鱼市场",
+      "localName": "泊いゆまち / Tomari Iyumachi",
+      "area": "那霸",
+      "lat": 26.2301,
+      "lng": 127.6802,
+      "price": {
+        "min": 1100,
+        "max": 1100,
+        "currency": "JPY",
+        "unit": "每份刺身",
+        "note": "仅一条 Trip.com 游记提到一份刺身 ¥1,100，未注明日期"
+      },
+      "hours": "6:00–18:00（另有说法约 16:00 收摊；各摊卖完即止）",
+      "tags": ["刺身", "金枪鱼", "部分摊位只收现金"],
+      "tips": "早去。座位很少，多数人外带或在车里吃。电话 098-868-1096。",
+      "sources": [
+        "https://www.oki-islandguide.com/attractions/tomari-iyumachi-fish-market",
+        "https://uk.trip.com/moments/poi-tomariiyumachi-30762049",
+        "https://www.komoot.com/highlight/7126293"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "yunangi",
+      "category": "food",
+      "name": "ゆうなんぎい（冲绳家庭料理）",
+      "localName": "ゆうなんぎい / Yunangi",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6819,
+      "price": {
+        "min": 570,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "冲绳面 ¥570 起（年份不明）"
+      },
+      "hours": "12:00–15:00 / 17:30–22:30；休息日未查到",
+      "tags": ["拉夫泰", "苦瓜炒", "排骨面", "排队"],
+      "tips": "县厅前站步行约 5 分钟，开门前就有人排队。午餐单点会配米饭、腌菜、味噌汤成定食。电话 098-867-3765。",
+      "sources": [
+        "https://www.deep-exp.com/cn/okinawa/spot/1872"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "urizun",
+      "category": "food",
+      "name": "うりずん（安里）",
+      "localName": "うりずん / Urizun",
+      "area": "那霸",
+      "lat": 26.2174,
+      "lng": 127.6964,
+      "hours": "17:30–23:00 或 24:00；第 2、4 周日休 / 全年无休（来源冲突）",
+      "tags": ["ドゥル天（田芋饼）", "泡盛", "居酒屋", "可预约"],
+      "tips": "ドゥル天的发源店，泡盛覆盖全县各酒厂，另有自酿古酒。安里站步行即到，无停车场。电话预约 098-885-2178。",
+      "sources": [
+        "https://gurunavi.com/en/fazp100/rst",
+        "https://en.okinawatraveler.net/okinawa-ryukyuryouri"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shuri-soba",
+      "category": "food",
+      "name": "首里そば",
+      "localName": "首里そば / Shuri Soba",
+      "area": "那霸",
+      "lat": 26.2175,
+      "lng": 127.7228,
+      "price": {
+        "min": 500,
+        "max": 500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "首里そば中碗 ¥500，年份不明，现价可能更高"
+      },
+      "hours": "11:30–14:00（另说 14:30），卖完即止；周四、周日休",
+      "tags": ["冲绳面", "卖完即止"],
+      "tips": "限量供应，常在 14 点前卖完。OSM 上有两处同名点，此处取赤田町一带那个，需复核。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80042467",
+        "https://www.gltjp.com/ja/directory/item/13454/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "ganaha-butanikuten",
+      "category": "food",
+      "name": "我那覇豚肉店",
+      "localName": "我那覇豚肉店 / Ganaha Butanikuten",
+      "area": "那霸",
+      "lat": 26.2197,
+      "lng": 127.6849,
+      "price": {
+        "min": 3388,
+        "max": 3828,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "120 分钟吃到饱：山原豚 ¥3,388 / 阿古猪 ¥3,828（含税）；饮料放题另加 ¥1,958"
+      },
+      "tags": ["阿古猪涮涮锅", "吃到饱", "需预约"],
+      "tips": "吃到饱需提前一天预约。价格来自 Retty 上的 2 号店（カフーナ旭橋），坐标是 OSM 上沖映大通り的本店。营业时间未查到；页面上有两个电话（098-868-1358 / 098-863-5380），需确认。",
+      "sources": [
+        "https://retty.me/restaurant/100000808299/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ryukyu-no-ushi-kokusai",
+      "category": "food",
+      "name": "琉球之牛 国际通店",
+      "localName": "焼肉 琉球の牛 那覇国際通り / Ryukyu no Ushi",
+      "area": "那霸",
+      "lat": 26.2163,
+      "lng": 127.6892,
+      "tags": ["冲绳和牛烤肉", "需预约"],
+      "tips": "县内 4 家店（那霸 2 家、北谷、恩纳）。价格未查到，点评站标为偏高。建议预约。",
+      "sources": [
+        "https://www.funliday.com/pois/27054272",
+        "https://www.funliday.com/posts/okinawa-yakiniku/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "sennichi",
+      "category": "food",
+      "name": "千日（冰善哉）",
+      "localName": "千日 / Sennichi",
+      "area": "那霸",
+      "lat": 26.2177,
+      "lng": 127.6733,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "两个 listing 分别写 ¥500 和预算 ¥1,000，均无年份"
+      },
+      "hours": "11:30–20:00（冬季至 19:00）；周一休",
+      "tags": ["冰善哉", "只收现金"],
+      "tips": "1962 年开业的老店。旭桥站步行约 10 分钟。电话 098-868-5387。",
+      "sources": [
+        "https://www.gltjp.com/en/directory/item/13465/",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1800031/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "itoman-gyomin-shokudo",
+      "category": "food",
+      "name": "糸满渔民食堂",
+      "localName": "糸満漁民食堂 / Itoman Gyomin Shokudo",
+      "area": "糸满",
+      "lat": 26.1394,
+      "lng": 127.6561,
+      "price": {
+        "min": 1000,
+        "max": 2000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Savor Japan 均价：午 ¥1,000 / 晚 ¥2,000（年份不明）；当日鱼黄油煎定食约 ¥1,300（时价）"
+      },
+      "hours": "午 11:30–LO 14:30，晚 18:00–LO 21:30；周二休（旧资料）",
+      "tags": ["鱼黄油煎（イマイユ）", "鱼汁", "海鲜"],
+      "tips": "坐标为估计（按西崎町 4 丁目）。找到的最新报道是 2020 年，当前是否营业需先电话确认 098-992-7277。",
+      "sources": [
+        "https://savorjapan.com/0006057203",
+        "https://allabout.co.jp/gm/gc/446327",
+        "https://ryukyushimpo.jp/gourmet/entry-1122689.html"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "itoman-osakana-center",
+      "category": "food",
+      "name": "糸满渔协 鱼中心",
+      "localName": "糸満漁業協同組合 お魚センター / Itoman Fish Market",
+      "area": "糸满",
+      "lat": 26.1381,
+      "lng": 127.6614,
+      "hours": "约 9:00–18:00",
+      "tags": ["刺身", "海鲜", "鱼市场"],
+      "tips": "在道之驿糸满后方，距那霸机场约 15 分钟车程。仓库里有 10 多个鲜鱼摊和熟食摊。",
+      "sources": [
+        "https://www.gltjp.com/en/article/item/10694/",
+        "https://hamoni.jp/en/area/okinawa/itoman/shops"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "blue-seal-makiminato",
+      "category": "food",
+      "name": "Blue Seal 牧港本店",
+      "localName": "ブルーシール 牧港本店 / Blue Seal Makiminato",
+      "area": "中部",
+      "lat": 26.2674,
+      "lng": 127.7214,
+      "price": {
+        "min": 380,
+        "max": 380,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "单球 ¥380、双球 ¥640 是国际通店的数据（年份不明）；本店限定 7 球加软冰淇淋圣代 ¥2,500"
+      },
+      "tags": ["冰淇淋", "紫芋", "盐金楚糕"],
+      "tips": "2024 年翻新。本店单球价格未查到。电话 098-877-8258。",
+      "sources": [
+        "https://san-tatsu.jp/spots/442661/",
+        "https://mom-mom.net/en/travel/places/66f669f09a5ba4cd8509222f"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "aw-makiminato",
+      "category": "food",
+      "name": "A&W 牧港店",
+      "localName": "A&W Makiminato",
+      "area": "中部",
+      "lat": 26.2667,
+      "lng": 127.7284,
+      "hours": "6:00–26:00（2025 年 9 月资料）；drive-in 时段更短",
+      "tags": ["root beer", "汉堡", "drive-in"],
+      "tips": "坐标为估计：取的是 OSM 上浦添 58 号沿线的 A&W，未确认是否为牧港店（牧港 4-9-1）。价格未查到。",
+      "sources": [
+        "https://digjapan.travel/en/blog/id=12706"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hamaya-soba-chatan",
+      "category": "food",
+      "name": "浜屋冲绳面（北谷）",
+      "localName": "そば専門店 浜屋 / Hamaya Soba",
+      "area": "中部",
+      "lat": 26.3293,
+      "lng": 127.7444,
+      "tags": ["软骨排骨面", "冲绳面"],
+      "tips": "北谷宫城海岸附近。营业时间、价格未查到。",
+      "sources": [
+        "https://www.mapple.net/region/a0705010301/spot/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "king-tacos-kin",
+      "category": "food",
+      "name": "King Tacos 金武本店",
+      "localName": "キングタコス 金武本店 / King Tacos Kin",
+      "area": "北部",
+      "lat": 26.455,
+      "lng": 127.922,
+      "price": {
+        "min": 950,
+        "max": 950,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "起司蔬菜塔可饭 2025-03-20 起由 ¥800 调到 ¥950（2026 年 1 月确认）"
+      },
+      "hours": "10:30 开门；关门时间来源冲突（21:00 / 1:00）",
+      "tags": ["塔可饭", "发源店", "分量大"],
+      "tips": "坐标为估计（金武町 Camp Hansen 门前一带）。塔可饭由 Matsuzo Gibo 1984 年创制，Parlor Senri 已关，由家人在 King Tacos 延续。",
+      "sources": [
+        "https://www.pricey.jp/web/articles/4745",
+        "https://www.visitkintown.jp/en/spot/king-tacos-kin-main-branch",
+        "https://en.wikipedia.org/wiki/Taco_rice"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "seaside-drive-in",
+      "category": "food",
+      "name": "Seaside Drive-in（恩纳）",
+      "localName": "シーサイドドライブイン / Seaside Drive-in",
+      "area": "北部",
+      "lat": 26.4425,
+      "lng": 127.8035,
+      "price": {
+        "min": 550,
+        "max": 2600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "シーサイドサンド ¥550、チャップステーキ ¥1,500、炖牛尾 ¥2,600；招牌汤 ¥200（均无年份）"
+      },
+      "hours": "店内 8:00–20:00，外带 24 小时；周三休（遇节假日会调整）",
+      "tags": ["美式汽车餐厅", "招牌汤"],
+      "tips": "电话 098-964-2272，或看官方 SNS 确认。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80043229",
+        "https://www.mapple.net/article/49566/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "ryukyu-no-ushi-onna",
+      "category": "food",
+      "name": "琉球之牛 恩纳本馆",
+      "localName": "焼肉 琉球の牛 恩納本館 / Ryukyu no Ushi Onna",
+      "area": "北部",
+      "lat": 26.4519,
+      "lng": 127.8056,
+      "tags": ["冲绳和牛烤肉", "12 部位拼盘", "和牛握寿司", "需预约"],
+      "tips": "半包间式座位，建议预约。价格未查到。北谷店坐标 26.3204, 127.7538。",
+      "sources": [
+        "https://www.funliday.com/posts/okinawa-yakiniku/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kishimoto-shokudo",
+      "category": "food",
+      "name": "岸本食堂 本店",
+      "localName": "きしもと食堂 / Kishimoto Shokudo",
+      "area": "北部",
+      "lat": 26.6603,
+      "lng": 127.8959,
+      "price": {
+        "min": 500,
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "旧资料：冲绳面 ¥500 起；Tabelog 评价人均约 ¥999"
+      },
+      "hours": "11:00–17:30（另说 17:00），周三休；八重岳分店 11:00–19:00 无休",
+      "tags": ["冲绳面", "老店"],
+      "tips": "本部渡久地，可顺路去美丽海水族馆。电话：本店 0980-47-2887，八重岳店 0980-47-6608。",
+      "sources": [
+        "https://oki-islandguide.com/food_and_drink/kishimoto-shokudo",
+        "https://foodle.pro/restaurants/motobu/kishimoto-shokudo",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1800229/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "arakaki-zenzai",
+      "category": "food",
+      "name": "新垣善哉屋",
+      "localName": "新垣ぜんざい屋 / Arakaki Zenzaiya",
+      "area": "北部",
+      "lat": 26.6606,
+      "lng": 127.8958,
+      "price": {
+        "min": 300,
+        "max": 300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "善哉 ¥300（mapple，无年份；更早资料为 ¥250）"
+      },
+      "hours": "12:00–18:00，卖完即止；周一休（仅一个来源）",
+      "tags": ["善哉刨冰", "只收现金", "卖完即止"],
+      "tips": "本部町渡久地，和岸本食堂相距很近。2025 年 7 月仍有人去过。",
+      "sources": [
+        "https://digjapan.travel/en/spot/id=8511",
+        "https://www.mapple.net/region/a0705010000_g03040300/spot/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "motobu-bokujo-motobu",
+      "category": "food",
+      "name": "本部牧场烤肉 本部店",
+      "localName": "焼肉 もとぶ牧場 もとぶ店 / Yakiniku Motobu Bokujo",
+      "area": "北部",
+      "lat": 26.6579,
+      "lng": 127.8854,
+      "price": {
+        "min": 1500,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Gurunavi：午 ¥1,500 / 晚 ¥3,000（评论多为 2019–20 年），现价可能更高"
+      },
+      "hours": "11:30–15:00（LO 14:00）/ 17:00–22:00（LO 21:30）",
+      "tags": ["本部牛", "烤肉", "牛排"],
+      "tips": "电话 0980-51-6777。Hamoni 写的地址不同，分店需确认。那霸也有分店（OSM 坐标 26.2153, 127.6794）。",
+      "sources": [
+        "https://gurunavi.com/en/f556000/rev/rst"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "shirasa-shokudo",
+      "category": "food",
+      "name": "しらさ食堂（古宇利岛）",
+      "localName": "しらさ食堂 / Shirasa Shokudo",
+      "area": "北部",
+      "lat": 26.6967,
+      "lng": 128.0166,
+      "price": {
+        "min": 1500,
+        "max": 4000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "海胆盖饭约 ¥4,000（用户自报，无日期）；海鲜盖饭 ¥1,500（旧文）"
+      },
+      "tags": ["海胆盖饭", "海葡萄盖饭", "海鲜盖饭"],
+      "tips": "营业时间未查到。12 月是否供应海胆未确认，需先问店家。",
+      "sources": [
+        "https://okinawa.stripes.com/food-drink/shirasa-shokudo-serves-up-seafood-bowls-with-original-sauce.html",
+        "https://wanderlog.com/place/details/2681710"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "octopus-garden-aharen",
+      "category": "food",
+      "name": "Octopus Garden（阿波连海滩）",
+      "localName": "Octopus Garden",
+      "area": "渡嘉敷",
+      "lat": 26.1691,
+      "lng": 127.3472,
+      "tags": ["冲绳面", "塔可饭", "咖喱", "屋顶海景座"],
+      "tips": "坐标为估计（取阿波连海滩坐标，店在海滩入口）。冬季营业情况和价格未查到。",
+      "sources": [
+        "https://wanderlog.com/place/details/2681659"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "koja-soba",
+      "category": "food",
+      "name": "古谢面屋",
+      "localName": "古謝そば屋 / Koja Soba",
+      "area": "宫古岛",
+      "lat": 24.7905,
+      "lng": 125.2844,
+      "price": {
+        "min": 880,
+        "max": 880,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "KOJASOBA ¥880（rurubu，无年份）"
+      },
+      "hours": "11:00–16:00（LO）；周三休",
+      "tags": ["宫古面", "老店"],
+      "tips": "1932 年起卖宫古面的老店。电话 0980-72-8304。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80042987",
+        "https://www.enprimeurclub.com/restaurants/koja-sobaya-okinawa-miyakojima-restaurant"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "maruyoshi-shokudo",
+      "category": "food",
+      "name": "丸吉食堂",
+      "localName": "丸吉食堂 / Maruyoshi Shokudo",
+      "area": "宫古岛",
+      "lat": 24.734,
+      "lng": 125.385,
+      "price": {
+        "min": 600,
+        "max": 1300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "宫古面 ¥600 / ソーキ面 ¥1,300（无年份）"
+      },
+      "hours": "10:30 开门，卖完即止（约 14:00）；休息日来源冲突（周一、二、五 / 不定休）",
+      "tags": ["宫古面", "ソーキ面", "取号"],
+      "tips": "坐标为估计，只按城辺砂川地区粗估，误差可能超过 1 km。取号制，早去。离宫古机场打车约 15 分钟。电话 0980-77-4211。",
+      "sources": [
+        "https://rurubu.jp/andmore/article/24736",
+        "https://www.mapple.net/article/30654/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "kihachi-yakiniku",
+      "category": "food",
+      "name": "喜八烤肉",
+      "localName": "焼肉 喜八 / Yakiniku Kihachi",
+      "area": "宫古岛",
+      "lat": 24.802,
+      "lng": 125.281,
+      "price": {
+        "max": 8000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Retty 晚餐预算约 ¥8,000；上盐牛舌 ¥1,650、特上カルビ ¥3,300（2023–24 年评论）"
+      },
+      "hours": "18:00–22:00；不定休",
+      "tags": ["宫古牛", "烤肉", "需预约"],
+      "tips": "坐标为估计（平良下里）。整头采购宫古牛的老店，18 个座位，建议提前约 1 周预约 0980-73-3859。",
+      "sources": [
+        "https://retty.me/restaurant/100000924342/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "gouya",
+      "category": "food",
+      "name": "郷家（宫古民谣居酒屋）",
+      "localName": "泡盛と沖縄料理 郷家 / Gouya",
+      "area": "宫古岛",
+      "lat": 24.805,
+      "lng": 125.283,
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人（演出费）",
+        "note": "民谣演出费：前排 ¥1,000、后排 ¥500（2025 年 1 月点评）；刺身拼盘 2 人份 ¥2,145 起（2025 年 2 月），餐费另计"
+      },
+      "hours": "17:30–21:00（2025 年 2 月资料）；周四休；民谣演出每天 19:30 开始",
+      "tags": ["冲绳料理", "宫古民谣现场", "需预约"],
+      "tips": "坐标为估计（平良西里 570-2）。点评说淡季也会满座，必须预约。",
+      "sources": [
+        "https://www.mapple.net/article/30745/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yukishio-museum",
+      "category": "food",
+      "name": "雪盐博物馆",
+      "localName": "雪塩ミュージアム / Yukishio Museum",
+      "area": "宫古岛",
+      "lat": 24.9022,
+      "lng": 125.2682,
+      "hours": "9:00–18:30（10–3 月至 17:00）；无休",
+      "tags": ["雪盐软冰淇淋", "免费参观"],
+      "tips": "参观免费。软冰淇淋可撒不同风味的盐，价格未查到。电话 0980-72-5667。",
+      "sources": [
+        "https://www.gltjp.com/en/directory/item/13727/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "rakuen-no-kajitsu",
+      "category": "food",
+      "name": "乐园之果（来间岛）",
+      "localName": "農家れすとらん 楽園の果実 / Rakuen no Kajitsu",
+      "area": "宫古岛",
+      "lat": 24.7224,
+      "lng": 125.2477,
+      "hours": "11:00–18:00；11–2 月至 17:30",
+      "tags": ["芒果圣代", "冬季限定水果焗", "冷冻芒果"],
+      "tips": "坐标为估计（取来间岛中心）。鲜芒果季是 7–8 月；冬季供应冷冻的「蔵出しマンゴー」系列和冬季限定水果焗，12 月能否吃到芒果圣代需电话确认 0980-76-2991。价格未查到。",
+      "sources": [
+        "https://rurubu.jp/andmore/article/24517",
+        "https://www.gltjp.com/ja/directory/item/17833/"
+      ],
+      "confidence": "low"
+    }
+  ],
+  "costs": [
+    {
+      "item": "冲绳面一碗",
+      "price": { "min": 700, "max": 1000, "currency": "JPY", "unit": "每碗", "note": "老店的 ¥500–600 旧价多已上涨" },
+      "sources": ["https://onedayawaytravel.com/?p=1630"],
+      "confidence": "medium"
+    },
+    {
+      "item": "定食午餐",
+      "price": { "min": 900, "max": 1500, "currency": "JPY", "unit": "每人" },
+      "sources": ["https://onedayawaytravel.com/?p=1630", "https://jasumo.com/?p=11464"],
+      "confidence": "medium"
+    },
+    {
+      "item": "居酒屋晚餐",
+      "price": { "min": 2000, "max": 5000, "currency": "JPY", "unit": "每人", "note": "日本全国数据（jasumo 2025），非冲绳专项" },
+      "sources": ["https://jasumo.com/?p=11464"],
+      "confidence": "medium"
+    },
+    {
+      "item": "牛排晚餐（Jack's、88 等平价牛排馆）",
+      "price": { "min": 1500, "max": 3800, "currency": "JPY", "unit": "每人", "note": "Gurunavi 均价 ¥2,000，TableCheck 晚餐 ¥2,500–3,000，Jack's 菲力 L ¥3,800（无年份）；石垣牛、和牛另计" },
+      "sources": ["https://gurunavi.com/en/f159100/rst", "https://www.tablecheck.com/steakhouse88-kokusaidori", "https://rurubu.jp/andmore/spot/80042587"],
+      "confidence": "low"
+    },
+    {
+      "item": "宫古牛烤肉晚餐",
+      "price": { "min": 4000, "max": 8000, "currency": "JPY", "unit": "每人", "note": "焼肉 牛平 晚 ¥4,000（Gurunavi）；喜八预算约 ¥8,000（Retty，2023–24 年）" },
+      "sources": ["https://gurunavi.com/en/fc3m800/mn/course1/1/rst", "https://retty.me/restaurant/100000924342/"],
+      "confidence": "low"
+    },
+    {
+      "item": "便利店一餐",
+      "price": { "min": 200, "max": 700, "currency": "JPY", "unit": "每人", "note": "饭团、三明治加饮料 ¥200–500；便当 ¥400–700" },
+      "sources": ["https://jasumo.com/?p=11464"],
+      "confidence": "medium"
+    },
+    {
+      "item": "咖啡店早餐（吐司 + 鸡蛋 + 咖啡）",
+      "price": { "min": 500, "max": 1000, "currency": "JPY", "unit": "每人", "note": "单杯咖啡价格未查到；便利店罐装咖啡 ¥100–150" },
+      "sources": ["https://jasumo.com/?p=11464"],
+      "confidence": "medium"
+    },
+    {
+      "item": "Blue Seal 冰淇淋单球",
+      "price": { "min": 380, "max": 380, "currency": "JPY", "unit": "每份", "note": "国际通店数据，双球 ¥640；年份不明" },
+      "sources": ["https://mom-mom.net/en/travel/places/66f669f09a5ba4cd8509222f"],
+      "confidence": "low"
+    },
+    {
+      "item": "庆良间浮潜（那霸出发，半日）",
+      "price": { "min": 6000, "max": 8500, "currency": "JPY", "unit": "每人", "note": "含船费、保险、导游、装备（阪急 2025 年 4 月起）；asoview、Veltra ¥6,800 起；冬季视海况常停开" },
+      "sources": ["https://x.hankyu-travel.com/f_up/data/pdf/osa_d/osa_d_281834.pdf", "https://www.asoview.com/item/activity/pln3000012607/"],
+      "confidence": "medium"
+    },
+    {
+      "item": "宫古岛海龟浮潜",
+      "price": { "min": 3900, "max": 10000, "currency": "JPY", "unit": "每人", "note": "岸边出发约 ¥3,900–7,000；包团约 ¥10,000 起；冬季多数店免费借防寒潜水服" },
+      "sources": ["https://www.asoview.com/item/activity/pln3000044727/", "https://www.asoview.com/item/activity/pln3000039940/", "https://www.veltra.com/jp/japan/okinawa/miyako_island/a/187320"],
+      "confidence": "medium"
+    },
+    {
+      "item": "每日预算：穷游（不含机票、酒店）",
+      "price": { "min": 6000, "max": 9000, "currency": "JPY", "unit": "每人每天", "note": "约 ¥250–380 人民币。按 jasumo 餐饮档位（¥2,000–3,000/天）加本地交通、门票推算，不含浮潜等活动" },
+      "sources": ["https://jasumo.com/?p=11464", "https://onedayawaytravel.com/?p=1630"],
+      "confidence": "low"
+    },
+    {
+      "item": "每日预算：中等（不含机票、酒店）",
+      "price": { "min": 13000, "max": 20000, "currency": "JPY", "unit": "每人每天", "note": "约 ¥550–850 人民币。按 jasumo 餐饮档位（¥4,000–6,000/天）加租车分摊、门票推算；onedayawaytravel 中档全包（含住宿）¥12,000–23,000" },
+      "sources": ["https://jasumo.com/?p=11464", "https://onedayawaytravel.com/?p=1630"],
+      "confidence": "low"
+    },
+    {
+      "item": "每日预算：舒适（不含机票、酒店）",
+      "price": { "min": 30000, "max": 45000, "currency": "JPY", "unit": "每人每天", "note": "约 ¥1,270–1,900 人民币。按 jasumo 高档餐饮（¥10,000+/天）加和牛晚餐、租车、门票推算" },
+      "sources": ["https://jasumo.com/?p=11464"],
+      "confidence": "low"
+    },
+    {
+      "item": "汇率 JPY→CNY",
+      "price": { "min": 0.04225, "max": 0.04225, "currency": "CNY", "unit": "每 1 日元", "note": "Wise 2026-10-28：1 JPY = 0.04225 CNY，即 1 CNY ≈ 23.67 JPY，¥10,000 ≈ 423 元人民币；近 7 日 0.0422–0.0426" },
+      "sources": ["https://wise.com/gb/currency-converter/jpy-to-cny-rate/history"],
+      "confidence": "high"
+    }
+  ],
+  "notes": [
+    "只收现金或不收信用卡的店：千日、新垣善哉屋，泊港鱼市场部分摊位。冲绳面老店建议都备好现金。",
+    "卖完即止：首里そば（常在 14 点前卖完）、丸吉食堂、新垣善哉屋。想吃要中午前去。",
+    "需要或建议预约：喜八（提前约 1 周）、郷家（淡季也满座）、我那覇豚肉店吃到饱（提前一天）、琉球之牛。",
+    "12 月季节性：宫古芒果季是 7–8 月，冬季只有冷冻芒果甜品；古宇利岛的海胆盖饭 12 月是否供应需先确认；浮潜要看海况，常改期或停开，冬季穿防寒潜水服。",
+    "渡嘉敷一日游：阿波连冬季游客少，餐馆营业不定，建议在那霸泊港出发前买好便当或饭团带上岛。可打电话问渡嘉敷村观光协会 098-987-2332。",
+    "第一牧志公设市场的玩法：1F 买海鲜，拿到 2F 代煮，食材和代煮费分开付。",
+    "多数价格来自第三方网站且年份不明，2025 年起外卖、外食普遍涨价（如 King Tacos 塔可饭从 ¥800 涨到 ¥950），旧价只能作下限参考。",
+    "汇率按 Wise 2026-10-28：1 CNY ≈ 23.67 JPY。"
+  ],
+  "unverified": [
+    "Jack's 牛排馆的定休日（周三，还是只在元旦、旧盆休），以及是否接受预约。",
+    "第一牧志公设市场的营业时间和 2F 代煮费，只有第三方资料。",
+    "以下价格是旧数据或无年份：首里そば ¥500、岸本食堂、本部牧场烤肉、Seaside Drive-in、喜八菜单价、Blue Seal 单球、古谢面屋、丸吉食堂。",
+    "我那覇豚肉店的营业时间和电话；琉球之牛各店的价格。",
+    "雪盐软冰淇淋的价格；Blue Seal 牧港本店的单球价格；A&W 的价格。",
+    "糸满渔民食堂现在是否营业，能找到的最新报道是 2020 年。",
+    "以下坐标是估计的：丸吉食堂（误差可能超过 1 km）、喜八、郷家、King Tacos、乐园之果、A&W、糸满渔民食堂、Octopus Garden。88 牛排馆、A&W 的 OSM 点对应哪家分店也未确认；首里そば OSM 上有两个同名点。",
+    "12 月：庆良间和宫古的浮潜是否开团，古宇利岛是否供应海胆，阿波连餐馆冬季是否营业。",
+    "Orion 生啤在酒吧或居酒屋的价格、单杯咖啡价格：没有找到有出处的数字，因此未列入 costs。",
+    "每日预算三档是按 jasumo 的餐饮档位加交通、门票推算的，不是直接来源的数字。",
+    "浜屋冲绳面、ゆうなんぎい 的休息日和营业时间。",
+    "任务里提到的宜野湾「Senju」善哉店没有找到，那霸善哉改推了千日。"
+  ]
+}

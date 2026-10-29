@@ -1,0 +1,679 @@
+{
+  "destination": "冲绳",
+  "slug": "okinawa",
+  "part": "stay-shop",
+  "travelMonth": "2026-12",
+  "generatedAt": "2026-10-28",
+  "places": [
+    {
+      "id": "kokusai-dori",
+      "category": "shopping",
+      "name": "国际通",
+      "localName": "国際通り (Kokusai-dori)",
+      "area": "那霸",
+      "lat": 26.2153,
+      "lng": 127.6846,
+      "hours": "各店不同；每周日 12:00–18:00 为步行街",
+      "duration": "2–3小时",
+      "tags": ["伴手礼", "街区", "步行街"],
+      "tips": "全长约1.6km（县厅前到安里三岔路），约600家店，集中买伴手礼最方便，价格是标准游客价。坐标为街道西段的地图标点。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_47201aj2200024177/",
+        "https://www.jalan.net/kankou/spt_guide000000191995/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "heiwa-dori",
+      "category": "shopping",
+      "name": "平和通 / 市场本通商店街",
+      "localName": "平和通り・市場本通り (Heiwa-dori arcades)",
+      "area": "那霸",
+      "lat": 26.2150,
+      "lng": 127.6887,
+      "hours": "各店不同",
+      "duration": "1–2小时",
+      "tags": ["伴手礼", "拱廊商店街", "本地价"],
+      "tips": "以本地顾客为主，衣物、食品、杂货较便宜，能淘到少见的东西；有百年琉球玻璃老店久場川屋（くば笠屋）本店。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_47201aj2200025764/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "makishi-public-market",
+      "category": "shopping",
+      "name": "第一牧志公设市场",
+      "localName": "那覇市第一牧志公設市場 (Makishi Public Market)",
+      "area": "那霸",
+      "lat": 26.2145,
+      "lng": 127.6883,
+      "hours": "8:00–22:00（各店不同），2楼食堂约至20:00最后点餐；第4个周日休（多数资料写12月除外）",
+      "duration": "1–2小时",
+      "tags": ["市场", "海鲜", "代客加工"],
+      "tips": "2023年3月在原址重新开业。1楼买海鲜可拿到2楼食堂代加工。12月第4个周日是否营业各来源说法不一，去前确认。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/第一牧志公設市場",
+        "https://rurubu.jp/andmore/spot/80042438",
+        "https://www.gltjp.com/ja/directory/item/13361/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "t-galleria-okinawa",
+      "category": "shopping",
+      "name": "T Galleria 冲绳 by DFS",
+      "localName": "Tギャラリア 沖縄 by DFS",
+      "area": "那霸",
+      "lat": 26.2226,
+      "lng": 127.6979,
+      "hours": "10:00–20:00（季节、店铺不同；じゃらん写11:00开门），全年无休",
+      "duration": "1–2小时",
+      "tags": ["免税", "奢侈品", "化妆品", "冲绳特定免税"],
+      "tips": "紧邻单轨おもろまち站，有免费停车服务。适用冲绳特定免税：从那霸机场（国内线、国际线）或宫古机场、下地岛机场（国内线）出发均可，年满18岁、个人自用，在机场柜台提货。",
+      "sources": [
+        "https://www.walkerplus.com/spot/ar1047s576265/data.html",
+        "https://www.jalan.net/kankou/spt_guide000000215970/",
+        "https://www.dfs.com/en/okinawa/terms-and-conditions-okinawa/general-article-japan"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "naha-main-place",
+      "category": "shopping",
+      "name": "San-A 那霸 Main Place",
+      "localName": "サンエー那覇メインプレイス (San-A Naha Main Place)",
+      "area": "那霸",
+      "lat": 26.2257,
+      "lng": 127.6952,
+      "hours": "9:00–22:00（食品馆至23:00），无休",
+      "duration": "1–2小时",
+      "tags": ["购物中心", "超市", "伴手礼"],
+      "tips": "停车位约2,500个。超市里的冲绳点心、黑糖、泡盛是本地价，适合批量买。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/サンエー那覇メインプレイス",
+        "https://rurubu.jp/andmore/spot/80042591"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "naha-airport-terminal",
+      "category": "shopping",
+      "name": "那霸机场旅客航站楼",
+      "localName": "那覇空港旅客ターミナル (Naha Airport)",
+      "area": "那霸",
+      "lat": 26.2065,
+      "lng": 127.6507,
+      "hours": "设施时间：国内线区域 6:00–24:00，国际线区域 6:00–22:00（各店不同）",
+      "duration": "1小时",
+      "tags": ["机场", "伴手礼", "DFS"],
+      "tips": "国内线2楼出发大厅集中了大量伴手礼店；国内线候机区内有 DFS；国际线与国内线之间的连接设施内有商业街「ゆいにちストリート」。坐标为国内线航站楼1楼观光案内所。设施时间来源为2021年规程，偏旧。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/那覇空港",
+        "https://www.cab.mlit.go.jp/wcab/file/nahar3.3.25.pdf",
+        "https://www.jalan.net/kankou/spt_47201aa1030000649/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ashibinaa-outlet",
+      "category": "shopping",
+      "name": "冲绳奥特莱斯 Ashibinaa",
+      "localName": "沖縄アウトレットモール あしびなー (Okinawa Outlet Mall Ashibinaa)",
+      "area": "豊崎",
+      "lat": 26.1589,
+      "lng": 127.6569,
+      "hours": "10:00–20:00（餐饮店各异）",
+      "duration": "2小时",
+      "tags": ["奥特莱斯", "品牌折扣", "离机场近"],
+      "tips": "107家店，约1,000个车位。2026年1月22日开了冲绳首家 Anker 直营奥特莱斯店。适合自驾日还车前顺路逛。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/沖縄アウトレットモールあしびなー",
+        "https://www.triptojapan.com/ja/places/okinawa-outlet-mall-ashibinaa/crziMRn4RrSP2Zik4NRc7w",
+        "https://www.phileweb.com/news/d-av/202601/14/64296.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "iias-okinawa-toyosaki",
+      "category": "shopping",
+      "name": "iias 冲绳豊崎",
+      "localName": "イーアス沖縄豊崎 (iias Okinawa Toyosaki)",
+      "area": "豊崎",
+      "lat": 26.1575,
+      "lng": 127.6504,
+      "hours": "10:00–21:00（部分店铺 9:00 开门或营业到 23:00）",
+      "duration": "2小时",
+      "tags": ["购物中心", "离机场近", "水族馆"],
+      "tips": "约3,000个车位。内有 DMM かりゆし水族館、AEON Style、Loft、Bic Camera、优衣库、GU、大创。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/イーアス沖縄豊崎",
+        "https://livejapan.com/en/in-japan/spot-lj0137760"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "aeon-mall-okinawa-rycom",
+      "category": "shopping",
+      "name": "AEON Mall 冲绳 Rycom",
+      "localName": "イオンモール沖縄ライカム (AEON Mall Okinawa Rycom)",
+      "area": "中部",
+      "lat": 26.3142,
+      "lng": 127.7957,
+      "hours": "专卖店 10:00–22:00；餐厅 11:00–23:00；AEON Style 2F 8:00–23:00、3F/4F 9:00–22:00",
+      "duration": "2–3小时",
+      "tags": ["购物中心", "北上顺路"],
+      "tips": "约4,000个车位。自驾北部来回可顺路。台风时可能临时提前关门。",
+      "sources": [
+        "https://okinawarycom.aeonmall.jp/",
+        "https://ja.wikipedia.org/wiki/イオンモール沖縄ライカム",
+        "https://okinawahai.com/?p=24269"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "american-village",
+      "category": "shopping",
+      "name": "美浜 American Village / Depot Island",
+      "localName": "美浜アメリカンビレッジ・デポアイランド (Mihama American Village)",
+      "area": "中部",
+      "lat": 26.3162,
+      "lng": 127.7567,
+      "hours": "各店不同（未查到统一营业时间）",
+      "duration": "2–3小时",
+      "tags": ["美式街区", "日落", "烟火"],
+      "tips": "2026年12月北谷烟火均为20:00开始：12/5、12/12、12/19、12/24、12/25、12/26，免费观看，强风时可能取消。Depot Island 地址为北谷町美浜9-1。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/美浜アメリカンビレッジ",
+        "https://www.depot-island.co.jp/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "miyako-public-market",
+      "category": "shopping",
+      "name": "宫古岛市公设市场",
+      "localName": "宮古島市公設市場 (Miyakojima City Public Market)",
+      "area": "宫古岛",
+      "lat": 24.8040,
+      "lng": 125.2787,
+      "hours": "8:00–21:00（各店不同，休息日也各店不同）",
+      "duration": "30分钟–1小时",
+      "tags": ["市场", "宫古牛", "便当"],
+      "tips": "在平良市区，规模小，上午部分店铺可能没开；便当和熟食便宜，适合买宫古牛。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_guide000000185006/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shima-no-eki-miyako",
+      "category": "shopping",
+      "name": "岛之驿 宫古",
+      "localName": "島の駅みやこ (Shima no Eki Miyako)",
+      "area": "宫古岛",
+      "lat": 24.7959,
+      "lng": 125.2743,
+      "hours": "10–3月 9:00–18:00，4–9月 9:00–19:00，全年无休",
+      "duration": "1小时",
+      "tags": ["伴手礼", "特产", "免费停车"],
+      "tips": "在伊良部大桥附近的平良久贝，免费停车（约46个车位）。雪盐商品、泡盛、黑糖点心、宫古荞麦面齐全，有美食区。宫古机场2楼有分店（10:00–18:00）。有资料写7:30开门，与其他来源不一致。",
+      "sources": [
+        "https://www.jalan.net/kankou/spt_guide000000218953/",
+        "https://japantravel.navitime.com/en/area/jp/spot/02301-1803025",
+        "https://www.ana.co.jp/ja/es/japan-travel-planner/okinawa/0000015.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yukishio-museum",
+      "category": "shopping",
+      "name": "雪盐博物馆",
+      "localName": "雪塩ミュージアム (Yukishio Museum)",
+      "area": "宫古岛",
+      "lat": 24.9022,
+      "lng": 125.2684,
+      "hours": "9:00–17:00（冬季）；夏季至18:00或18:30（来源不一），无休",
+      "duration": "30分钟–1小时",
+      "tags": ["雪盐", "免费参观", "伴手礼"],
+      "tips": "地址平良狩俣191，在池间大桥前，离宫古机场约30分钟车程，免费入场。可以吃雪盐冰淇淋，商店有雪盐相关和馆内限定商品。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80129718",
+        "https://www.mapple.net/article/30858/",
+        "https://www.jalan.net/kankou/spt_alikejpB001196171/map/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "the-nest-naha",
+      "category": "lodging",
+      "name": "THE NEST 那霸",
+      "localName": "THE NEST NAHA",
+      "area": "那霸",
+      "lat": 26.2127,
+      "lng": 127.6723,
+      "price": {
+        "min": 14000,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示约7,000日元/人起，按2人1间换算；快照日期不明，不是12月实价"
+      },
+      "tags": ["经济", "停车：1,800日元/天", "旭桥站步行约5分钟", "2025年7月开业"],
+      "tips": "那霸西1丁目，旭桥/港区一带；14楼有22米恒温无边泳池。",
+      "sources": [
+        "https://www.jalan.net/yad305301/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "daiwa-roynet-omoromachi-premier",
+      "category": "lodging",
+      "name": "Daiwa Roynet 那霸おもろまち PREMIER",
+      "localName": "ダイワロイネットホテル那覇おもろまちPREMIER",
+      "area": "那霸",
+      "lat": 26.2246,
+      "lng": 127.6960,
+      "price": {
+        "min": 13500,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2人双床纯住宿约13,500起，含早约15,500起；快照日期不明"
+      },
+      "tags": ["经济", "停车：1,100日元/晚", "おもろまち站步行约6分钟"],
+      "tips": "离 T Galleria 和 San-A Main Place 很近，到国际通步行约15分钟。",
+      "sources": [
+        "https://www.jalan.net/yad325896/",
+        "https://www.jalan.net/yad325896/kuchikomi/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-collective",
+      "category": "lodging",
+      "name": "Hotel Collective",
+      "localName": "ホテルコレクティブ (Hotel Collective)",
+      "area": "那霸",
+      "lat": 26.2152,
+      "lng": 127.6855,
+      "price": {
+        "min": 21200,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约21,200起；快照日期不明"
+      },
+      "tags": ["中档", "停车：1,800日元/晚（立体停车场）", "国际通沿街"],
+      "tips": "那霸松尾2-5-7，在国际通上；周日12:00–18:00步行街期间，车辆只能从浮岛通进出。有大浴场和泳池。",
+      "sources": [
+        "https://www.jalan.net/yad382520/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hyatt-regency-naha",
+      "category": "lodging",
+      "name": "Hyatt Regency 那霸冲绳",
+      "localName": "ハイアット リージェンシー 那覇 沖縄 (Hyatt Regency Naha Okinawa)",
+      "area": "那霸",
+      "lat": 26.2144,
+      "lng": 127.6902,
+      "price": {
+        "min": 22950,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约22,950起；快照日期不明"
+      },
+      "tags": ["高档", "停车：1,500日元/晚", "国际通步行3分钟"],
+      "tips": "牧志3-6-20，牧志站步行约8分钟，离机场车程约20分钟；有室外泳池，早餐评价高。",
+      "sources": [
+        "https://www.jalan.net/yad373185/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "royal-park-iconic-naha",
+      "category": "lodging",
+      "name": "The Royal Park Hotel Iconic 那霸",
+      "localName": "ザ ロイヤルパークホテル アイコニック 那覇",
+      "area": "那霸",
+      "lat": 26.2144,
+      "lng": 127.6786,
+      "price": {
+        "min": 19040,
+        "max": 28120,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん排行显示约9,520日元/人起（2人1间约19,040）；开业纪念方案（适用2026/1/30–7/31）2人含早28,120起。都不是12月实价"
+      },
+      "tags": ["高档", "停车：1,800日元/晚", "县厅前站步行约2分钟", "2026年1月开业"],
+      "tips": "久茂地1-11-1，琉球银行新总部大楼7–13楼，257间客房。泳池只在3–11月开放，12月用不了。",
+      "sources": [
+        "https://www.jalan.net/yad376067/",
+        "https://www.fashion-press.net/news/130406"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "vessel-campana-okinawa",
+      "category": "lodging",
+      "name": "Vessel Hotel Campana 冲绳",
+      "localName": "ベッセルホテルカンパーナ沖縄 (Vessel Hotel Campana Okinawa)",
+      "area": "中部",
+      "lat": 26.3151,
+      "lng": 127.7542,
+      "tags": ["中档", "停车：免费（页面乱码，待确认）", "北谷美浜", "大浴场"],
+      "tips": "在北谷美浜，日落海滩前，离那霸机场约40分钟；有展望大浴场、桑拿和屋顶泳池。房价未查到。",
+      "sources": [
+        "https://www.jalan.net/yad306902/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hilton-okinawa-chatan",
+      "category": "lodging",
+      "name": "Hilton 冲绳北谷",
+      "localName": "ヒルトン沖縄北谷リゾート (Hilton Okinawa Chatan Resort)",
+      "area": "中部",
+      "lat": 26.3194,
+      "lng": 127.7545,
+      "price": {
+        "min": 37042,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人约37,042起；快照日期不明"
+      },
+      "tags": ["高档", "停车：2026-05-15起收费，约500日元（金额待确认）", "北谷美浜"],
+      "tips": "美浜40-1，步行可到 American Village 和海滩，离那霸机场约40分钟。隔壁是 DoubleTree by Hilton 冲绳北谷。",
+      "sources": [
+        "https://www.jalan.net/yad308366/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-monterey-okinawa",
+      "category": "lodging",
+      "name": "Hotel Monterey 冲绳 Spa & Resort",
+      "localName": "ホテルモントレ沖縄 スパ＆リゾート (Hotel Monterey Okinawa Spa & Resort)",
+      "area": "恩纳",
+      "lat": 26.4537,
+      "lng": 127.8057,
+      "price": {
+        "min": 26600,
+        "max": 29400,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "排行页显示13,300日元/人起（2人约26,600），方案页显示2人29,400起；快照日期不明"
+      },
+      "tags": ["中档", "停车：500日元/天", "全海景", "4个泳池"],
+      "tips": "恩纳村冨着1550-1，经冲绳自动车道离那霸机场约60分钟，339间客房，有大浴场。",
+      "sources": [
+        "https://www.jalan.net/yad311816/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hyatt-regency-seragaki-island",
+      "category": "lodging",
+      "name": "Hyatt Regency 濑良垣岛冲绳",
+      "localName": "ハイアット リージェンシー 瀬良垣アイランド 沖縄 (Hyatt Regency Seragaki Island Okinawa)",
+      "area": "恩纳",
+      "lat": 26.5120,
+      "lng": 127.8689,
+      "price": {
+        "min": 40200,
+        "max": 71800,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん不同快照显示2人约40,200–71,800；另收度假费330日元/人（6岁以上）"
+      },
+      "tags": ["高档", "停车：1,000日元/天（另有约2,000日元/天选项）", "小岛度假村"],
+      "tips": "整座小岛都是酒店范围，有桥连到本岛；离那霸机场约90分钟车程。",
+      "sources": [
+        "https://www.jalan.net/yad383182/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "orion-hotel-motobu",
+      "category": "lodging",
+      "name": "Orion Hotel Motobu Resort & Spa",
+      "localName": "オリオンホテル モトブ リゾート＆スパ",
+      "area": "本部",
+      "lat": 26.6992,
+      "lng": 127.8794,
+      "price": {
+        "min": 61710,
+        "max": 194480,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "11/27–11/28 快照（应为2026年），2人含早：海景豪华房61,710、高层海景85,800、小套房104,545、皇家套房194,480"
+      },
+      "tags": ["高档", "停车：约1,000日元（按天还是按次说法不一）", "紧邻美丽海水族馆"],
+      "tips": "本部町备濑148-1，步行约7分钟到美丽海水族馆；有温泉，是 JUNGLIA 冲绳的合作酒店。",
+      "sources": [
+        "https://www.jalan.net/yad307948/",
+        "https://jcation.com/hotel/detail-2269/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "royal-view-hotel-churaumi",
+      "category": "lodging",
+      "name": "Royal View Hotel 美丽海",
+      "localName": "ロイヤルビューホテル美ら海 (Royal View Hotel Churaumi)",
+      "area": "本部",
+      "lat": 26.6953,
+      "lng": 127.8793,
+      "tags": ["中档", "停车：费用未查到", "步行5分钟到水族馆"],
+      "tips": "本部町石川938；经许田IC离那霸机场约1小时47分钟。房价未查到。",
+      "sources": [
+        "https://www.jalan.net/yad346870/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-atollemerald-miyakojima",
+      "category": "lodging",
+      "name": "Hotel Atoll Emerald 宫古岛",
+      "localName": "ホテルアトールエメラルド宮古島 (Hotel Atollemerald Miyakojima)",
+      "area": "宫古岛",
+      "lat": 24.8056,
+      "lng": 125.2747,
+      "price": {
+        "min": 15800,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "じゃらん显示2人纯住宿约15,800起；快照日期不明"
+      },
+      "tags": ["中档", "停车：免费（据じゃらん）", "平良市区"],
+      "tips": "平良下里108-7，离宫古机场约13分钟、下地岛机场约20分钟；海景好，建筑较旧。",
+      "sources": [
+        "https://www.jalan.net/yad362861/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hilton-okinawa-miyako",
+      "category": "lodging",
+      "name": "Hilton 冲绳宫古岛",
+      "localName": "ヒルトン沖縄宮古島リゾート (Hilton Okinawa Miyako Island Resort)",
+      "area": "宫古岛",
+      "lat": 24.8013,
+      "lng": 125.2591,
+      "tags": ["高档", "停车：约300个车位，代客泊车约1,000日元（待确认）", "免费机场接驳"],
+      "tips": "平良久贝550-7（トゥリバー地区），离宫古机场约15分钟、下地岛机场约25分钟，有宫古机场免费接驳巴士。2026年4月隔壁新开了 Canopy by Hilton（306间）。房价只查到外币快照，没有写入。",
+      "sources": [
+        "https://www.jalan.net/yad353775/",
+        "https://travel.watch.impress.co.jp/docs/news/2062341.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "iraph-sui-miyako",
+      "category": "lodging",
+      "name": "Iraph SUI, a Luxury Collection Hotel, 冲绳宫古",
+      "localName": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+      "area": "宫古岛",
+      "lat": 24.8093,
+      "lng": 125.1889,
+      "price": {
+        "min": 91000,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "Best Rate 方案（含晚餐和早餐）2人约91,000起；快照日期不明"
+      },
+      "tags": ["高档", "停车：有，费用未查到", "伊良部岛", "免费机场接送"],
+      "tips": "在伊良部大桥桥头，58间客房；离下地岛机场约10分钟、宫古机场约35分钟；两个机场都有免费接送，需提前3天预约。",
+      "sources": [
+        "https://www.jalan.net/yad377836/",
+        "https://www.jalan.net/yad377836/qa/0006312191.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "miyakojima-tokyu-hotel",
+      "category": "lodging",
+      "name": "宫古岛东急酒店",
+      "localName": "宮古島東急ホテル&リゾーツ (Miyakojima Tokyu Hotel & Resorts)",
+      "area": "宫古岛",
+      "lat": 24.7413,
+      "lng": 125.2622,
+      "tags": ["高档", "停车：费用未查到", "与那霸前滨海滩"],
+      "tips": "下地与那霸914，紧邻与那霸前滨海滩，离宫古机场约10分钟。房价没有可靠来源，未写入。",
+      "sources": [
+        "https://www.jalan.net/yad347149/"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "costs": [
+    {
+      "item": "元祖紅芋塔（御菓子御殿）6个装",
+      "price": {
+        "min": 1296,
+        "max": 1296,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价；JAF 2025年10月文章写的是900日元，差距大，需在店里核实"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html",
+        "https://jafmate.jp/drive/must-buy-souvenir_20251022.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "元祖紅芋塔（御菓子御殿）10个装",
+      "price": {
+        "min": 2160,
+        "max": 2160,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "雪盐ちんすこう（南風堂）24个装",
+      "price": {
+        "min": 810,
+        "max": 810,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "雪盐ちんすこう（南風堂）48个装",
+      "price": {
+        "min": 1512,
+        "max": 1512,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年8月刊载价（2025年版是1,296日元）"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html",
+        "https://jafmate.jp/drive/must-buy-souvenir_20251022.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "开口笑（沖縄ハム サーターアンダギー）6个装",
+      "price": {
+        "min": 583,
+        "max": 583,
+        "currency": "JPY",
+        "unit": "每袋",
+        "note": "2026年8月刊载价"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260822.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "宫古岛雪盐 120g",
+      "price": {
+        "min": 864,
+        "max": 864,
+        "currency": "JPY",
+        "unit": "每袋",
+        "note": "导游网站刊载价，日期不明"
+      },
+      "sources": [
+        "https://www.gltjp.com/ja/directory/item/16746/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "琉球玻璃杯（glacitta' Tsubu Cup）",
+      "price": {
+        "min": 1760,
+        "max": 1760,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "2022年1月文章，偏旧"
+      },
+      "sources": [
+        "https://en.hoshinoresorts.com/guide/area/okinawa-area/okinawa/okinawa-omiyage"
+      ],
+      "confidence": "low"
+    }
+  ],
+  "notes": [
+    "日本免税改为退税制（2026年11月1日起，无过渡期）：结账时先付含税价，出示护照，购买记录电子登记；离开日本时，在国际线出发大厅、办理值机之前，到海关或自助终端（可用 Visit Japan Web）核验，海关确认后由店铺退税（信用卡、银行转账、APP 或机场现金，各店不同）。条件：同店同日满5,000日元（税前），购买后90天内出境；取消消耗品的单独类别、50万日元上限和专用封装，但出境前不能食用；一张小票的商品必须全部带齐，否则整单不退；从国内线转国际线时，在最终离开日本的机场办理。日本居民不适用。",
+    "冲绳特定免税店（DFS，关税免除，和退税制是两套制度）：年满18岁、个人自用即可购买，日本居民也可以；适用的出发航班为那霸机场（国内线、国际线）、那霸邮轮码头，以及宫古机场、下地岛机场的国内线（石垣不在列）；在 T Galleria 或网上下单，到机场柜台凭确认邮件和登机牌提货，当天不取就自动取消；从离岛转机经那霸、中转时间太短时可能取不到货。免关税额度为20万日元，制度已延长到2027年3月底。",
+    "冲绳县住宿税2027年2月开征（县税2%，每人每晚上限2,000日元；与市町村税重叠时县税部分会下调），2026年12月入住不受影响。",
+    "酒税：2026年10月1日起酒税改正，冲绳回归特别措施的酒税减免结束；据报道 Orion 啤酒降价、发泡酒和酎ハイ涨价，具体零售价未查到。",
+    "じゃがポックル（Jagapokkuru）是北海道限定商品（北海道原料、北海道工厂生产），不是冲绳伴手礼。",
+    "住宿区域｜那霸：适合第1–2天。国际通、牧志一带吃饭购物步行可达；旭桥和久茂地离县厅前站、旭桥站近，交通方便；おもろまち靠近 DFS 和 Main Place，相对安静。单轨电车直达机场，市区几天可以不租车。缺点是酒店停车每晚1,100–1,800日元，国际通周日12:00–18:00为步行街，车辆进出受限。",
+    "住宿区域｜中部：北谷/美浜 American Village 一带，离那霸机场约40分钟。优点是看海边日落、逛美式街区，12月周六有20:00的烟火，北上或回程都顺路，旁边就是 AEON Rycom。缺点是到美丽海水族馆仍要1小时以上，部分酒店停车开始收费（Hilton 自2026年5月起）。",
+    "住宿区域｜恩纳：西海岸度假村集中，离那霸机场约60–90分钟，到本部半岛比那霸近得多。适合想住海景度假村的人。缺点是房价高，周边吃饭选择少，度假村停车多数要收费（500–1,000日元/天）。",
+    "住宿区域｜本部：美丽海水族馆和备濑福木林就在旁边，可以早上第一个入馆。缺点是离那霸机场约1小时47分钟，晚上周边店少；第3天当天要回那霸的话，不必在这里住。",
+    "住宿区域｜宫古岛：三个区域都需要租车。平良市区离宫古机场约10–15分钟，吃饭、购物（公设市场、岛之驿）方便，价位最友好；伊良部/下地岛海景最好，离下地岛机场约10分钟，但离市区约25–35分钟；与那霸前滨（东急）紧邻前滨海滩，离宫古机场约10分钟，适合以海滩为主的行程。",
+    "建议住宿安排：第1–2天住那霸2晚（国际通或旭桥），不租车，坐单轨电车。第3天早上在机场取车，经冲绳自动车道去美丽海（约1小时47分钟），回程顺路逛 AEON Rycom 或 American Village，最后在豊崎的 Ashibinaa / iias 补货后还车。宫古2晚有两种走法：A）第3天傍晚从那霸飞宫古，住第3、4晚，第5天从宫古离开（行程紧，需确认冬季末班机）；B）第3晚住北谷（如果是周六还能看烟火），第4天上午飞宫古，这样宫古只能住1晚，要住满2晚就得延长到6天。宫古优先住平良（Atoll Emerald 或 Hilton 宫古岛），兼顾吃饭和购物；想住海滩度假村选前滨东急；从下地岛机场进出就选伊良部的 Iraph SUI。注意：「5天」和「宫古2晚」在晚数上对不上，需要和用户确认。"
+  ],
+  "unverified": [
+    "各区域房价区间（经济/中档/高档）原本是估算值，没有可靠来源，没有写入；各酒店价格都是预订站快照，日期多数不明，不代表2026年12月上旬实价。",
+    "经济型住宿只调研了那霸；北谷、恩纳、本部、宫古岛的经济型选项（民宿、公寓式酒店等）未调研。",
+    "宫古岛东急酒店：有预订站显示约42,055日元起，但具体是哪个网站、什么日期和条件都不明，没有写入。Hilton 冲绳宫古岛的房价只查到外币快照（约合38,000–45,000日元），没有写入。DoubleTree by Hilton 冲绳北谷（2人约33,282起）的坐标未取得，也没有写入。",
+    "Canopy by Hilton 冲绳宫古岛度假酒店（2026-04-01开业，平良久贝トゥリバー地区）：Nominatim 无法连接，坐标未取得，已从 places 中删除。",
+    "伊良部大桥 海之驿（いらぶ大橋 海の駅，伊良部字池間添1092-1，1楼卖特产、2楼餐厅）：Nominatim 无法连接，坐标和营业时间都没取到，已删除。「Island Market Irabu」没有找到对应设施。",
+    "营业时间待确认：国际通、平和通各店，American Village / Depot Island 各店，那霸机场各店铺（设施时间来源是2021年规程）；T Galleria 是10:00还是11:00开门；第一牧志市场12月第4个周日是否营业；岛之驿宫古开门时间（9:00还是7:30）；雪盐博物馆夏季关门时间。",
+    "各购物点的免税/退税对应情况没有逐一核实（例如 AEON Rycom 的免税柜台只见于第三方资料）。",
+    "伴手礼价格：元祖紅芋塔6个装有900和1,296两种说法；雪盐120g（864日元）和琉球玻璃杯（1,760日元）的来源日期不明或偏旧；Blue Seal 商品、Orion 啤酒零售价、泡盛（机场7年古酒7,560日元是旧资料）、黑糖、壶屋烧/Yachimun 陶器、风狮爷 shisa（有资料写200–20,000日元以上，来源不确定）的价格都没有可靠的近期来源；2026年的冲绳限定 Calbee 商品没有查到。",
+    "停车费来自乱码页面或说法不一，待确认：Vessel Campana（免费？）、Hilton 北谷（2026年5月起收费的具体金额）、Orion 本部（按天还是按次）、Hilton 宫古岛（代客泊车）、Iraph SUI、宫古岛东急、Royal View 美丽海。",
+    "JTB 页面显示宫古岛某酒店「2026/12/15 退房起至12/21全馆休业」，但没确认是哪一家（可能是宫古岛东急），预订前要确认。",
+    "退税制细节：那霸机场国际线退税柜台的具体位置、到账时间，以及日后是否会废除免税制度；冲绳特定免税店制度2027年3月以后是否继续。",
+    "2026年冬季那霸到宫古的末班机时间未查到。",
+    "宫古岛市、本部町各自的住宿税开征日期未核实（有资料写为1.2%，上限1,200日元）。",
+    "坐标说明：商场和景点的坐标取自 Wikipedia 或じゃらん的地图标点，酒店坐标取自じゃらん酒店页的静态地图；国际通、平和通是街道上的一个点；雪盐博物馆的标点名称是「雪塩製塩所」。建议出发前在地图上再核对一次。"
+  ]
+}
