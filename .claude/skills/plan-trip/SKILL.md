@@ -18,7 +18,7 @@ argument-hint: <目的地> [天数或日期] [出发城市] [偏好…]
 | `README.md` | 按类别排好的一览表，带来源链接，给人看的 |
 | `trips/<方案>.json` | 逐日行程方案。一个目的地可以有多个方案，如 `3d-city.json`、`5d-main-island-miyako.json` |
 
-**目的地的粒度**：一个城市或一个紧凑的旅行地区一个目的地，如「清迈」「冲绳」「京都」。多城市的长线行程（如「日本关西 7 日」）按主要停留城市拆成多个目的地分别调研；行程方案放在停留最久的那个目的地下，并在 `Trip.name` 里写清楚覆盖的城市。
+**目的地的粒度**：一个城市或一个紧凑的旅行地区一个目的地，如「清迈」「冲绳」「京都」。多城市的长线行程（如「福冈 3 日 + 冲绳 5 日」）按主要停留城市拆成多个目的地分别调研；行程方案放在停留最久的那个目的地下，`Trip.destinations` 按顺序列出途经的所有目的地（如 `["fukuoka", "okinawa"]`），这样每个城市页都会列出这个方案。已调研过、30 天内的目的地可以直接复用。
 
 ## 1. 确认出行参数
 
@@ -93,7 +93,7 @@ node scripts/validate-research.mjs research/<slug>/research.json
 - `research/<slug>/research.json` 的路径
 - 全部出行参数
 - 输出路径 `research/<slug>/trips/<方案>.json`。文件名用英文短横线格式，概括天数和范围，如 `5d-main-island-miyako`；不要覆盖已有方案
-- `Trip.destination` 填 `<slug>`
+- `Trip.destination` 填 `<slug>`；多城市方案另外填 `Trip.destinations`
 
 完成后运行，校验所有目的地、调研和方案是否一致：
 

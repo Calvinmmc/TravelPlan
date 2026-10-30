@@ -48,9 +48,13 @@ const loadTrips = async () => {
   return [demo]
 }
 
-const buildDays =(startDate: string, endDate: string, existing: Day[] = []): Day[] =>
-  dateRange(startDate, endDate).map(
-    (date) => existing.find((d) => d.date === date) ?? { id: uid(), date, stops: [] },
+/**
+ * 按日期范围生成每一天。已有的天按顺序保留（第 1 天还是第 1 天，只是日期变了），
+ * 所以改出发日期会整体平移行程；变短时末尾的天被去掉，变长时末尾补空白天。
+ */
+const buildDays = (startDate: string, endDate: string, existing: Day[] = []): Day[] =>
+  dateRange(startDate, endDate).map((date, i) =>
+    existing[i] ? { ...existing[i], date } : { id: uid(), date, stops: [] },
   )
 
 export const useTripStore = create<TripState>((set, get) => {

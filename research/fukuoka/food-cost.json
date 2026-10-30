@@ -1,0 +1,1204 @@
+{
+  "destination": "福冈",
+  "slug": "fukuoka",
+  "part": "food-cost",
+  "generatedAt": "2026-10-30",
+  "places": [
+    {
+      "id": "hakata-ikkousha-sohonten",
+      "category": "food",
+      "name": "博多一幸舍 总本店",
+      "localName": "博多一幸舎 総本店 / Hakata Ikkousha Sohonten",
+      "area": "福冈·博多",
+      "lat": 33.5882,
+      "lng": 130.4171,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥1,000–1,999（页面标注均价 ¥999 为占位值）；Gurunavi 午晚均价约 ¥1,000。官网菜单未显示价格"
+      },
+      "hours": "周一至周六 11:00–22:30，周日 11:00–21:00；全年营业（年末年始除外）",
+      "duration": "30–45 分钟",
+      "tags": ["博多豚骨拉面", "泡系豚骨", "赤豚骨", "当地特色", "不收信用卡"],
+      "tips": "招牌是泡系豚骨拉面（Awakei，奶泡质感汤头）和辣味的赤豚骨拉面。博多站博多口步行约 5 分钟，只有 18 个座位。不可预约；Tabelog 标注不接受信用卡和电子货币，只收 d 払い 二维码，建议带现金。账单可能另加服务费。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40006062/",
+        "https://ikkousha.com/",
+        "https://gurunavi.com/en/fbrs700/rst"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "udon-taira",
+      "category": "food",
+      "name": "牛蒡天乌冬 平",
+      "localName": "うどん平 / Udon Taira",
+      "area": "福冈·博多",
+      "lat": 33.5832,
+      "lng": 130.4161,
+      "price": {
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注均价 ¥999 以下；菜单价格未查到。旧资料显示牛蒡天乌冬约 ¥430，已过时，只供参考"
+      },
+      "hours": "周一至周六 11:00–15:00（LO 14:30）；周日、节假日休息",
+      "duration": "30 分钟",
+      "tags": ["牛蒡天乌冬", "丸天", "当地特色", "午市", "排队", "只收现金"],
+      "tips": "2019 年迁到住吉，距博多站博多口步行约 11 分钟。主打牛蒡天（ごぼう天）和丸天，面条偏筋道，接近赞岐乌冬，不是福冈常见的软糯面，想吃软面可去太宰府的萩野屋。桌上有柚子胡椒。海老天迁址后已停售。Tabelog 标注不接受信用卡、电子货币和二维码，按现金准备。店内仅 22 席，午市口碑评论提到要排队。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40052349/",
+        "https://tabelog.com/fukuoka/A4001/A400101/40052349/dtlrvwlst/B485225660/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "taro-gen-sougyouten",
+      "category": "food",
+      "name": "味处太郎源 创业店",
+      "localName": "味処太郎源 創業店 / Taro Gen",
+      "area": "福冈·博多",
+      "lat": 33.5897,
+      "lng": 130.4153,
+      "price": {
+        "min": 6000,
+        "max": 10000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注晚餐 ¥6,000–7,999；评论者含酒水人均 ¥10,000–14,999。菜单价格页面未列出"
+      },
+      "hours": "周一至周六 17:30–24:00；周日、节假日休息",
+      "duration": "1.5–2 小时",
+      "tags": ["居酒屋", "海鲜", "天妇罗", "需预约", "居酒屋百名店"],
+      "tips": "博多站步行约 5 分钟，地下一层，28 席加别馆。Tabelog 居酒屋 WEST 百名店 2022/2024/2025/2026 连续入选，热门店，务必提前预约（Tabelog 网络预约，页面注明电话通道暂停）。评论常提刺身拼盘、佐贺牛牛排饭、盐烤赤むつ（喉黑鱼）。可刷信用卡和 d 払い，不收电子货币。全店禁烟。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "hakata-gion-tetsunabe",
+      "category": "food",
+      "name": "博多祇园铁锅饺子",
+      "localName": "博多祇園 鉄なべ / Hakata Gion Tetsunabe",
+      "area": "福冈·博多",
+      "lat": 33.5925,
+      "lng": 130.414,
+      "price": {
+        "min": 1000,
+        "max": 2999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注 ¥1,000–1,999，评论者人均 ¥2,000–2,999（含饮品）；单品价格未列出"
+      },
+      "hours": "周一至周六 17:00–22:30；周日休息，节假日不固定，盂兰盆节和年末年始休息",
+      "duration": "45–60 分钟",
+      "tags": ["铁锅煎饺", "一口饺子", "当地特色", "排队", "只收现金", "饺子百名店"],
+      "tips": "圆形铁锅里同心圆排满一口小饺子，起源于屋台。不可预约，傍晚开门前后和工作日 18 点前后会排队，评论曾反映约等 1 小时。评论称铁锅饺子需一次点齐，之后不能追加（评论者说法）。Tabelog 标注不接受信用卡、电子货币和二维码；店内禁止拍照。祇园町，博多座附近，评论说店内挂满艺人签名。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40000836/",
+        "https://tabelog.com/fukuoka/A4001/A400101/40000836/dtlrvwlst/B230636460/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "shinshin-tenjin-honten",
+      "category": "food",
+      "name": "博多拉面 ShinShin 天神本店",
+      "localName": "博多らーめん ShinShin 天神本店 / Hakata Ramen ShinShin Tenjin Honten",
+      "area": "福冈·天神",
+      "lat": 33.5928,
+      "lng": 130.3969,
+      "price": {
+        "min": 790,
+        "max": 1380,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 菜单：加蛋拉面 ¥790、什锦面 ¥850；8 个煎饺 ¥590，葱炒饭 ¥790。拉面加煎饺约 ¥1,380"
+      },
+      "hours": "11:00–次日 3:00（LO 2:30）；周三及每月第三个周二休息（遇节假日可能变动）",
+      "duration": "30–45 分钟",
+      "tags": ["博多豚骨拉面", "清爽豚骨", "深夜营业", "当地特色", "可刷卡", "Tabelog 百名店"],
+      "tips": "汤头比一般博多豚骨清爽，推荐搭配炒饭（焼飯）。不可预约，28 席（吧台 12 + 桌位 16），晚间到深夜可能排队。接受信用卡、交通 IC 卡、PayPay、d 払い、au PAY。天神 PARCO 地下一层有分店，每天营业到约 23:00，可作周三休息时的备选。2025 年入选 Tabelog 拉面百名店。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40004980/",
+        "http://www.hakata-shinshin.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "rakutenchi-tenjin-sohonten",
+      "category": "food",
+      "name": "元祖牛杂锅 乐天地 福冈天神总本店",
+      "localName": "元祖もつ鍋 楽天地 福岡天神総本店 / Ganso Motsunabe Rakutenchi",
+      "area": "福冈·天神",
+      "lat": 33.5863,
+      "lng": 130.3973,
+      "price": {
+        "min": 3399,
+        "max": 4999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "满足套餐 ¥3,399/人（1.5 人份牛杂锅 + 小菜 + 豆腐 + 畅吃强棒面），Puri-Puri 牛杂套餐 ¥3,729；仅锅物单点 ¥1,771/份。评论者含酒水人均 ¥4,000–4,999"
+      },
+      "hours": "17:00–24:00，全年无休（12/31 营业到 22:00）",
+      "duration": "1–1.5 小时",
+      "tags": ["牛杂锅", "当地特色", "可网络预约", "可刷卡", "英文菜单"],
+      "tips": "Tabelog 上有多家乐天地分店，这家今泉 1-19-18 乐天地大楼 2 楼是总本店，270 席。支持 Tabelog 网络预约，无服务费和开胃菜费。接受信用卡和二维码，不收电子货币。有加热烟草专用区。结尾可点强棒面（ちゃんぽん）。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nangoku-fruit-parlour",
+      "category": "food",
+      "name": "南国水果茶室",
+      "localName": "南国フルーツパーラー / Nangoku Fruit Parlour",
+      "area": "福冈·天神",
+      "lat": 33.5876,
+      "lng": 130.399,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；博多甘王草莓芭菲 ¥1,780（第三方评论，非官方菜单）"
+      },
+      "hours": "周一至周四、周日 10:00–18:00（LO 17:30）；周五、周六、节假日及其前一天 10:00–21:00（LO 20:00）",
+      "duration": "45–60 分钟",
+      "tags": ["甜品", "水果芭菲", "甘王草莓", "可网络预约", "可刷卡", "英文菜单"],
+      "tips": "警固神社社务所大楼 2 楼，西铁福冈站步行 2 分钟。甘王草莓（Amaou）盛产期一般在冬春，具体出行月份确定后要核对当季菜单。Tabelog 注明 11 月 11 日和 18 日（周三）休息，临近日期以官网为准。可网络预约，接受信用卡、IC 卡、PayPay。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40067037/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tenjin-yatai-sou",
+      "category": "food",
+      "name": "天神屋台 宗",
+      "localName": "天神屋台 宗 / Tenjin Yatai Sou",
+      "area": "福冈·天神",
+      "lat": 33.5855,
+      "lng": 130.4024,
+      "price": {
+        "min": 2000,
+        "max": 2999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥2,000–2,999；照片标注：煎饺 ¥500–550、烧拉面 ¥900、朝日 Super Dry ¥600（可能已过时）"
+      },
+      "hours": "营业时间 Tabelog 未列；第三方资料称周一、二、三、五、六 19:00–24:00，周四、周日休息（未能核实）",
+      "duration": "40–60 分钟",
+      "tags": ["屋台", "拉面", "烤鸡串", "关东煮", "12 席吧台", "可用电子支付"],
+      "tips": "位于渡边通 4 丁目纸与天神大楼前，地铁天神南站步行约 2 分钟，12 个吧台座位，不可预约。Tabelog 标注可用电子货币和二维码，不收信用卡；屋台通例是带现金。座标取该街区，为估计。雨天和强风天多数摊位会休息，吸烟情况各摊不同，此摊允许吸烟。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/",
+        "https://macaro-ni.jp/404?page=4"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ichiran-sohonten-nakasu",
+      "category": "food",
+      "name": "一兰 本社总本店（中洲）",
+      "localName": "一蘭 本社総本店 / ICHIRAN Souhonten",
+      "area": "福冈·中洲",
+      "lat": 33.5932,
+      "lng": 130.4046,
+      "price": {
+        "min": 1080,
+        "max": 1500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：经典豚骨拉面 ¥1,080，加面 ¥210（半份 ¥150），加蛋 ¥140，米饭 ¥250，生啤中杯 ¥580。22:00–次日 6:00 另有深夜附加费（金额官网未列）。上限 ¥1,500 为加面、加蛋、加饭后的估算"
+      },
+      "hours": "24 小时营业（官网注明营业时间可能临时调整，繁忙时可能限制入场）",
+      "duration": "30 分钟",
+      "tags": ["豚骨拉面", "24 小时", "单人隔间", "当地特色", "支持支付宝微信", "中文菜单"],
+      "tips": "中洲 5-3-2，地铁中洲川端站步行可达，共 40 席（1 楼 14 + 2 楼 26），没有桌位和包间。先在售票机买券，官网列出的支付方式有微信、支付宝、PayPay 等二维码，Visa、Mastercard、JCB、AMEX、Diners 信用卡和各类 IC 卡，没有列银联卡。用填单纸选汤浓淡、面硬度、辣度。下雨天屋台休息时是常用备选。",
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "mizutaki-nagano",
+      "category": "food",
+      "name": "水炊 长野",
+      "localName": "水たき 長野 / Mizutaki Nagano",
+      "area": "福冈·中洲",
+      "lat": 33.5991,
+      "lng": 130.403,
+      "price": {
+        "min": 3300,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 说明：带骨鸡和鸡肉丸两种水炊套餐均 ¥3,300/人；标注均价 ¥4,000–4,999，评论者人均 ¥3,000–3,999（含饮品）"
+      },
+      "hours": "周一至周六 12:00–22:00；周日休息",
+      "duration": "1.5 小时",
+      "tags": ["水炊（鸡肉火锅）", "老字号", "创业百年", "需预约", "可刷卡", "有包间"],
+      "tips": "白浊鸡汤，最后加饭做杂炊。博多区对马小路，中洲川端站步行约 10 分钟，210 席但热门，建议 Tabelog 网络预约（页面注明电话通道暂停）。接受信用卡（VISA、Master、JCB、AMEX）和 PayPay，不收电子货币。全店禁烟。另一家同类老店是新三浦（博多本店），本次未核实。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "ganso-hakata-mentaiju-nishinakasu",
+      "category": "food",
+      "name": "元祖博多明太重 西中洲本店",
+      "localName": "元祖博多めんたい重 / Ganso Hakata Mentaiju",
+      "area": "福冈·中洲",
+      "lat": 33.5912,
+      "lng": 130.404,
+      "price": {
+        "min": 2000,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥2,000–2,999；饭吸套餐（明太重）¥2,380（未税）；西中洲料亭布丁 ¥680"
+      },
+      "hours": "7:00–22:30（餐点 LO 22:00），全年营业",
+      "duration": "45–60 分钟",
+      "tags": ["明太子", "明太重", "当地特色", "早餐可", "支持支付宝微信银联", "排队"],
+      "tips": "整条昆布卷明太子铺在米饭上的明太重，是博多明太子名物。中洲川端站旁，西中洲 6-15。网络预约只接受 17:00 以后的时段，午餐要排队。支持银联、支付宝、微信、PayPay 和各类信用卡与 IC 卡。可自带饮料。甜品推荐料亭布丁。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nakasu-yatai-tsukasa",
+      "category": "food",
+      "name": "中洲屋台 司",
+      "localName": "屋台 司（つかさ）/ Tsukasa Yatai, Nakasu",
+      "area": "福冈·中洲",
+      "lat": 33.5906,
+      "lng": 130.4085,
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "福冈市官方观光站：明太子天妇罗 ¥1,000，对马穴子天妇罗 ¥1,000（时令）。人均为按菜价和一杯酒的估算"
+      },
+      "hours": "18:00–23:00（官方未标固定休息日；屋台依天气和摊主情况休息）",
+      "duration": "40–60 分钟",
+      "tags": ["屋台", "明太子天妇罗", "当地特色", "只收现金"],
+      "tips": "位于中洲清流公园内（中洲 1-8），营业 40 年以上的天妇罗屋台，招牌自制辛子明太子紫苏天妇罗。适合 2–3 人小组或独酌。同公园有 Takechan 饺子屋台（一口葱饺 8 个 ¥700，每周只开约 3–4 天，每人只能点一次饺子，可续点饮料）。座标取该街区，为估计。",
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://www.ticketsinjapan.com/en/articles/fukuoka-sightseeing-805062/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "nakasu-yatai-kurochan",
+      "category": "food",
+      "name": "中洲屋台 KUROchan",
+      "localName": "屋台 KUROちゃん / KURO-chan Yatai",
+      "area": "福冈·中洲",
+      "lat": 33.5951,
+      "lng": 130.4034,
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官方：糸岛地鸡炭烤配柚子胡椒 ¥1,300，猪软骨炖 ¥500。人均为估算"
+      },
+      "hours": "18:30–次日 1:00（官方未标固定休息日；依天气休息）",
+      "duration": "40–60 分钟",
+      "tags": ["屋台", "炭烤地鸡", "糸岛鸡", "柚子胡椒", "只收现金"],
+      "tips": "在中洲中岛町，福冈 K Square 前（里中洲），比清流公园一带安静。摊主来自宫崎，主打炭烤糸岛鸡和长时间炖煮的猪软骨。座标取该街区，为估计。",
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://www.ticketsinjapan.com/en/articles/fukuoka-sightseeing-805062/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kawabata-zenzai-hiroba",
+      "category": "food",
+      "name": "川端善哉广场",
+      "localName": "川端ぜんざい広場 / Kawabata Zenzai Hiroba",
+      "area": "福冈·中洲",
+      "lat": 33.5937,
+      "lng": 130.4079,
+      "price": {
+        "min": 450,
+        "max": 500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Crossroad Fukuoka 官方：善哉 ¥450，夏季刨冰善哉 ¥450；Mapple 标注 ¥500，来源有出入"
+      },
+      "hours": "11:00–18:00；周一至周四及节假日休息（长假可能营业）；7/1–7/14 山笠期间每天营业",
+      "duration": "20–30 分钟",
+      "tags": ["甜品", "善哉（红豆汤）", "当地特色", "现烤年糕"],
+      "tips": "川端商店街内，地铁中洲川端站步行可到。使用北海道大纳言红豆和现烤手工年糕，号称日本最甜的善哉。实际营业日集中在周五至周日，出发前看官网 hakata.or.jp/zenzaihiroba。可外带。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10006"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kasanoya-dazaifu",
+      "category": "food",
+      "name": "笠之家（梅枝饼）",
+      "localName": "お食事処 かさの家 / Kasanoya",
+      "area": "太宰府",
+      "lat": 33.5195,
+      "lng": 130.5335,
+      "price": {
+        "min": 300,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "梅枝饼约 ¥150–180/个（2026 年指南约 ¥150；每月 17 日限定古代米梅枝饼 ¥180），按 2–3 个估算"
+      },
+      "hours": "9:00–18:00（Tabelog，营业时间可能变动）",
+      "duration": "20–30 分钟",
+      "tags": ["梅枝饼", "当地特色", "老字号", "现烤", "支持支付宝微信银联", "甜品百名店"],
+      "tips": "太宰府站步行约 4 分钟，参道上，1922 年作为旅馆创业。每月 17 日有古代米梅枝饼，25 日有艾草梅枝饼，限量，上午可能售罄。接受信用卡、IC 卡、PayPay、支付宝、微信、银联。注意不要与别家同名读音的笠乃家（宰府 3-2-43，周一休）混淆。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40006129/",
+        "https://tabelog.com/matome/19133/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "yasutake-umegae-dazaifu",
+      "category": "food",
+      "name": "安武（梅枝饼本铺）",
+      "localName": "やす武 / Yasutake",
+      "area": "太宰府",
+      "lat": 33.5195,
+      "lng": 130.5328,
+      "price": {
+        "min": 150,
+        "max": 450,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "梅枝饼 ¥150/个（含税，Tabelog 照片标注）；按 1–3 个估算"
+      },
+      "hours": "8:30–18:00，每天；休息日不固定，年末年始可能延长",
+      "duration": "15–20 分钟",
+      "tags": ["梅枝饼", "伴手礼", "当地特色", "可用 PayPay"],
+      "tips": "太宰府天满宫参道 2-7-16，距太宰府站约 3 分钟。有小块店内食用空间，也可外带伴手礼。不收信用卡，可用 PayPay。参道上有数家梅枝饼老店，各家馅料略有差异，可各买一个比较。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40000059/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "oishi-chaya-dazaifu",
+      "category": "food",
+      "name": "阿石茶屋",
+      "localName": "お石茶屋 / Oishi Chaya",
+      "area": "太宰府",
+      "lat": 33.5215,
+      "lng": 130.5354,
+      "price": {
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥999 以下；抹茶套餐 ¥600（照片标注）"
+      },
+      "hours": "周二、三、四、六、日 11:00–16:30；周一、周五休息",
+      "duration": "30–45 分钟",
+      "tags": ["梅枝饼", "丸天乌冬", "抹茶套餐", "榻榻米席", "只收现金"],
+      "tips": "太宰府市宰府 4-7-43，距太宰府站步行约 12 分钟，在参道深处，可与天满宫参拜顺路。主打梅枝饼和乌冬，评论称丸天乌冬面扁平、略有嚼劲。Tabelog 标注不接受信用卡、电子货币和二维码，带现金。可预约。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40003617/",
+        "https://tabelog.com/matome/19133/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hagino-ya-dazaifu",
+      "category": "food",
+      "name": "萩野屋（宰府乌冬）",
+      "localName": "萩野屋 / Haginoya",
+      "area": "太宰府",
+      "lat": 33.5189,
+      "lng": 130.5315,
+      "price": {
+        "min": 700,
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥999 以下；盐味冷乌冬（ざる）¥700（含税，照片标注）"
+      },
+      "hours": "10:30–17:00；周四休息",
+      "duration": "30 分钟",
+      "tags": ["宰府乌冬", "乌冬", "猪排饭", "午市", "只收现金"],
+      "tips": "太宰府站前，宰府 2-6-2，距车站约 42 米，适合刚下车就吃。供应乌冬、猪排饭、荞麦面。Tabelog 标注不接受信用卡、电子货币和二维码。参道上午饭时段（11 点到 14 点）最挤，可避开。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40029612/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "starbucks-dazaifu-omotesando",
+      "category": "food",
+      "name": "星巴克 太宰府天满宫表参道店",
+      "localName": "スターバックス コーヒー 太宰府天満宮表参道店 / Starbucks Dazaifu Tenmangu Omotesando",
+      "area": "太宰府",
+      "lat": 33.5197,
+      "lng": 130.5334,
+      "price": {
+        "min": 390,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "仅查到 2023 年 Tall 滴滤咖啡 ¥390；星巴克日本 2026 年 2 月和 10 月 9 日两次涨价（标准饮品 +4 至 35 日元），现价需到店确认"
+      },
+      "hours": "8:00–20:00（资料来自 2014–2024 年，未找到 2026 年官方时间）",
+      "duration": "30 分钟",
+      "tags": ["咖啡", "隈研吾设计", "参道景点", "排队"],
+      "tips": "隈研吾设计，室内外都用木结构，在天满宫参道上。游客多，拍照和排队时间要预留。营业时间用前请到星巴克日本官网核对，电话 092-919-5690。",
+      "sources": [
+        "https://en.japantravel.com/article/top-10-unique-starbucks-in-japan/46363",
+        "https://www.gltjp.com/en/directory/item/13309/",
+        "https://www.watch.impress.co.jp/docs/news/2142316.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ganso-motoyoshiya-honten",
+      "category": "food",
+      "name": "元祖本吉屋 本店",
+      "localName": "元祖 本吉屋 本店 / Ganso Motoyoshiya Honten",
+      "area": "柳川",
+      "lat": 33.168,
+      "lng": 130.4104,
+      "price": {
+        "min": 4100,
+        "max": 5500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Mapple：特蒸笼饭套餐 ¥5,500，蒸笼饭套餐 ¥4,900，蒸笼饭（肝吸+腌菜）¥4,100；Tabelog 照片标注特蒸笼饭 ¥4,100；Tabelog 均价 ¥5,000–5,999"
+      },
+      "hours": "周二至周日 10:30–19:00（Tabelog；另有来源写 19:30 或 20:00 闭店）；周一休息",
+      "duration": "1 小时",
+      "tags": ["鳗鱼蒸笼饭", "せいろ蒸し", "创业 1681 年", "当地特色", "鳗鱼百名店", "可刷卡"],
+      "tips": "传说是蒸笼鳗鱼饭的发祥店，2024 和 2026 年入选 Tabelog 鳗鱼百名店。西铁柳川站步行约 12 分钟，矢加部站约 10 分钟。周末不可预约，按到店顺序，午间可能要等；平日可网络或电话预约。接受信用卡，不收电子货币和二维码。140 席，有包间、日式庭园景观席和 15 个车位。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "wakamatsuya-yanagawa",
+      "category": "food",
+      "name": "若松屋",
+      "localName": "若松屋 / Wakamatsuya",
+      "area": "柳川",
+      "lat": 33.1582,
+      "lng": 130.3963,
+      "price": {
+        "min": 3265,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 照片标注上蒸笼饭 ¥3,365；Mapple 标注鳗鱼蒸笼饭（肝吸）¥3,265 起；Tabelog 均价 ¥4,000–4,999"
+      },
+      "hours": "11:00–14:30、17:00–20:00（餐点 LO 19:15）；周三休息",
+      "duration": "1 小时",
+      "tags": ["鳗鱼蒸笼饭", "せいろ蒸し", "安政年间创业", "鳗鱼百名店", "可刷卡", "银联可用"],
+      "tips": "冲端町，靠近柳川游船「冲端」下船处，适合游船后吃饭。上、并、梅的区别在鳗鱼片数。接受信用卡（含银联）、IC 卡、PayPay。预约规则 Tabelog 页面自相矛盾，出发前电话确认 0944-72-3163；午间高峰要等但翻台快。190 席，旁有停车场。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40000145/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "saraya-fukuryu-yanagawa",
+      "category": "food",
+      "name": "皿屋 福柳",
+      "localName": "皿屋 福柳 / Saraya Fukuryu",
+      "area": "柳川",
+      "lat": 33.1584,
+      "lng": 130.3966,
+      "price": {
+        "min": 2000,
+        "max": 3999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥2,000–2,999，评论者人均 ¥3,000–3,999；菜单价格页面未列出"
+      },
+      "hours": "11:30–15:00（餐点 LO 14:30）；周四及每月第 2、4 个周三休息",
+      "duration": "1 小时",
+      "tags": ["鳗鱼蒸笼饭", "鳗鱼玉子烧", "鳗鱼饭团", "可预约", "英文菜单", "可刷卡"],
+      "tips": "冲端町 29-1，与若松屋为邻，较便宜的蒸笼鳗鱼饭选择，有迷你和特别版蒸笼饭。可电话预约 0944-72-2404；新年、黄金周、盂兰盆节旺季不接受预约，先到先得。接受信用卡，不收电子货币和二维码。有 17 个车位。座标与若松屋同街区，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001150/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kaki-goya-sumiyoshimaru-kafuri",
+      "category": "food",
+      "name": "牡蛎小屋 住吉丸（加布里）",
+      "localName": "牡蠣小屋 住吉丸 / Sumiyoshimaru",
+      "area": "糸岛·加布里",
+      "lat": 33.549,
+      "lng": 130.1594,
+      "price": {
+        "min": 1500,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：烤牡蛎每盘 ¥1,300（普通）/ ¥1,500（大）/ ¥1,700（特大）/ ¥1,800（三倍体）；桌位加气费 ¥220/人；其他海鲜 ¥350–1,800/份。人均为估算"
+      },
+      "hours": "冬季营业从 10 月 10 日起 9:00–17:00，休息日不固定，12/31 和 1/1 休息（2026 年资料，2027 年季节需重新确认）",
+      "duration": "1.5–2 小时",
+      "tags": ["牡蛎小屋", "当季（约 10 月–4 月）", "当地特色", "自己烤"],
+      "tips": "糸岛牡蛎小屋里离筑前前原站最近的一家，在加布里渔港。昭和巴士从博多巴士总站到「加布里东」下车再步行约 5 分钟；JR 加布里站步行约 24 分钟，打车约 5 分钟约 ¥600。电话 080-8554-2444，是否可预约和支付方式官网未写明。坐标为加布里渔港附近，为估计。",
+      "sources": [
+        "https://kafuri.com/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kaki-goya-senryumaru-funakoshi",
+      "category": "food",
+      "name": "牡蛎小屋 千龙丸（船越）",
+      "localName": "牡蠣小屋 千龍丸 / Senryumaru",
+      "area": "糸岛·志摩",
+      "lat": 33.556,
+      "lng": 130.1228,
+      "price": {
+        "min": 1700,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：烤牡蛎一盘 ¥1,200（半盘 ¥600），牡蛎饭 ¥250/盒，鲷鱼茶泡饭 ¥700；桌费 ¥500/桌（含炭、手套、牡蛎刀）。人均为估算"
+      },
+      "hours": "2026 年 10 月 11 日开业；10:00–17:00，休息日不固定（官网未列营业时间，取自 Crossroad Fukuoka 汇总）",
+      "duration": "1.5–2 小时",
+      "tags": ["牡蛎小屋", "当季（约 10 月–4 月）", "自己烤", "船越渔港"],
+      "tips": "糸岛市志摩船越 415，电话 092-328-1812。船越周末和节假日停车场几乎满，早到；公交班次少，从筑前前原站北口乘船越线巴士，到船越站下车再步行约 6 分钟，或打车约 20 分钟。饮酒不可开车。官网未写预约和支付方式。",
+      "sources": [
+        "https://kakigoya-senryumaru.com/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki",
+        "https://kanko-itoshima.jp/spot/itoshima-oyster/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kaki-goya-fujimaru-kishi",
+      "category": "food",
+      "name": "牡蛎小屋 冨士丸（岐志）",
+      "localName": "牡蠣小屋 冨士丸 / Fujimaru",
+      "area": "糸岛·志摩",
+      "lat": 33.5754,
+      "lng": 130.1207,
+      "price": {
+        "min": 2000,
+        "max": 2300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网套餐：梅 ¥2,000（1 人起，牡蛎 500g + 海螺、蛤、扇贝、虾、牡蛎饭、牡蛎汤）；竹 ¥5,500（4–5 人，牡蛎 2kg）；松 ¥9,000（6–7 人，牡蛎 3kg）；炭费 ¥550/桌（2 人桌摊到每人约 ¥275）"
+      },
+      "hours": "10:00–16:30（最后入店 16:00），休息日不固定；2026 年开业公告 9 月 25 日发出，具体日期以官网为准",
+      "duration": "1.5–2 小时",
+      "tags": ["牡蛎小屋", "套餐", "当季（约 10 月–4 月）", "团体可预约"],
+      "tips": "岐志渔港是糸岛牡蛎小屋最集中的区域。团体随时可预约，电话 080-5249-3824，个人是否可预约官网未写明。可接旅游大巴，有大巴停车位。官网 2026-09-30 发过交通管制公告，旺季渔港周边道路拥堵。",
+      "sources": [
+        "http://www.kaki-fujimaru.jp/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "tsukamoto-sengyoten-itoshima",
+      "category": "food",
+      "name": "塚本鲜鱼店",
+      "localName": "塚本鮮魚店 / Tsukamoto Sengyoten",
+      "area": "糸岛·加布里",
+      "lat": 33.5467,
+      "lng": 130.1693,
+      "price": {
+        "min": 1200,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 照片标注：海鲜丼 ¥1,200，极上海鲜丼 ¥3,800，特选刺身拼盘 ¥1,800/人，岩牡蛎刺身 ¥1,380；评论者人均 ¥3,000–3,999"
+      },
+      "hours": "周一至周五 11:00–14:30（LO 14:15）、17:00–21:30（LO 21:00）；周六日加 8:00–10:00 早餐；全年营业",
+      "duration": "1–1.5 小时",
+      "tags": ["海鲜丼", "糸岛海产", "当地特色", "排队", "可早餐"],
+      "tips": "JR 加布里站步行约 736 米，80 席，有停车场。极上海鲜丼限量，平日午市也有队。Tabelog 标注不接受信用卡、电子货币和二维码，带现金。预约规则页面有出入，出发前确认。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40006148/",
+        "https://tabelog.com/matome/29691/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "farmhouse-uovo-itoshima",
+      "category": "food",
+      "name": "糸岛农场屋 UOVO（布丁）",
+      "localName": "糸島ファームハウス UOVO / Itoshima Farmhouse UOVO",
+      "area": "糸岛·志摩",
+      "lat": 33.6267,
+      "lng": 130.1848,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥1,000–1,999；评论提到软冰淇淋 ¥780；布丁价格页面未列出"
+      },
+      "hours": "周一至周五 10:00–17:30；周六、周日 9:00–17:30；休息日以店方为准",
+      "duration": "45–60 分钟",
+      "tags": ["布丁", "咖啡", "蛋糕卷", "糸岛特色", "可刷卡", "景观"],
+      "tips": "志摩樱井，以「天上卵」土鸡蛋做布丁和蛋糕卷。可用信用卡（JCB、AMEX）、电子货币和二维码，有停车位，不可预约。离其他糸岛餐厅较远，自驾或包车比较合适。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40017140/",
+        "https://tabelog.com/matome/21817/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ganso-nagahamaya",
+      "category": "food",
+      "name": "元祖长浜屋",
+      "localName": "元祖長浜屋 / Ganso Nagahamaya",
+      "area": "福冈·长浜",
+      "lat": 33.5925,
+      "lng": 130.3867,
+      "price": {
+        "min": 550,
+        "max": 700,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 2026 年 10 月评论：拉面 ¥550、替肉 ¥100；替玉约 ¥150（检索摘要，日期不明）。人均含一份替玉"
+      },
+      "hours": "6:00–次日 1:45，每天；12/31–1/5 休息",
+      "duration": "20–30 分钟",
+      "tags": ["长浜拉面", "替玉发祥店（1952）", "清晨营业", "凌晨营业", "只收现金", "食券"],
+      "tips": "鲜鱼市场对面的老店，汤头清淡，面细。食券制，Tabelog 标注不接受信用卡、电子货币和二维码，带零钱。32 席，不可预约，近旁停车场。与附近的元祖拉面长浜家（另一店，24 小时）名字相近，别搞混。地铁赤坂站 1 号出口步行约 10 分钟。有网友说 2026 年 5 月到 7 月初曾因厨房装修休业，晚秋评论显示已恢复且价格未涨。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "okiyo-nagahama-ichiba",
+      "category": "food",
+      "name": "OKIYO 食堂（鲜鱼市场会馆）",
+      "localName": "おきよ / Okiyo",
+      "area": "福冈·长浜",
+      "lat": 33.5943,
+      "lng": 130.3898,
+      "price": {
+        "min": 1000,
+        "max": 2500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；晚餐鲭鱼涮涮锅套餐 ¥2,500，鰤鱼涮涮锅套餐 ¥2,500，河豚套餐 ¥8,000"
+      },
+      "hours": "周一至周六 9:00–15:00、18:00–21:30；周日休息",
+      "duration": "1 小时",
+      "tags": ["海鲜丼", "市场食堂", "鲭鱼涮涮锅", "可刷卡"],
+      "tips": "长浜鲜鱼市场「市场会馆」1 楼，长浜 3-11-3。午餐吃海鲜丼和定食，晚上有涮鱼套餐。接受 JCB、AMEX、Diners、PayPay、d 払い等，不收电子货币。市场会馆前有 1 小时免费停车。坐标取市场会馆大楼，同楼多店，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40000036/",
+        "https://www.crossroadfukuoka.jp/en/experience/12642"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ichiba-zushi-uotatsu",
+      "category": "food",
+      "name": "市场寿司 鱼辰（回转寿司）",
+      "localName": "市場ずし 魚辰 / Ichiba Zushi Uotatsu",
+      "area": "福冈·长浜",
+      "lat": 33.5944,
+      "lng": 130.3899,
+      "price": {
+        "min": 2000,
+        "max": 3999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论者人均 ¥2,000–3,999；菜单价格未列出"
+      },
+      "hours": "周一至周六 9:30–20:30；周日 11:00–20:30",
+      "duration": "45–60 分钟",
+      "tags": ["回转寿司", "鲜鱼市场", "排队", "午市", "可用 PayPay"],
+      "tips": "鲜鱼市场会馆入口左手边，2008 年开业，37 席，不可预约，周末和饭点会排队。评论称某些时段不上传送带，改为点单制。Tabelog 标注不收信用卡，可用 PayPay。会馆前 1 小时免费停车。座标取市场会馆大楼附近，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006362/",
+        "https://tabelog.com/fukuoka/A4001/A400104/40006362/dtlrvwlst/B425798552/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fukuuo-shokudo",
+      "category": "food",
+      "name": "福鱼食堂",
+      "localName": "福魚食堂 / Fukuuo Shokudo",
+      "area": "福冈·长浜",
+      "lat": 33.5942,
+      "lng": 130.3897,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；盐烤真鲷定食（附刺身）¥1,000（照片标注）"
+      },
+      "hours": "周一至周六 7:00–14:00；周日休息（评论有写 4:00 开门，以 Tabelog 为准）",
+      "duration": "30–45 分钟",
+      "tags": ["鱼定食", "日替定食", "早餐", "只收现金", "米饭可续"],
+      "tips": "市场会馆 1 楼，前仲买人做的整条带头尾的日替定食，煮鱼口碑好，米饭大碗和续添免费，改刺身要加价。27 席，不可预约。Tabelog 标注不接受信用卡、电子货币和二维码。座标取市场会馆大楼附近，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40020882/",
+        "https://tabelog.com/fukuoka/A4001/A400104/40020882/dtlrvwlst/B351828742/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hakata-gomasaba-ya",
+      "category": "food",
+      "name": "博多芝麻鲭鱼屋",
+      "localName": "博多ごまさば屋 / Hakata Gomasaba-ya",
+      "area": "福冈·长浜",
+      "lat": 33.591,
+      "lng": 130.393,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；照片标注：芝麻鲭鱼单点 ¥1,000（2026-09），刺身定食 ¥1,800（2026-06），鲭鱼腹肉单点 ¥1,400"
+      },
+      "hours": "周一至周六 11:00–14:00、17:30–21:30；周日及节假日仅 11:00–14:00；食材售完提前结束",
+      "duration": "45 分钟",
+      "tags": ["芝麻鲭鱼（胡麻鯖）", "定食", "当地特色", "定食百名店", "只收现金"],
+      "tips": "鱼从长浜市场每天采购，赤坂站步行约 5 分钟（舞鹤 1-2-11）。32 席，晚餐可通过 Tabelog 预约，午餐不可。Tabelog 标注不接受信用卡、电子货币和二维码。2026、2024、2021 年入选定食百名店，午餐开门前就可能排队。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "costs": [
+    {
+      "item": "博多豚骨拉面一碗（连锁名店：一兰、ShinShin 等）",
+      "price": {
+        "min": 790,
+        "max": 1080,
+        "currency": "JPY",
+        "unit": "每碗",
+        "note": "一兰总本店经典豚骨 ¥1,080（官网）；ShinShin 天神本店加蛋拉面 ¥790、什锦面 ¥850（Tabelog）"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40004980/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "长浜式老店拉面（元祖长浜屋）",
+      "price": {
+        "min": 550,
+        "max": 550,
+        "currency": "JPY",
+        "unit": "每碗",
+        "note": "Tabelog 2026 年 10 月多条评论均写 ¥550；加肉（替肉）¥100"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "拉面加面（替玉）",
+      "price": {
+        "min": 150,
+        "max": 210,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "一兰加面 ¥210（半份 ¥150，官网）；屋台约 ¥150–200（第三方指南）"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "屋台一顿（含 1 杯饮料，每人）",
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "第三方指南：含一杯约 ¥1,500–3,000，多摊串吃 ¥4,000–6,000；中洲比天神、长浜贵约 10–20%。单品：拉面 ¥700–900，煎饺 ¥500–700，烤地鸡 ¥1,300，明太子天妇罗 ¥1,000（官方观光站、Tabelog）。取 ¥2,000–3,500 作为一顿的合理范围"
+      },
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "牛杂锅（もつ鍋）晚餐",
+      "price": {
+        "min": 3399,
+        "max": 4999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "乐天地总本店套餐 ¥3,399/人（1.5 人份牛杂锅含畅吃强棒面）；评论者含酒水人均 ¥4,000–4,999"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "水炊（鸡肉火锅）晚餐",
+      "price": {
+        "min": 3300,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "水炊长野两种水炊套餐均 ¥3,300/人；含酒水可到 ¥5,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "居酒屋名店晚餐（太郎源这类）",
+      "price": {
+        "min": 6000,
+        "max": 10000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注 ¥6,000–7,999，评论者含酒水人均 ¥10,000–14,999；取 ¥6,000–10,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "午市定食 / 鱼定食",
+      "price": {
+        "min": 1000,
+        "max": 1800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "福鱼食堂盐烤真鲷定食 ¥1,000；博多芝麻鲭鱼屋刺身定食 ¥1,800；OKIYO 午餐均价 ¥1,000–1,999"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40020882/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40000036/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "明太子套餐（明太重饭吸套餐）",
+      "price": {
+        "min": 2380,
+        "max": 2618,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "饭吸套餐 ¥2,380（未税，Tabelog 照片标注）；按 10% 税约 ¥2,618"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "糸岛海鲜丼",
+      "price": {
+        "min": 1200,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "塚本鲜鱼店：海鲜丼 ¥1,200，极上海鲜丼 ¥3,800（限量）"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40006148/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "糸岛牡蛎小屋（每人）",
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "烤牡蛎每盘 ¥1,200–1,300（住吉丸、千龙丸 2026 年价），桌费 ¥220/人或 ¥500–550/桌；冨士丸梅套餐 ¥2,000/人。人均为估算，各小屋价格不同，另有每公斤计价的旧资料（约 ¥800/kg，年份不明）"
+      },
+      "sources": [
+        "https://kafuri.com/",
+        "https://kakigoya-senryumaru.com/",
+        "http://www.kaki-fujimaru.jp/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "柳川鳗鱼蒸笼饭",
+      "price": {
+        "min": 3265,
+        "max": 5500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "若松屋 ¥3,265 起（肝吸），元祖本吉屋蒸笼饭 ¥4,100，特蒸笼饭套餐 ¥5,500"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "太宰府梅枝饼（每个）",
+      "price": {
+        "min": 150,
+        "max": 180,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "やす武 ¥150（含税，Tabelog）；かさの家 约 ¥150，每月 17 日古代米限定 ¥180"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40000059/",
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40006129/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "善哉 / 甜品",
+      "price": {
+        "min": 450,
+        "max": 1780,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "川端善哉 ¥450；西中洲料亭布丁 ¥680；南国水果茶室甘王草莓芭菲 ¥1,780（第三方评论）"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10006",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40067037/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "便利店一餐（2 个饭团，或 1 份便当）",
+      "price": {
+        "min": 356,
+        "max": 645,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "7-Eleven 手卷饭团含税约 ¥178–232/个（未税 ¥165–215，2026 年 2 月和 9 月调价）；便当 ¥626–645（含税）。不含饮料。堂食会按 10% 计税，略贵"
+      },
+      "sources": [
+        "https://pricey.jp/web/articles/4744",
+        "https://pricey.jp/web/articles/4489"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "咖啡（连锁咖啡店一杯）",
+      "price": {
+        "min": 390,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每杯",
+        "note": "星巴克 Tall 滴滤 2023 年 ¥390（旧价，2026 年 2 月和 10 月 9 日已两次涨价）；太宰府お石茶屋抹茶套餐 ¥600。最高值为参考，现价需确认"
+      },
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/news/2142316.html",
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40003617/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "啤酒（生啤中杯）",
+      "price": {
+        "min": 500,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每杯",
+        "note": "一兰总本店生啤中杯 ¥580（官网）；天神屋台朝日 Super Dry ¥600（Tabelog 照片标注）；屋台每人必须点一杯，生啤约 ¥500–600，无酒精饮料 ¥300–400"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "御守（护身符）初穂料",
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "太宰府天满宫学业御守 ¥1,000（含税，2016 年 Fun Japan 文章），一般御守 ¥500–1,000；交通安全守 ¥1,200，梅实护身袋 ¥1,500。官网未列价格，其他神社（栉田、住吉）价格未查到，现价到神社确认"
+      },
+      "sources": [
+        "https://www.fun-japan.jp/en/articles/1199",
+        "https://www.jeepe.jp/en/articles/shrine-temple-japanese-souvenir-1492"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "柳川游船（乘合船）",
+      "price": {
+        "min": 1900,
+        "max": 2200,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Crossroad Fukuoka（柳川观光开发）成人 ¥1,900、6–11 岁 ¥950；另一处挂牌写 12 岁以上 ¥2,200，可能是新价。乘合船受理 9:30–14:30，每 30 分钟，约 1 小时；12 月到 2 月底有暖桌船"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10846",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "西铁太宰府・柳川观光车票（含福冈天神往返和柳川游船票）",
+      "price": {
+        "min": 3620,
+        "max": 3730,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2026 年资料：电子票 ¥3,620，纸质票 ¥3,730，儿童 ¥1,810/¥1,870；2 天内有效，只能在太宰府和西铁柳川站下车；含 12 处设施优惠，电子票不含天满宫观光历史馆团体价。只在福冈（天神）或薬院站出发时适用"
+      },
+      "sources": [
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "糸岛牡蛎巴士游（观光协会）",
+      "price": {
+        "min": 6400,
+        "max": 6900,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2026 年 1–3 月班次：糸岛西部牡蛎小屋团 ¥6,400（牡蛎 750g、蛤 2、扇贝 1、虾 1），烤牡蛎与糸岛半岛团 ¥6,900（牡蛎 500g 等）；含 ¥500 咖啡馆/温泉券。2027 年班次未知，在糸岛市观光协会官网预约"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/event/14991"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：经济档",
+      "price": {
+        "min": 4500,
+        "max": 6500,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：便利店早餐 ¥400–650 + 拉面或乌冬午餐 ¥550–1,100 + 屋台或拉面加煎饺晚餐 ¥1,500–2,500 + 小吃甜品 ¥300–600 + 市内交通和零用 ¥1,000–1,500。第三方指南的背包客档约 ¥5,000–8,000/天（含住宿，口径不同）"
+      },
+      "sources": [
+        "https://pricey.jp/web/articles/4744",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/",
+        "https://japanactivity.com/fukuoka-travel-budget-and-daily-costs-2026"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：舒适档",
+      "price": {
+        "min": 10000,
+        "max": 15000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：咖啡早餐 ¥800–1,200 + 定食或海鲜丼午餐 ¥1,000–3,000 + 牛杂锅/水炊/居酒屋晚餐含酒 ¥3,500–6,000 + 甜品咖啡 ¥500–1,800 + 屋台第二摊 ¥1,000–2,500 + 交通和门票 ¥1,500–3,000。2 位成人一天约 ¥20,000–30,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/",
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：宽裕档",
+      "price": {
+        "min": 20000,
+        "max": 35000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：居酒屋名店或柳川鳗鱼午晚餐各 ¥4,000–10,000、甜品咖啡、出租车和包车。第三方指南高档档 ¥28,000 以上/天（含住宿，口径不同）"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/",
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://japanactivity.com/fukuoka-travel-budget-and-daily-costs-2026"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "汇率：1 日元折合人民币",
+      "price": {
+        "min": 0.0424,
+        "max": 0.0424,
+        "currency": "CNY",
+        "unit": "每 1 JPY",
+        "note": "x-rates 2026 年 10 月日均价 1 JPY = 0.042375 CNY（约 100 JPY = 4.24 CNY），2026-10-30 查询，数据到 10 月下旬；valutafx 2026-08-28 为 1 CNY = 23.794 JPY（约 0.0420）；2026 年内区间约 21.94–24.20 JPY/CNY。2027 年汇率未知，预算时留 ±5% 余量"
+      },
+      "sources": [
+        "https://www.x-rates.com/average/?from=JPY&to=CNY&amount=1&year=2026",
+        "https://www.valutafx.com/history/cny-jpy-2026-08-28"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "notes": [
+    "屋台怎么吃：每个摊位只有约 8–12 个座位，不能预约，站在入口比手指表示人数，等摊主点头。落座先点饮料，每人至少一杯（生啤 ¥500–600，无酒精 ¥300–400），菜单常夹在吧台边或贴在帆布内，不会点就说 osusume（推荐）。每摊坐 30–45 分钟，吃完就走，一杯酒坐很久会被认为失礼。结账在座位上付，用两根食指交叉比 X 表示买单。",
+    "屋台营业：多数 18:00 左右开，到次日 1:00–2:00，18:00–19:00 最容易有位置，20:00–22:00 中洲可能要等 30–45 分钟。每摊每周通常休息一天（周日、周一或周三常见），大雨或强风天多数不出摊，小雨一般照常。屋台没有厕所，坐下前先去地铁站或便利店。中洲一带比天神、长浜贵约 10–20%，新手可以先去天神渡边通。下雨备选：一兰总本店（24 小时）、ShinShin 天神本店（到 3:00）。",
+    "屋台现金为主：几乎全部只收现金，部分新摊可用 PayPay 或二维码，不要指望。每人备 ¥3,000–5,000，最好是 1,000 日元纸币和零钱。屋台多数已禁吸烟，但各摊规则不同，Tabelog 上有的摊位仍允许吸烟。",
+    "付款方式：连锁和观光餐厅多数支持信用卡，一兰总本店支持微信、支付宝（官网未列银联卡）；元祖博多明太重和太宰府的かさの家支持微信、支付宝、银联。老式小店多是现金或 PayPay，Tabelog 上标「不接受信用卡、电子货币、二维码」的店包括博多一幸舍（只收 d 払い）、铁锅饺子、牛蒡天乌冬 平、元祖长浜屋、福鱼食堂、博多芝麻鲭鱼屋、塚本鲜鱼店、お石茶屋、萩野屋。这些标注通常意味着只收现金，但 Tabelog 没有明确写「现金」，请随身带足现金（每天 ¥10,000 以上较稳）。",
+    "预约：热门店（太郎源、水炊长野、元祖本吉屋平日）尽量提前预约。Tabelog 的店铺页面多处注明店内电话通道暂停，请用 Tabelog 网络预约，或让酒店前台代订。元祖博多明太重的网络预约只接受 17:00 之后的时段。屋台、拉面店、柳川本吉屋周末都不能预约，按到店顺序排队。",
+    "福冈拉面点法：Hakata 豚骨可选面硬度（常见从粉あり、ハリガネ、カタ、普通到柔らかめ），吃完可加面（替玉，¥100–210），长浜屋另有替肉 ¥100。一兰用纸单选择汤浓淡、辣度、大蒜等，22:00–6:00 有深夜附加费。长浜屋是食券制。拉面汤底为猪骨，注意猪肉制品。",
+    "福冈名物饮食禁忌：豚骨拉面、炒饭、煎饺含猪肉和猪油；牛杂锅（もつ鍋）是牛或猪内脏；水炊为鸡；明太子是鳕鱼子；芝麻鲭鱼和刺身为生鱼；牡蛎小屋多数烤熟吃但生牡蛎也有供应，肠胃弱或孕妇谨慎。过敏和素食者很难放心点餐，可把过敏原写成日文卡片给店员看。部分店有英文菜单（如乐天地、南国水果茶室、皿屋 福柳）。",
+    "小费和附加费：日本不给小费。居酒屋常收「お通し」（座位附带小菜），一般每人几百日元，是否收取要看店家，Tabelog 提示博多一幸舍可能另加服务费。乐天地总本店明确不收服务费和开胃菜费。",
+    "季节：出行月份未定。牡蛎小屋（糸岛）约 10 月到 3、4 月，各小屋自定开业日（2026 年 10 月 3 日起陆续开），卖完牡蛎当天提前关门，12/31 和 1/1 多数休息，周末和节假日渔港拥堵，建议公共交通；2027 年开业日期要等 9–10 月公布。关东煮屋台 10–3 月最全。甘王草莓芭菲冬春才有，南国水果茶室、ノトキ（Solaria Stage 地下一层）等店需看当季菜单。柳川游船 12 月到 2 月有暖桌船，夏季（2026 年 7/1–9/15）只开早晚班，2 月有水落（mizuochi）期间约 40 分钟的缩短行程。7 月上旬博多祇园山笠：川端善哉广场 7/1–7/14 每天营业。太宰府梅花季（约 2–3 月）和新年参拜期间参道很挤。",
+    "太宰府参道商店多数 17:00–18:00 收工，梅枝饼边走边吃现烤最好；参道午餐高峰 11:00–14:00，建议提前到。柳川的蒸笼鳗鱼饭（せいろ蒸し）是把鳗鱼和米饭一起放蒸笼里蒸，鳗鱼和饭都有酱汁，价格比普通鳗鱼饭略低，周末午餐要等位。",
+    "明太子购物：福冈本地品牌ふくや的明太子工厂「ハクハク」2026 年 2 月 1 日开业，在福冈市东区社领 2-14-28，参观 10:00–16:00（最后入馆 15:30），周二、周三休息（检索摘要，未核实）。中洲本店在中洲 2-6-10，营业时间未查到。",
+    "吸烟：日本餐饮店室内原则上禁烟但可设吸烟室（一般规定，非本次检索），部分老店、屋台和居酒屋仍允许吸烟。本次 Tabelog 查到的拉面店、水炊长野、鳗鱼店、乐天地总本店（仅加热烟草区和电子烟室）多为禁烟。",
+    "常见替代：Nagahama 一带有多家叫长浜家的拉面店，元祖长浜屋、元祖拉面长浜家（大手门，24 小时，周一周二 7:00–9:00 清洁）和长浜屋台是不同店。第二家未做进一步核实。"
+  ],
+  "unverified": [
+    "出行月份未定，所有营业时间、季节性项目（牡蛎小屋开业日、甘王草莓、游船班次）都以 2026 年资料为准，2027 年出发前要重新核对。",
+    "福冈市官方屋台名单（yokanavi PDF）打不开（404），屋台名单取自福冈市观光官网 gofukuoka 文章和第三方站，没有逐摊核实 2027 年是否营业。天神屋台 宗的营业时间 Tabelog 没写，第三方说法为周一二三五六 19:00–24:00，未能核实。长浜一带屋台未找到可靠的店名和资料，所以没有列入。",
+    "座标：天神屋台 宗、中洲屋台 司、KUROchan 只到街区或门牌街区级别；住吉丸取加布里渔港附近；市场会馆里的 OKIYO、鱼辰、福鱼食堂以及皿屋 福柳取大楼或街区附近，彼此略有偏移，都是估计。其余座标来自日本国土地理院地址检索，精度到门牌街区。",
+    "Tabelog 对多家小店的支付方式只写「不接受信用卡、电子货币、二维码」，没有明说收现金，且价格栏多为占位值（¥999）。除个别标注价格外，人均价取 Tabelog 评论者人均区间，不是菜单价。",
+    "元祖长浜屋：¥550 来自 2026 年 10 月的用户评论，替玉 ¥150 来自检索摘要且日期不明。网友曾提到 2026 年 5 月到 7 月初厨房装修休业，只有一条帖子说明，未核实。",
+    "博多一幸舍、牛蒡天乌冬 平、ShinShin 以外的菜单价格未能取得（官网菜单不显示价格）。因幡うどん、牧のうどん 等福冈软乌冬连锁店只有第三方摘要（因幡牛蒡天约 ¥670），所以没有列入餐厅。",
+    "糸岛牡蛎小屋：各家支付方式（现金或刷卡）和预约规则官网大多没写；每公斤计价的旧价（约 ¥800/kg）年份不明。其余未列出的小屋如カキの阿部 飛龍丸（福吉站步行 12 分钟，可自带饮料和饭团，不提供酒精给驾车者）可备选。",
+    "星巴克现价：只查到 2023 年 Tall 滴滤 ¥390，2026 年两次涨价后的价格没找到；太宰府店营业时间资料来自 2014–2024 年。",
+    "御守价格：太宰府天满宫官网不列价格，¥1,000 学业守来自 2016 年文章；栉田神社、住吉神社、宗像大社等的御守价格没找到。",
+    "柳川游船价格有 ¥1,900 和 ¥2,200 两种说法；元祖本吉屋的闭店时间有 19:00、19:30、20:00 几种；若松屋预约规则 Tabelog 页面自相矛盾；かさの家营业时间只有 Tabelog 一处来源。",
+    "元祖博多明太重的价格只有 ¥2,380（未税）饭吸套餐和布丁，明太重单品价格未取得；ふくや中洲本店营业时间未查到。",
+    "每日预算三档是根据已查到的菜价自行估算，没有找到直接对应的权威口径；日本便利店 ATM 能否取银联卡、市内交通 1 日券价格本次没有核实。",
+    "汇率为 2026 年 10 月数据，2027 年实际汇率未知；x-rates 页面数据可能只到 10 月下旬。"
+  ]
+}

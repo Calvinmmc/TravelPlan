@@ -13,10 +13,22 @@ const researchLoaders = import.meta.glob<ResearchFile>('../../research/*/researc
 const pathParts = (path: string) => path.replace('../../research/', '').replace(/\.json$/, '').split('/')
 
 export interface DestinationPlan {
-  /** trips/ 下的文件名（不含 .json），在目的地内唯一 */
+  /** '<所在目录>/<文件名>'，全站唯一 */
   key: string
   trip: Trip
 }
+
+/** 全部行程方案。方案文件放在一个目的地目录下，多城市方案用 trip.destinations 列出途经的其他目的地 */
+const allPlans: (DestinationPlan & { folder: string })[] = Object.entries(tripModules).map(([path, trip]) => {
+  const [folder, , file] = pathParts(path)
+  return { key: `${folder}/${file}`, folder, trip }
+})
+
+const plansFor = (slug: string): DestinationPlan[] =>
+  allPlans
+    .filter((p) => p.folder === slug || p.trip.destinations?.includes(slug))
+    .map(({ key, trip }) => ({ key, trip }))
+    .sort((a, b) => a.trip.days.length - b.trip.days.length || a.trip.name.localeCompare(b.trip.name, 'zh'))
 
 export interface DestinationEntry extends Destination {
   plans: DestinationPlan[]
@@ -26,10 +38,7 @@ export interface DestinationEntry extends Destination {
 export const destinations: DestinationEntry[] = Object.values(destModules)
   .map((d) => ({
     ...d,
-    plans: Object.entries(tripModules)
-      .filter(([path]) => pathParts(path)[0] === d.slug)
-      .map(([path, trip]) => ({ key: pathParts(path)[2], trip }))
-      .sort((a, b) => a.trip.days.length - b.trip.days.length),
+    plans: plansFor(d.slug),
     hasResearch: `../../research/${d.slug}/research.json` in researchLoaders,
   }))
   .sort((a, b) => a.name.localeCompare(b.name, 'zh'))
@@ -95,7 +104,8 @@ export const countries: CountryEntry[] = [...new Set(destinations.map((d) => d.c
       name: ds[0].country,
       continent: ds[0].continent,
       destinations: ds,
-      planCount: ds.reduce((n, d) => n + d.plans.length, 0),
+      // 多城市方案可能同时属于该国几个目的地，按方案去重
+      planCount: new Set(ds.flatMap((d) => d.plans.map((p) => p.key))).size,
       placeCount: ds.reduce((n, d) => n + (d.stats?.places ?? 0), 0),
     }
   })
@@ -114,6 +124,6 @@ export const totals = {
   destinations: destinations.length,
   countries: countries.length,
   continents: continentSummary.filter((c) => c.destinations > 0).length,
-  plans: destinations.reduce((n, d) => n + d.plans.length, 0),
+  plans: allPlans.length,
   places: destinations.reduce((n, d) => n + (d.stats?.places ?? 0), 0),
 }

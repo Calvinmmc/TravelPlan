@@ -44,6 +44,8 @@ export interface Trip {
   currency?: string
   /** 来自哪个目的地（research/<slug>），从目的地页添加的行程会带上 */
   destination?: string
+  /** 多城市行程途经的所有目的地（按顺序，如 ['fukuoka', 'okinawa']），这些目的地页都会列出这个方案 */
+  destinations?: string[]
   days: Day[]
   createdAt: number
   updatedAt: number

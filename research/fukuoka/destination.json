@@ -1,0 +1,23 @@
+{
+  "slug": "fukuoka",
+  "name": "福冈",
+  "localName": "福岡 Fukuoka",
+  "region": "福冈县",
+  "country": "日本",
+  "countryCode": "JP",
+  "continent": "亚洲",
+  "summary": "九州门户城市：博多拉面与屋台、天神购物、太宰府天满宫等神社，上海直飞航班多",
+  "lat": 33.5897,
+  "lng": 130.4079,
+  "stats": {
+    "researchedAt": "2026-10-30",
+    "places": 91,
+    "byCategory": {
+      "sight": 19,
+      "transport": 12,
+      "lodging": 12,
+      "shopping": 16,
+      "food": 32
+    }
+  }
+}

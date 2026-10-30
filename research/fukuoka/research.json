@@ -1,0 +1,3554 @@
+{
+  "destination": "福冈",
+  "slug": "fukuoka",
+  "part": "merged",
+  "generatedAt": "2026-10-30",
+  "places": [
+    {
+      "id": "dazaifu-tenmangu",
+      "category": "sight",
+      "name": "太宰府天满宫",
+      "localName": "太宰府天満宮 (Dazaifu Tenmangu)",
+      "area": "太宰府",
+      "lat": 33.5213,
+      "lng": 130.5353,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内和本殿免费；境内宝物殿/博物馆另收费（金额官网未列）"
+      },
+      "hours": "约 6:30（最早 6:00）开门；闭门 12–3月 18:30、6–8月 19:30，其余月份 19:00；博物馆最后入馆约 16:00；本殿晨祷 8:30 起",
+      "duration": "1.5–2.5小时（含参道小吃）",
+      "tags": [
+        "神社",
+        "御守",
+        "必去",
+        "学业",
+        "梅花"
+      ],
+      "tips": "祭祀学问之神菅原道真，全国约 12,000 座天满宫的总本宫。本殿「令和大修」已完工，2026-09-19 起重新开放正面参拜（此前约 3.5 年只能在临时殿参拜），2027 年可看到修缮一新的本殿。御守柜台设在本殿区域内，只收现金，营业时间官网未列（社务所电话 092-922-8225 为 9:00–17:00），初穂料官网未公布（第三方介绍多为 ¥500–1,000，未核实）。特色御守：学业御守（锦守/钢守/巾着守三种款式，最热门）、学业铅笔（2B/HB/涂卡专用）、金うそ幸せ守（金色鷽鸟，传说鷽鸟赶走蜂群带来幸福，开运象征）、梅实守（消灾延寿）、健康长寿梅守（内含社内梅子）、夢守「叶糸」（蓝绳手链款，愿望成真）、心守、交通安全、开运、厄除、八方除、就职成就等。飞梅御守初穂料 ¥100,000，神事后限量授予，普通游客买不到。每年 1 月 7 日「鷽替え」神事，当天特设柜台授予木うそ（初穂料 ¥1,500）。10 月为特别受验合格祈愿大祭月，授予限定御守/绘马。御守内有神灵，要妥善保管，一年后可送回神社。参道有梅枝饼（梅ヶ枝餅）名店。季节（一般说法，未逐年核实）：梅花约 2 月上旬至 3 月中旬、红叶约 11 月下旬至 12 月上旬；1 月 1–3 日初诣人流极大，避开；工作日上午最清静。",
+      "sources": [
+        "https://www.dazaifutenmangu.or.jp/en/plan/faq/",
+        "https://www.dazaifutenmangu.or.jp/omamori/",
+        "https://www.dazaifutenmangu.or.jp/en/discover-dazaifu-tenmangu/amulets/",
+        "https://hugkum.sho.jp/817876"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kamado-shrine",
+      "category": "sight",
+      "name": "宝满宫竈门神社（缘结神社）",
+      "localName": "宝満宮竈門神社 (Homangu Kamado Shrine)",
+      "area": "太宰府",
+      "lat": 33.5288,
+      "lng": 130.5524,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "参拜免费；停车场约 ¥400–500"
+      },
+      "hours": "参拜全天自由；御守授与所 8:30–18:00（2026-11-21 至 12-06 红叶点灯期间开到 21:00）",
+      "duration": "1–1.5小时",
+      "tags": [
+        "神社",
+        "御守",
+        "缘结",
+        "红叶",
+        "情侣"
+      ],
+      "tips": "主祭神玉依姬命，以「缘结」闻名（不限恋爱，也含家人、工作、朋友之缘）。御守约 100 种（含颜色款）。代表款与初穂料（2026 年官方介绍）：恋守り「むすびの糸」¥1,500（红线串「再会の実」，可当项链/手链）、いちご守り ¥800、てるてる晴れ守り ¥1,000（四季四色）、えんむすび こより ¥1,000（写愿望绑在「幸福之木」）、超守（こえるまもり）¥1,000（2026 年 8 月新出）、仕事結び守り ¥1,200、えんむすび和纸香り守り ¥1,200、疫病除け守り ¥700。交通：从西铁太宰府站坐社区巴士「まほろば号」约 10 分钟到「内山［竈门神社］」站，步行即到（票价与班次未核实）；从太宰府站步行约 40 分钟。热门时段约 12:00–16:00，上午去人少。红叶点灯与秋季期间有限定御守。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/feature/kamado-shrine",
+        "https://www.walkerplus.com/spot/ar1040s30677/map.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kyushu-national-museum",
+      "category": "sight",
+      "name": "九州国立博物馆",
+      "localName": "九州国立博物館 (Kyushu National Museum)",
+      "area": "太宰府",
+      "lat": 33.5182,
+      "lng": 130.5385,
+      "price": {
+        "min": 700,
+        "max": 700,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "常设展（文化交流展示室）成人价；特别展另收，通常更高"
+      },
+      "hours": "9:30–17:00（16:30 停止入馆）；周一休馆（遇节假日顺延次日）；年末年始休馆",
+      "duration": "1.5–2小时",
+      "tags": [
+        "雨天可去",
+        "历史文化",
+        "亲子"
+      ],
+      "tips": "从西铁太宰府站步行约 10 分钟，从天满宫过去最顺路。2026-10-31 至 2027-01-11 的特别展为「卑弥呼与镜」；2027 年其他月份特展以官网展览日历为准。周一闭馆要和天满宫错开安排（天满宫周一照常开）。常设展价格为第三方汇总，出发前确认。",
+      "sources": [
+        "https://www.kyuhaku.jp/en/",
+        "https://tokyoartbeat.com/en/venues/-/8FED61EB",
+        "https://crossroadfukuoka.jp/en/spot/13214"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "komyozenji",
+      "category": "sight",
+      "name": "光明禅寺（苔庭）",
+      "localName": "光明禅寺 (Komyozenji)",
+      "area": "太宰府",
+      "lat": 33.5182,
+      "lng": 130.5339,
+      "tags": [
+        "寺庙",
+        "庭园",
+        "红叶"
+      ],
+      "tips": "重森三玲 1957 年作庭的枯山水与苔庭，福冈县指定名胜，红叶期（约 11 月中旬）尤其有名。但 japan-guide 与另一份 2026-10-02 更新的攻略都称寺内目前不对一般游客开放参观，只能在山门外看前庭，无恢复日期；两个来源的旧资料曾给出 ¥200–500 门票和 8:00–17:00 开放时间，互相矛盾，故价格/时间留空。不接受御朱印。位于太宰府站与天满宫之间，步行 5–10 分钟，顺路看一眼即可，不要专程安排。出发前请向太宰府市观光案内所（092-925-1880）确认。",
+      "sources": [
+        "https://japanactivity.com/komyozenji-temple-dazaifu-zen-moss-garden-guide",
+        "https://www.japan-guide.com/e/e4852.html"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "kushida-shrine",
+      "category": "sight",
+      "name": "栉田神社",
+      "localName": "櫛田神社 (Kushida Shrine)",
+      "area": "博多",
+      "lat": 33.5931,
+      "lng": 130.4107,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费"
+      },
+      "hours": "境内 4:00–22:00；社务所（御守/御朱印）9:00–17:00；无休",
+      "duration": "45–60分钟",
+      "tags": [
+        "神社",
+        "御守",
+        "必去",
+        "博多祇园山笠",
+        "雨天可去"
+      ],
+      "tips": "博多总镇守，博多祇园山笠（7 月 1–15 日，15 日凌晨「追山」）的主场。除 6 月外全年展示约 13 米高的飾り山笠（每年 7 月 1 日更换主题）。御守在拜殿右侧的社务所：博多织（Hakata-ori）面料御守、用博多水引做的缘结御守、印有英文的旅行安全守；据说还有按出生月份的花守（未核实）。初穂料官方未公开，第三方未给出可核实的价格（一般 ¥500–1,000）。境内看点：夫妇银杏与夫妇惠比寿神社、樹龄千年的「栉田银杏」、飞龙/风神雷神雕刻、鹤之井灵泉、可穿鸟居隧道的「止まらない稲荷」（Stop Inari，祈求生意不停）、博多塀、干支惠方盘。可与 Canal City、中洲屋台、川端商店街连成半天步行线。交通：地铁七隈线「栉田神社前」步行 2 分钟；空港线「中洲川端」步行约 6 分钟。7 月山笠期间极度拥挤，清晨 4:59 的追山要提前占位。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/feature/kushidashrine",
+        "https://www.crossroadfukuoka.jp/spot/12510",
+        "https://www.fukuoka-now.com/en/shrine-charms-stamps-fukuoka/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "sumiyoshi-shrine",
+      "category": "sight",
+      "name": "住吉神社（筑前国一宫）",
+      "localName": "住吉神社 (Sumiyoshi Shrine)",
+      "area": "博多",
+      "lat": 33.5858,
+      "lng": 130.4134,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费"
+      },
+      "hours": "社务所/授与所受付 9:00–17:00（授与所单独时间官网未列）；境内参拜时间官网未列",
+      "duration": "30–45分钟",
+      "tags": [
+        "神社",
+        "御守",
+        "航海安全",
+        "相扑",
+        "星"
+      ],
+      "tips": "「日本三大住吉」之一，航海与星之神；本殿为「住吉造」（日本最古老的神社建筑样式，国家重要文化财，1623 年由黑田长政捐建）。官方御守初穂料（官网 2026 年）：星守 ¥1,200（芸能人也爱，代表款）、力守 ¥1,200（相扑之神，求健康有力）、住吉守（大）¥1,200 / 小 ¥1,000、旅行安全守 ¥1,200（航空航海之神，适合本次飞行行程）、翔守 ¥1,200、学业成就守 ¥1,200、合格守 ¥1,200、夢叶守 ¥1,000、开运厄除守 ¥1,000、交通安全守 ¥1,000、病气平癒守 ¥1,000、仕事守 ¥1,000、安产守 ¥1,800、小神龛「御守神殿」¥1,500、绘马 ¥600。还有相扑签（带小力士）和福うそ（转祸为福）。境内有能乐殿、天龙池、古代力士像（摸右手可得力量）。位于博多站步行约 8–10 分钟，可与栉田神社同半天串联（相隔约 1.5 km）。",
+      "sources": [
+        "https://www.nihondaiichisumiyoshigu.jp/amulets/",
+        "https://www.nihondaiichisumiyoshigu.jp/map/",
+        "https://www.crossroadfukuoka.jp/spot/12552"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "hakozakigu",
+      "category": "sight",
+      "name": "筥崎宫",
+      "localName": "筥崎宮 (Hakozakigu)",
+      "area": "箱崎",
+      "lat": 33.6175,
+      "lng": 130.4153,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费；神苑花庭园 ¥100（投入费箱）"
+      },
+      "hours": "境内 6:00–19:00；授与所 8:30–17:30（6–8 月约到 18:30），只收现金；祈愿受付 9:00–16:30；神苑花庭园 9:30–17:00（16:30 停止入园），周三休",
+      "duration": "45–60分钟",
+      "tags": [
+        "神社",
+        "御守",
+        "必胜",
+        "三大八幡宫",
+        "雨天可去"
+      ],
+      "tips": "日本三大八幡宫之一，醍醐天皇亲笔「敌国降伏」的由来使其以必胜祈愿闻名。官方御守初穂料：勝守 ¥1,000、必勝守 ¥1,000、仕事勝守 ¥1,000（以上都在「胜利」分类，代表款）、伏敵守 ¥1,000、厄除开运守 ¥1,000、身体安全守 ¥1,000、金运玉 ¥1,000、银洗金运守 ¥1,000、お潮井守 ¥1,000、わらじ守 ¥1,000、家族健康守 ¥800、学业守 ¥800、缘结守 ¥800、交通安全守 ¥800–1,000、安产守 ¥1,000、子供守 ¥500、锦守 ¥500、招福铃守 ¥500、勾玉腕轮守 ¥2,500–3,000、健康花守（1–12 月各一款）¥800。放生会 9 月 12–18 日（福冈三大祭之一，摊位多）；玉取祭 1 月 3 日（男子争夺神玉，摸到玉得好运）。交通：地铁箱崎线「箱崎宫前」1 号/2 号出口步行约 3 分钟，或 JR 箱崎站步行约 8 分钟；从天神/中洲川端坐箱崎线约 10–15 分钟。福冈地铁 1 日券可用。",
+      "sources": [
+        "https://hakozakigu.or.jp/omamori/",
+        "https://hakozakigu.or.jp/",
+        "https://www.crossroadfukuoka.jp/en/spot/12537"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "miyajidake-shrine",
+      "category": "sight",
+      "name": "宫地岳神社（光之道·日本第一大注连绳）",
+      "localName": "宮地嶽神社 (Miyajidake Shrine)",
+      "area": "福津·宫地岳",
+      "lat": 33.78,
+      "lng": 130.4859,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费；光之道观览券/特别席规则见神社（0940-52-0016）"
+      },
+      "hours": "境内自由（日出至日落）；授与所约 7:00–19:00（另一份资料为 9:00–19:00，未统一）；社务所 9:00–17:00（随季节变化）；12 月 31 日夜至 1 月 3 日 24 小时参拜",
+      "duration": "1–1.5小时（来回交通约 2–2.5小时）",
+      "tags": [
+        "神社",
+        "御守",
+        "开运",
+        "日落",
+        "光之道"
+      ],
+      "tips": "「三个日本第一」：大注连绳（直径 2.6 m、长 11 m、重约 3 吨，每年 12 月第三个周末换新）、大太鼓、大铃。开运、商业繁盛、金运之神。官方御守（官网）：幸せ肌守 ¥1,000、花まもり ¥1,000（颜色定用途：红=恋爱、樱粉=梦想成真、黄=商卖繁盛、绿=工作、蓝=厄除、紫=胜利、白=代人替身）、キティー肌守 ¥800（Hello Kitty 十二单，仅此神社有，红/蓝两色）、月授与品 ¥1,500 起（每月 1 日零点限量，主题随季节）；签文 ¥300。另有「叶う守」（以光之道为题材）和「幸守り」（官网 2015 年发布的介绍，现仍在授与未核实），价格均未核实。「光之道」：每年 2 月下旬和 10 月下旬（20 日前后）夕阳沿参道直线落入玄海，2026 年 10 月为 10/10–10/20、2 月为 2/19–3/3，2027 年日期官方尚未公布（预计相近）；期间办「夕阳祭」，有限定御朱印；特别席需参加日落祈愿（电话预约），普通观览券当天 14:00 起发号、约 17:00 引导观览。交通：JR 鹿儿岛本线福间站转西铁巴士（往津屋崎桥方向）约 5–6 分钟，「宫地岳神社前」下车步行 3 分钟（博多到福间 JR 约 30–40 分钟，未核实），不开车请预留往返约 2.5 小时。参道有松ヶ枝餅。",
+      "sources": [
+        "https://www.miyajidake.or.jp/gokitou/omamori",
+        "https://www.crossroadfukuoka.jp/spot/10236",
+        "https://www.crossroadfukuoka.jp/en/spot/11692",
+        "https://www.crossroadfukuoka.jp/feature/miyajidake"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "atago-shrine",
+      "category": "sight",
+      "name": "爱宕神社（福冈眺望名所）",
+      "localName": "愛宕神社 (Atago Shrine, Nishi-ku)",
+      "area": "姪浜·室见",
+      "lat": 33.5856,
+      "lng": 130.3348,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费"
+      },
+      "hours": "全年开放；时间资料不一（一说 8:00–17:30），授与所时间未核实",
+      "duration": "40–60分钟",
+      "tags": [
+        "神社",
+        "御守",
+        "观景",
+        "日落"
+      ],
+      "tips": "位于海拔约 68 米的小山头，可俯瞰博多湾、福冈塔和百道海滨，是福冈市区一处免费的日落/夜景点。祈愿以缘结、厄除开运、商业繁盛为主。7 月 20–21 日有「ほおずき（酸浆）市」，期间授予开运厄除酸浆。御守种类与初穂料网上查不到可靠信息，请现场看（社务所电话 092-881-0103）。交通：地铁空港线「室见」站步行约 10 分钟，或西铁巴士「爱宕下」步行 10–15 分钟；有石阶，穿舒适鞋。可与能古岛渡轮（姪浜）、福冈塔/百道串联同一天。",
+      "sources": [
+        "https://crossroadfukuoka.jp/en/spot/12516"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kego-shrine",
+      "category": "sight",
+      "name": "警固神社（天神）",
+      "localName": "警固神社 (Kego Shrine)",
+      "area": "天神",
+      "lat": 33.5878,
+      "lng": 130.3999,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费"
+      },
+      "hours": "社务所/御守 9:00–16:30",
+      "duration": "20–30分钟",
+      "tags": [
+        "神社",
+        "御守",
+        "购物区顺路",
+        "雨天可去"
+      ],
+      "tips": "藏在天神商圈中心（警固公园旁）的都市神社，购物间隙顺路参拜。御守款式丰富、颜色鲜艳，按愿望分类（价格未公开），另有季节签、绘马和「御神香」调和油。附近的小乌神社（小烏神社，八咫乌印章）的御朱印也在警固神社办理。",
+      "sources": [
+        "https://www.fukuoka-now.com/en/shrine-charms-stamps-fukuoka/",
+        "https://gofukuoka.jp/articles/detail/177e2756-7ed0-4801-a3a8-e52cb6e08dc9"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yutoku-inari-shrine",
+      "category": "sight",
+      "name": "祐德稻荷神社（日本三大稻荷，佐贺）",
+      "localName": "祐徳稲荷神社 (Yutoku Inari Shrine)",
+      "area": "鹿岛（佐贺）",
+      "lat": 33.0744,
+      "lng": 130.1081,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "境内免费"
+      },
+      "hours": "境内基本全天可参拜；授与所约 8:30–16:30（非官方，写作「頃」）",
+      "duration": "1–2小时（本殿区 30–60 分钟；加奥之院徒步 1.5–2 小时）",
+      "tags": [
+        "神社",
+        "御守",
+        "三大稻荷",
+        "半日以上行程"
+      ],
+      "tips": "与京都伏见稻荷、茨城笠间稻荷并称日本三大稻荷，朱漆「悬造」本殿建在山坡上，十分壮观；祈愿商业繁盛、开运。交通：博多搭特急约 1 小时到 JR 肥前鹿岛站，再转祐德巴士约 10–15 分钟到终点，步行约 5 分钟（列车名、票价、班次未核实）。来回约 3.5 小时车程，在福冈只有 3 天且有「太宰府+宫地岳」可选时不建议安排；若神社控想补足，建议占一整天并提前查特急班次。御守初穂料网上无可靠信息。电话 0954-62-2151。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80038955",
+        "https://banzokubiology.com/yutoku-inari-time-guide/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "ohori-park",
+      "category": "sight",
+      "name": "大濠公园",
+      "localName": "大濠公園 (Ohori Park)",
+      "area": "大濠·福冈城",
+      "lat": 33.5861,
+      "lng": 130.3763,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "公园免费；日本庭园约 ¥250（2025 年用户点评，未核实）"
+      },
+      "hours": "公园全天开放；日本庭园约 9:00–17:00，周一休（遇节假日开放）",
+      "duration": "1–2小时",
+      "tags": [
+        "雨天可去",
+        "亲子",
+        "散步",
+        "夜景"
+      ],
+      "tips": "环湖的城市公园，可顺路接福冈城遗址（步行 5–10 分钟）。重要：隶属福冈县的「大濠公园日本庭园」因新福冈县立美术馆施工，计划 2027-03-31 起暂时休园（复园时间未公布）；若出行在 2027 年 4 月后，庭园很可能进不去，只剩公园本体。地铁空港线/箱崎线「大濠公园」站步行 2–3 分钟。",
+      "sources": [
+        "https://koubo.jp/press-release/prtimes/c17692_r978",
+        "https://4travel.jp/dm_shisetsu/10018676",
+        "https://www.crossroadfukuoka.jp/event/17314"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fukuoka-castle-ruins",
+      "category": "sight",
+      "name": "福冈城遗址（舞鹤公园）",
+      "localName": "福岡城跡・舞鶴公園 (Fukuoka Castle Ruins)",
+      "area": "大濠·福冈城",
+      "lat": 33.5843,
+      "lng": 130.382,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "公园免费；多闻橹有开放时间（见 hours）"
+      },
+      "hours": "公园入园自由；多闻橹等 9:00–17:00（第三方信息）",
+      "duration": "1–1.5小时",
+      "tags": [
+        "历史文化",
+        "樱花",
+        "免费"
+      ],
+      "tips": "黑田氏的福冈城仅存石垣和现存的多闻橹（国家重要文化财）。天守台因 2026 年发掘调查，2026-05-26 至年底（预定）禁止进入，2027 年是否恢复需确认。春季（约 3 月底–4 月初）福冈市每年举办福冈城樱花祭，是福冈赏樱的主要去处（具体日期每年公布）。福冈城むかし探访馆的门票与时间未核实。地铁空港线「大濠公园」或「赤坂」步行 5–10 分钟，与大濠公园同半天。",
+      "sources": [
+        "https://tabi-mag.jp/fu0026/",
+        "https://www.crossroadfukuoka.jp/spot/12435"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fukuoka-tower",
+      "category": "sight",
+      "name": "福冈塔与百道海滨",
+      "localName": "福岡タワー (Fukuoka Tower) / シーサイドももち",
+      "area": "西新·百道",
+      "lat": 33.5933,
+      "lng": 130.3515,
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "展望室成人官方价；线上预订平台常见 ¥800 左右；中小学生 ¥500；生日前后各 3 天免费"
+      },
+      "hours": "9:30–22:00（21:30 停止入场）；每年 6 月最后一周的周一、周二休馆；点灯日落至 23:00",
+      "duration": "1–1.5小时（含百道海滨散步）",
+      "tags": [
+        "夜景",
+        "日落",
+        "海边",
+        "亲子"
+      ],
+      "tips": "高 234 米的海滨塔，视野覆盖博多湾，傍晚上去可连看日落与夜景。塔旁是百道海滨公园（人工海滩）、福冈市博物馆，临近 PayPay 巨蛋。交通：博多站/天神搭西铁巴士约 20–25 分钟，或地铁空港线「西新」步行约 15 分钟再走。台风、强风天可能停止展望。",
+      "sources": [
+        "https://www.fukuokatower.co.jp/",
+        "https://www.crossroadfukuoka.jp/spot/12343"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nakasu-yatai",
+      "category": "sight",
+      "name": "中洲屋台街",
+      "localName": "中洲屋台 (Nakasu Yatai)",
+      "area": "中洲",
+      "lat": 33.5914,
+      "lng": 130.4071,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "无门票，餐费另计（本表不含餐饮价格）"
+      },
+      "hours": "约 18:00–18:30 起至 1:30 前后，各摊自定，休息日不固定",
+      "duration": "1–1.5小时",
+      "tags": [
+        "夜景",
+        "美食",
+        "必去",
+        "晚间"
+      ],
+      "tips": "那珂川沿岸夜间出现的流动小吃摊，博多夜景的象征。多数摊位只收现金，下雨/台风天不少摊位休业；座位紧挨着坐，打招呼并至少点一样是基本礼貌，拍摄前先询问摊主。从栉田神社、Canal City 走路 5–10 分钟，适合安排在第 1 或第 2 天抵达后的晚上，与神社白天行程串联。",
+      "sources": [
+        "https://www.knt.co.jp/meito/sp/nakasu_yatai/",
+        "https://www.trvlogue.com/ja/fukuoka-yatai-guide",
+        "https://www.minnacamera.com/spots/2807"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yanagawa-river-cruise",
+      "category": "sight",
+      "name": "柳川川下り（御花周边水乡）",
+      "localName": "柳川の川下り (Yanagawa River Cruise)",
+      "area": "柳川",
+      "lat": 33.1672,
+      "lng": 130.4153,
+      "price": {
+        "min": 1800,
+        "max": 1900,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "柳川观光开发集合船成人 ¥1,900（儿童 ¥950）；另一来源 ¥1,800，时间不明"
+      },
+      "hours": "常规时段约 9:40–15:10 出船（办理手续约 15:00 截止）；各季有调整（2 月「水落」、11 月 1–3 日白秋祭、夏季班）",
+      "duration": "约 70 分钟乘船（半天行程，含午餐鳗鱼饭约 4–5 小时）",
+      "tags": [
+        "游览",
+        "美食",
+        "雨天可去",
+        "水乡"
+      ],
+      "tips": "约 4 km 的护城水道，船夫撑篙划行，终点接近旧藩主立花家别邸「御花」。冬季改为暖桌船（こたつ船，具体起止日期未核实）。船是单程，回西铁柳川站可乘免费接驳巴士或另付巴士/出租车费。交通：西铁福冈（天神）站搭特急约 50 分钟到西铁柳川站（票价未核实，建议买「太宰府・柳川观光きっぷ」，见 costs）。雨天可乘但视野受限，台风/大水期停航。",
+      "sources": [
+        "https://www.yanagawa-net.com/en/?p=349",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/",
+        "https://www.ana.co.jp/ja/fr/japan-travel-planner/fukuoka/0000016.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "itoshima-futamigaura",
+      "category": "sight",
+      "name": "糸岛·樱井二见浦夫妇岩",
+      "localName": "桜井二見ヶ浦 夫婦岩 (Sakurai Futamigaura)",
+      "area": "糸岛",
+      "lat": 33.6402,
+      "lng": 130.1967,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "免费"
+      },
+      "hours": "全天开放（海边景点）",
+      "duration": "1.5–2小时（加海边咖啡馆约半天）",
+      "tags": [
+        "海边",
+        "日落",
+        "神社",
+        "拍照"
+      ],
+      "tips": "海中并立的夫妇岩与白色鸟居、注连绳，是糸岛最具代表性的海景，日落尤其出名。附近的樱井神社（桜井神社，约 33.6282, 130.1920）距海边车程约 5 分钟，可顺路；御守信息未核实。不开车的交通较折腾：博多搭 JR 到糸岛方向约 40 分钟（约 ¥640），再换昭和巴士（JR 九大学研都市站出发西之浦线到「二见ヶ浦」）或打车；也有从博多的高速巴士（约 50–70 分钟）。建议包车/参加一日游，或打车去；若只有 3 天，糸岛可选作备选半日。",
+      "sources": [
+        "https://www.knt.co.jp/meito/sp/itoshima/",
+        "https://article.his-j.com/kokunai/kyushu/fukuoka/post-35742/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "nokonoshima-island-park",
+      "category": "sight",
+      "name": "能古岛 Island Park",
+      "localName": "能古島・のこのしまアイランドパーク (Nokonoshima Island Park)",
+      "area": "能古岛",
+      "lat": 33.6325,
+      "lng": 130.3011,
+      "price": {
+        "min": 1200,
+        "max": 1500,
+        "currency": "JPY",
+        "unit": "每人（高中生以上）",
+        "note": "两份资料分别为 ¥1,200 和 ¥1,500，未能核实；儿童约 ¥600–800"
+      },
+      "hours": "约 9:00–17:30（周日、节假日约到 18:30，冬季同平日）；全年无休",
+      "duration": "半天（渡轮往返 + 公园 2–3 小时）",
+      "tags": [
+        "海岛",
+        "花",
+        "亲子",
+        "游览"
+      ],
+      "tips": "福冈市内最近的「离岛」，从姪浜渡轮码头乘福冈市营渡轮约 10 分钟，船票约 ¥220–230（单程）；下船后换巴士约 13 分钟到公园。花期：油菜花/樱花（早春）、波斯菊（秋，约 50 万株）、冬季木兰花，且有期间限定夜间点灯。台风、强风天渡轮停航。往返请确认末班船时间。可与爱宕神社、福冈塔同一天串联。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/12340",
+        "https://rurubu.jp/andmore/spot/80038294",
+        "https://www.fukuoka-now.com/en/wp-json/wp/v2/posts/72088"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "mojiko-retro",
+      "category": "sight",
+      "name": "门司港怀旧区（含关门海峡博物馆）",
+      "localName": "門司港レトロ (Mojiko Retro)",
+      "area": "门司港",
+      "lat": 33.9451,
+      "lng": 130.9615,
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "街区免费；关门海峡博物馆约 ¥500（第三方），儿童 ¥200"
+      },
+      "hours": "街区全天可逛；关门海峡博物馆 9:00–17:00（16:30 停止入馆），不定休（2026 年 11 月 10 日等为休馆日）",
+      "duration": "半天（约 2 小时逛街区）",
+      "tags": [
+        "历史文化",
+        "美食",
+        "海边",
+        "半日以上行程"
+      ],
+      "tips": "明治大正风建筑群（旧门司站、旧三井俱乐部、旧大阪商船等）、烤咖喱（焼きカレー）、BLUE WING 人行吊桥、关门海峡观景。交通：博多乘山阳新干线到小仓约 15–17 分钟，转 JR 鹿儿岛本线到门司港约 13–15 分钟，总计约 45–70 分钟；特急「きらめき」博多—门司港约 1 小时 10 分钟（票价未核实）。能否当天来回取决于其他安排，来回约 2.5–3 小时车程，福冈只有 3 天时不优先。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/course/20025",
+        "https://www.crossroadfukuoka.jp/spot/13211",
+        "https://www.walkerplus.com/spot/ar1040s03861/data.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fuk-domestic-terminal",
+      "category": "transport",
+      "name": "福冈机场国内线航站楼",
+      "localName": "福岡空港 国内線ターミナル (Fukuoka Airport Domestic Terminal)",
+      "area": "福冈机场",
+      "lat": 33.5955,
+      "lng": 130.4488,
+      "tags": [
+        "机场",
+        "地铁直通",
+        "飞那霸"
+      ],
+      "tips": "坐标为估计（地铁空港站旁）。所有国内线（ANA/JAL(JTA)/Peach/Skymark/Solaseed 飞那霸等）都从这里起降；各航司柜台位置请看航司 App。地铁空港线「福冈机场」站由扶梯直连航站楼南侧：到博多 5 分钟、到天神 11 分钟，均 ¥260。国际线航站楼在另一栋楼，来回换乘要坐免费接驳巴士（见 fuk-international-terminal）。冲绳回程若走「那霸→福冈→上海」，在这里落地后需自行取行李、再坐巴士去国际线办理出境。",
+      "sources": [
+        "https://www.fukuoka-airport.jp/en/access/subway.html",
+        "https://travelist.jp/airport_FUK/guide/posts/p334",
+        "https://en.wikipedia.org/wiki/Fukuoka_Airport_Station"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fuk-international-terminal",
+      "category": "transport",
+      "name": "福冈机场国际线航站楼",
+      "localName": "福岡空港 国際線ターミナル (Fukuoka Airport International Terminal)",
+      "area": "福冈机场",
+      "lat": 33.5848,
+      "lng": 130.4443,
+      "tags": [
+        "机场",
+        "飞上海",
+        "免费接驳"
+      ],
+      "tips": "上海浦东直飞（春秋 9C、东航 MU 及日航代码共享）在这里起降。去市区：与国内线航站楼之间有免费接驳巴士（约 5–6 分钟一班，早 6:00 左右到晚 23:20 左右，车程约 10–15 分钟），到国内线再乘地铁 ¥260 到博多/天神；也有西铁巴士到博多站、天神（约 15–20 分钟，¥270–280，未核实）和「太宰府 Liner 巴士旅人」直达太宰府（约 25 分钟，¥700，用 IC/信用卡减 ¥20）。九州大学的指南建议接驳转场至少留 30 分钟，不含值机和安检。",
+      "sources": [
+        "https://www.fukuoka-airport.jp/en/access/bus2.html",
+        "https://www.nishitetsu.jp/bus/rosen/dazaihu_liner/",
+        "https://www.fukuoka-airport.jp/en/access/subway.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "hakata-station",
+      "category": "transport",
+      "name": "博多站（JR/新干线/地铁）",
+      "localName": "博多駅 (Hakata Station)",
+      "area": "博多",
+      "lat": 33.5898,
+      "lng": 130.4207,
+      "tags": [
+        "JR",
+        "新干线",
+        "地铁",
+        "枢纽"
+      ],
+      "tips": "地铁空港线到福冈机场 5 分钟（¥260），到天神约 5 分钟（¥210，时间未核实）；JR 鹿儿岛本线/山阳·九州新干线（小仓、门司港方向，约 15–17 分钟到小仓）。旁边的博多巴士总站（Hakata Bus Terminal）有太宰府 Liner 巴士「旅人」（1F 11 号站台，¥800，约 40 分钟，平日 28 班、周末 36 班）和去糸岛、佐贺等地的巴士。游客服务中心可买福冈地铁 1 日券（¥640）。往柳川、太宰府的西铁线从天神的西铁福冈站出发，不在博多站。",
+      "sources": [
+        "https://www.nishitetsu.jp/bus/rosen/dazaihu_liner/",
+        "https://monomoney-living.com/fukuoka-subway-1day-pass-2026/",
+        "https://en.wikipedia.org/wiki/Hakata_Station"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "hakata-bus-terminal",
+      "category": "transport",
+      "name": "博多巴士总站",
+      "localName": "博多バスターミナル (Hakata Bus Terminal)",
+      "area": "博多",
+      "lat": 33.5916,
+      "lng": 130.4199,
+      "tags": [
+        "巴士",
+        "太宰府",
+        "高速巴士"
+      ],
+      "tips": "太宰府 Liner 巴士「旅人」从 1F 11 号站台发车，¥800（IC 卡/信用卡 ¥780），约 40 分钟；平日往太宰府 28 班、周末与节假日 36 班；无需预约，满员可能拒载。福冈机场国际线到太宰府 ¥700，约 25 分钟（禁止从机场坐到博多巴士总站）。",
+      "sources": [
+        "https://www.nishitetsu.jp/bus/rosen/dazaihu_liner/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "tenjin-station",
+      "category": "transport",
+      "name": "天神站（地铁空港线）",
+      "localName": "天神駅 (Tenjin Station)",
+      "area": "天神",
+      "lat": 33.5913,
+      "lng": 130.3995,
+      "tags": [
+        "地铁",
+        "购物区",
+        "枢纽"
+      ],
+      "tips": "坐标为估计。地铁空港线：到福冈机场 11 分钟（¥260），到博多约 5 分钟（¥210，时间未核实）。地下街连通西铁福冈（天神）站、岩田屋、大丸、PARCO 等。福冈市营地铁 1 日券 ¥640（三条线通用，也有信用卡触碰支付日封顶 ¥640 的机制）。去博多和中洲可坐地铁到「中洲川端」。",
+      "sources": [
+        "https://monomoney-living.com/fukuoka-subway-1day-pass-2026/",
+        "https://www.fukuoka-airport.jp/en/access/subway.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "nishitetsu-fukuoka-tenjin-station",
+      "category": "transport",
+      "name": "西铁福冈（天神）站",
+      "localName": "西鉄福岡（天神）駅 (Nishitetsu Fukuoka (Tenjin) Station)",
+      "area": "天神",
+      "lat": 33.5888,
+      "lng": 130.3999,
+      "tags": [
+        "西铁",
+        "太宰府",
+        "柳川"
+      ],
+      "tips": "去太宰府：在这里乘天神大牟田线到西铁二日市换太宰府线（约 30–45 分钟，约 ¥480 单程）；周末/节假日有观光列车「旅人」，无需额外费用。去柳川：天神大牟田线特急约 50 分钟到西铁柳川站。买「太宰府・柳川观光きっぷ」可在天神站或药院站窗口购买（也有数码版）。",
+      "sources": [
+        "https://www.fukuoka-now.com/en/?p=71762",
+        "http://inf.nishitetsu.jp/train/tabito/",
+        "https://en.wikipedia.org/wiki/Nishitetsu_Fukuoka_(Tenjin)_Station"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nishitetsu-dazaifu-station",
+      "category": "transport",
+      "name": "西铁太宰府站",
+      "localName": "西鉄太宰府駅 (Nishitetsu Dazaifu Station)",
+      "area": "太宰府",
+      "lat": 33.5192,
+      "lng": 130.5314,
+      "tags": [
+        "西铁",
+        "太宰府"
+      ],
+      "tips": "太宰府线终点站。出站沿参道步行约 5 分钟到天满宫，约 10 分钟到九州国立博物馆。去竈门神社坐社区巴士「まほろば号」约 10 分钟。光明禅寺在站与天满宫之间，步行约 5 分钟。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/feature/kamado-shrine",
+        "https://japanactivity.com/komyozenji-temple-dazaifu-zen-moss-garden-guide"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "nishitetsu-yanagawa-station",
+      "category": "transport",
+      "name": "西铁柳川站",
+      "localName": "西鉄柳川駅 (Nishitetsu Yanagawa Station)",
+      "area": "柳川",
+      "lat": 33.165,
+      "lng": 130.419,
+      "tags": [
+        "西铁",
+        "柳川"
+      ],
+      "tips": "天神大牟田线特急从西铁福冈（天神）约 48–50 分钟。川下りの乗船場与站附近有接驳巴士；下船点离站较远，可乘免费接驳巴士或另付车费返回。",
+      "sources": [
+        "https://www.yanagawa-net.com/en/?p=349",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/",
+        "https://en.wikipedia.org/wiki/Nishitetsu_Yanagawa_Station"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "meinohama-ferry-terminal",
+      "category": "transport",
+      "name": "姪浜渡轮码头（去能古岛）",
+      "localName": "姪浜渡船場 (Meinohama Ferry Terminal)",
+      "area": "姪浜·室见",
+      "lat": 33.5972,
+      "lng": 130.3274,
+      "tags": [
+        "渡轮",
+        "海岛"
+      ],
+      "tips": "福冈市营渡轮到能古岛约 10 分钟，单程约 ¥220–230；平日和周日/节假日班次不同，最新时刻表请看福冈市港湾局页面。博多站前搭巴士约 40 分钟，或地铁空港线到「姪浜」站转步行/巴士。台风、大风天停航。",
+      "sources": [
+        "https://www.fukuoka-now.com/en/wp-json/wp/v2/posts/72088",
+        "https://www.crossroadfukuoka.jp/cn/spot/12460"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "shanghai-pudong-airport",
+      "category": "transport",
+      "name": "上海浦东国际机场（出发/回程）",
+      "localName": "上海浦东国际机场 (Shanghai Pudong International Airport, PVG)",
+      "area": "上海",
+      "lat": 31.1433,
+      "lng": 121.8053,
+      "tags": [
+        "机场",
+        "出发城市"
+      ],
+      "tips": "上海直飞福冈（FUK）目前只有浦东（PVG）出发；直飞那霸（OKA）2026-10-25 冬航季起仅春秋航空每周 2 班（东航已取消）。返程备选：那霸→福冈→浦东、那霸→关西→浦东（见 notes 的备用方案）。日本入境需提前申请签证。",
+      "sources": [
+        "https://www.aeroroutes.com/eng/260803-cnnw26jp",
+        "https://monomoney-living.com/?p=22053"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "naha-airport",
+      "category": "transport",
+      "name": "那霸机场（冲绳段起终点）",
+      "localName": "那覇空港 (Naha Airport, OKA)",
+      "area": "冲绳",
+      "lat": 26.1958,
+      "lng": 127.6458,
+      "tags": [
+        "机场",
+        "冲绳"
+      ],
+      "tips": "福冈→那霸国内线 1 小时 45 分–2 小时，每天约 24 班（见 costs）。回程国际线选项：直飞浦东（春秋，每周 2 班）、转福冈、转关西、（大陆护照基本不可行的）转台北。国内线→国际线联程若是分开购买，请预留 3–4 小时缓冲。",
+      "sources": [
+        "https://ekitan.com/timetable/airplane/domestic/section/all/sf-53/st-45",
+        "https://monomoney-living.com/?p=22053"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kansai-airport",
+      "category": "transport",
+      "name": "关西国际机场（返程备选）",
+      "localName": "関西国際空港 (Kansai International Airport, KIX)",
+      "area": "大阪·关西机场",
+      "lat": 34.4306,
+      "lng": 135.2303,
+      "tags": [
+        "机场",
+        "备用方案"
+      ],
+      "tips": "那霸→关西国内线约 2 小时 5–20 分，每周约 84–98 班/单向（约每天 12–14 班）。关西机场有 T1、T2：Peach、济州航空、春秋航空在 T2；ANA/JAL 等多在 T1。T1↔T2 免费接驳巴士约 7–9 分钟（官方，Peach 称约 10 分钟），从 Aeroplaza 1F 出发。若 Peach 国内线转春秋国际线，两者都在 T2，不用换楼；若是 ANA/JAL 落地 T1，再换乘去 T2 的中国航司，需要接驳巴士。关西–上海航线比福冈多，但冬季中国航司运力削减较重（关西冬航季中国航线座位同比约 −37%）。各航司的具体航站楼请以航司通知为准。",
+      "sources": [
+        "https://www.kansai-airport.or.jp/en/access/t2",
+        "https://www.flypeach.com/pc/en/lm/ai/airports/airportguide_domestic/kix",
+        "https://tour.l-tike.com/flights/domestic/lowest-price/OKA-KIX/",
+        "https://www.aviationwire.jp/?p=352704"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "comfort-hotel-hakata",
+      "category": "lodging",
+      "name": "博多舒适酒店",
+      "localName": "コンフォートホテル博多 (Comfort Hotel Hakata)",
+      "area": "博多站周边",
+      "lat": 33.5908,
+      "lng": 130.4182,
+      "price": {
+        "min": 10900,
+        "max": 39273,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人、不含税服务费以外的额外费用。最低价取自 Jalan 页面「2名利用起价」（另一处列表写 12,200）；最高价取自 2026-11-27（周五）jcation 单晚样本，当天整个博多站一带都明显偏贵。2027年各月实价未知，仅为广告价"
+      },
+      "tags": [
+        "经济",
+        "近车站",
+        "近机场"
+      ],
+      "tips": "经济档首选，适合只想睡觉、白天都在外面的人。距博多站约 0.23 km（jcation，步行约 3 分钟）。博多站坐地铁到福冈机场约 5 分钟、260 日元。本行不自驾，停车信息未查。坐标取自 OSM（Photon），为估计位置。",
+      "sources": [
+        "https://www.jalan.net/yad308449/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-hakata/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "jr-kyushu-hotel-blossom-hakata-central",
+      "category": "lodging",
+      "name": "JR九州 Blossom 博多中央酒店",
+      "localName": "JR九州ホテル ブラッサム博多中央",
+      "area": "博多站周边",
+      "lat": 33.5898,
+      "lng": 130.418,
+      "price": {
+        "min": 20260,
+        "max": 50858,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低/最高来自 Jalan 计划页（每人 10,130–20,830 日元，按 2 人折算为 20,260–41,660）；50,858 为 2026-11-27（周五）jcation 单晚样本。Jalan 一处摘要写 2名双床不含餐 23,100 起、含早餐 26,620 起"
+      },
+      "tags": [
+        "中档",
+        "近车站",
+        "近机场",
+        "亲子友好"
+      ],
+      "tips": "舒适预算的首选：JR博多站博多口步行约 2 分钟，地铁博多站西21番出口步行约 1 分钟（Jalan）。客房全部使用今治毛巾，Jalan 评分 4.5（约 1,300 条点评）。有评论说早餐自助餐厅人多。无停车场（本行不自驾，无影响）。Jalan 有两处地址写法（博多驿前2丁目 / 博多驿中央街），坐标取博多驿前2-2-11（GSI）。",
+      "sources": [
+        "https://www.jalan.net/yad305726/plan/",
+        "https://www.jalan.net/yad305726/",
+        "https://tour.l-tike.com/contents/media/article20260609.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-nikko-fukuoka",
+      "category": "lodging",
+      "name": "福冈日航酒店",
+      "localName": "ホテル日航福岡 (Hotel Nikko Fukuoka)",
+      "area": "博多站周边",
+      "lat": 33.5916,
+      "lng": 130.4175,
+      "price": {
+        "min": 27300,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低价为 Jalan 上限时折扣的 2 人合计（每人 13,650）。Jalan 摘要另有：早订28天含早餐 2名合计 31,830、含早餐 36,000、普通计划 Double(21.5㎡) 2名 44,000 起、Deluxe Twin Corner 2名 106,000 起。标准房在旺日的最高价未查到，所以没有写 max"
+      },
+      "tags": [
+        "高档",
+        "近车站",
+        "近机场"
+      ],
+      "tips": "博多站博多口步行约 3 分钟，有地下通道可连到车站（KNT）。单人房 17.5/21.5㎡，双床房 29.5/35㎡。适合想要传统高档酒店、行李多、希望少走路的人。停车信息未查。",
+      "sources": [
+        "https://www.jalan.net/yad325695/plan/",
+        "https://www.jalan.net/yad325695/plan/plan02915364/",
+        "https://yado.knt.co.jp/photo/S400019/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-mystays-fukuoka-tenjin",
+      "category": "lodging",
+      "name": "福冈天神 MYSTAYS 酒店",
+      "localName": "ホテルマイステイズ福岡天神 (Hotel MyStays Fukuoka Tenjin)",
+      "area": "天神",
+      "lat": 33.5924,
+      "lng": 130.3958,
+      "price": {
+        "min": 11540,
+        "max": 37027,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人、不含餐。最低价按 Jalan「1名最低 5,770（不含餐）」乘 2；2025年点评里双人房不含餐约每人 1万日元出头；37,027 为 2026-11-27（周五）jcation 单晚样本。注意 Jalan 上还有另一家「ホテルマイステイズ福岡天神南」，不是这家"
+      },
+      "tags": [
+        "经济",
+        "近天神站"
+      ],
+      "tips": "距天神站约 0.3 km（Jalan 写步行约 3 分钟）。适合傍晚逛天神、大名后步行回酒店的人。去机场约 11 分钟、260 日元（地铁空港线）。坐标取自 OSM（Photon），为估计位置。",
+      "sources": [
+        "https://www.jalan.net/yad361328/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-tenjin/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "solaria-nishitetsu-hotel-fukuoka",
+      "category": "lodging",
+      "name": "福冈 Solaria 西铁酒店",
+      "localName": "ソラリア西鉄ホテル福岡 (Solaria Nishitetsu Hotel Fukuoka)",
+      "area": "天神",
+      "lat": 33.5893,
+      "lng": 130.3987,
+      "price": {
+        "min": 27000,
+        "max": 69840,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。Jalan 列表写 2名起价 27,000；10月计划页最高 69,840（每人 34,920）；2026-11-27（周五）jcation 单晚样本 52,377。该酒店的计划里出现「开业纪念计划 2026年12月18日 OPEN」，可能是翻新重开，2027年价格和房型要再核实"
+      },
+      "tags": [
+        "中档",
+        "近天神站",
+        "直连西铁站",
+        "购物方便"
+      ],
+      "tips": "与西铁福冈（天神）站、巴士总站直连，前台在 Solaria Plaza 6 楼；地铁天神站 5 号出口步行约 5 分钟（Jalan）。去太宰府在西铁福冈（天神）站上车，约 44 分钟、480 日元（换乘西铁二日市）。Jalan 点评：房间 4.6、浴室 4.4、早餐 4.6。",
+      "sources": [
+        "https://www.jalan.net/yad333660/plan/",
+        "https://www.jalan.net/yad333660/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "the-ritz-carlton-fukuoka",
+      "category": "lodging",
+      "name": "福冈丽思卡尔顿酒店",
+      "localName": "ザ・リッツ・カールトン福岡 (The Ritz-Carlton, Fukuoka)",
+      "area": "天神",
+      "lat": 33.5899,
+      "lng": 130.3947,
+      "price": {
+        "min": 103730,
+        "max": 237820,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低价为 Jalan 搜索页「基本计划 每人 51,865」乘 2；Jalan 计划页最便宜房型每人约 60,088（合计约 12 万）；237,820 为 2026-11-27（周五）jcation 单晚样本；套房可到 28 万以上。几个来源的计价口径不一致，只能当作量级参考"
+      },
+      "tags": [
+        "高档",
+        "奢华",
+        "2023年开业"
+      ],
+      "tips": "位于大名 2-6-50 的 Fukuoka Daimyo Garden City 内，2023-06-21 开业，162 间客房，最近站为天神站（jcation 约 0.44 km）。价格远超舒适档预算，只适合想花一晚庆祝的人。",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/ザ・リッツ・カールトン福岡",
+        "https://www.jalan.net/yad372438/plan/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-tenjin/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hotel-resol-trinity-hakata",
+      "category": "lodging",
+      "name": "博多 Resol Trinity 酒店",
+      "localName": "ホテルリソルトリニティ博多 (Hotel Resol Trinity Hakata)",
+      "area": "中洲·川端",
+      "lat": 33.5928,
+      "lng": 130.406,
+      "price": {
+        "min": 14400,
+        "max": 43000,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低价为 Jalan 列表页「最低 14,400（每人 7,200）」；Jalan 计划页每人 7,600–14,060（按 2 人折算约 15,200–28,100）；43,000 为 2026-11-27（周五）jcation 单晚样本"
+      },
+      "tags": [
+        "经济",
+        "近中洲川端站",
+        "顶层大浴场"
+      ],
+      "tips": "中洲川端站步行约 1 分钟，顶层有展望大浴场，走几步就是中洲屋台一带、川端商店街。适合晚上想吃屋台、逛街的人。去机场需在中洲川端站乘地铁，约 9 分钟（按天神 11 分钟推算，未逐站核实）。",
+      "sources": [
+        "https://www.jalan.net/yad356316/plan/",
+        "https://tour.l-tike.com/contents/media/article20260609.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "the-royal-park-canvas-fukuoka-nakasu",
+      "category": "lodging",
+      "name": "福冈中洲皇家公园 Canvas 酒店",
+      "localName": "ザ ロイヤルパーク キャンバス 福岡中洲 (The Royal Park Canvas Fukuoka Nakasu)",
+      "area": "中洲·川端",
+      "lat": 33.5947,
+      "lng": 130.4043,
+      "price": {
+        "min": 24900,
+        "max": 98031,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。24,900 为 Royal Park Hotels 列表页的最低价；Jalan 上含早餐的基本计划约 36,000–51,000；98,031 为 2026-11-27（周五）jcation 单晚样本"
+      },
+      "tags": [
+        "中档",
+        "设计酒店",
+        "近中洲川端站",
+        "大浴场"
+      ],
+      "tips": "2023-08 开业，中洲川端站步行约 2 分钟，有休息室、大浴场和屋顶花园。住客可以用近处合作停车场的优惠券（1,800 日元 / 15:00 至次日 11:00），本行不自驾无需。适合想住新一点的中档酒店，又要靠近中洲夜景的人。",
+      "sources": [
+        "https://www.jalan.net/yad366868/",
+        "https://tour.l-tike.com/contents/media/article20260609.html",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-tenjin/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "grand-hyatt-fukuoka",
+      "category": "lodging",
+      "name": "福冈君悦酒店",
+      "localName": "グランド ハイアット 福岡 (Grand Hyatt Fukuoka)",
+      "area": "中洲·川端",
+      "lat": 33.5898,
+      "lng": 130.4102,
+      "price": {
+        "min": 32890,
+        "max": 101200,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。32,890 为 Jalan 的日常价（每人 16,445，不含餐）；含早餐和 Wellness 计划每人约 25,800–27,600 起；101,200 为 2026-11-27（周五）jcation 单晚样本"
+      },
+      "tags": [
+        "高档",
+        "运河城内",
+        "泳池桑拿",
+        "近栉田神社前站"
+      ],
+      "tips": "位于博多运河城里面，栉田神社前站步行约 3 分钟（l-tike），购物、拉面、电影都在楼下。步行去博多站约 0.9 km。停车每晚 1,980 日元（Jalan，本行不自驾）。适合想高档舒适、又要逛街方便的人。",
+      "sources": [
+        "https://www.jalan.net/yad301802/",
+        "https://tour.l-tike.com/contents/media/article20260609.html",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-gion/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "apa-hotel-hakata-gion-ekimae",
+      "category": "lodging",
+      "name": "APA 酒店〈博多祇园站前〉",
+      "localName": "アパホテル〈博多祇園駅前〉",
+      "area": "祇园",
+      "lat": 33.5929,
+      "lng": 130.4155,
+      "price": {
+        "min": 9000,
+        "max": 67623,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。9,000 为 Jalan 摘要里的 2 名起价，写法不够清楚；67,623 为 2026-11-27（周五）jcation 单晚样本。APA 的价格随日期波动很大，这个区间只说明量级，订房时一定要按实际日期查价"
+      },
+      "tags": [
+        "经济",
+        "近祇园站"
+      ],
+      "tips": "祇园站约 0.09 km（jcation，步行约 1 分钟）；离博多站约 0.5 km（按坐标估算），步行约 8 分钟。适合预算紧、只需要干净床铺的人。坐标取自 OSM（Photon），为估计位置。",
+      "sources": [
+        "https://www.jalan.net/yad306490/plan/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-gion/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "dormy-inn-hakata-gion",
+      "category": "lodging",
+      "name": "天然温泉 御笠之汤 Dormy Inn 博多祇园",
+      "localName": "天然温泉 御笠の湯 ドーミーイン博多祇園",
+      "area": "祇园",
+      "lat": 33.5935,
+      "lng": 130.413,
+      "price": {
+        "min": 14500,
+        "max": 41141,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低/最高来自 Jalan 计划页（每人 7,250–19,650，按 2 人折算 14,500–39,300）；41,141 为 2026-11-27（周五）jcation 单晚样本。Travelist 的参考价为单人起 20,800（Club Floor Double）"
+      },
+      "tags": [
+        "中档",
+        "天然温泉大浴场",
+        "近祇园站",
+        "2026年4月翻新"
+      ],
+      "tips": "冷泉町 1-12，祇园站步行约 2 分钟，五福町站约 7 分钟，中洲川端站约 8 分钟（Travelist）；257 间客房，Jalan 页面标注 2026-04-01 翻新开业。适合想泡澡、不要太吵、又靠近博多站和川端的人。",
+      "sources": [
+        "https://travelist.jp/hotel/detail/6005695/",
+        "https://www.jalan.net/yad396138/plan/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-gion/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "mitsui-garden-hotel-fukuoka-gion",
+      "category": "lodging",
+      "name": "福冈祇园三井花园酒店",
+      "localName": "三井ガーデンホテル福岡祇園 (Mitsui Garden Hotel Fukuoka Gion)",
+      "area": "祇园",
+      "lat": 33.5903,
+      "lng": 130.4136,
+      "price": {
+        "min": 23624,
+        "max": 79506,
+        "currency": "JPY",
+        "unit": "每晚每间",
+        "note": "2名成人。最低/最高来自 Jalan 计划页（每人 11,812–39,753，按 2 人折算）；2026-11-27（周五）jcation 单晚样本 70,426"
+      },
+      "tags": [
+        "中档",
+        "屋顶露天浴场",
+        "近祇园站",
+        "近博多站"
+      ],
+      "tips": "博多驿前 2-8-15。地铁祇园站 5 号出口步行约 5 分钟，JR博多站博多口约 7 分钟。入住 15:00、退房 11:00，停车每天 2,000 日元（Jalan，本行不自驾）。适合想住得好一点、又不想住在站前人流里的人。",
+      "sources": [
+        "https://www.jalan.net/yad384068/",
+        "https://www.jalan.net/yad384068/plan/",
+        "https://jcation.com/hotel/prefecture-fukuoka/station-gion/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tenjin-chikagai",
+      "category": "shopping",
+      "name": "天神地下街",
+      "localName": "天神地下街 (Tenchika)",
+      "area": "天神",
+      "lat": 33.5896,
+      "lng": 130.3997,
+      "hours": "商店 10:00–20:00，餐厅 10:00–21:00（部分店铺不同）",
+      "duration": "1–2小时",
+      "tags": [
+        "地下街",
+        "购物",
+        "雨天可逛"
+      ],
+      "tips": "连着地铁天神站和天神一带的商场，下雨或天热时不用走地面。适合买服饰杂货、顺路吃饭。退税因店而异，认准 Tax-free 标识，购买前问清楚。坐标为 OSM 标点，地下街是长条形，实际范围沿明治通下方延伸。",
+      "sources": [
+        "https://tenchika.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "canal-city-hakata",
+      "category": "shopping",
+      "name": "博多运河城",
+      "localName": "キャナルシティ博多 (Canal City Hakata)",
+      "area": "中洲·川端",
+      "lat": 33.5897,
+      "lng": 130.4111,
+      "hours": "商店 10:00–21:00，餐厅 11:00–23:00，全年无休（各店不同）",
+      "duration": "2–3小时",
+      "tags": [
+        "综合商场",
+        "拉面体育场",
+        "喷泉秀",
+        "退税"
+      ],
+      "tips": "把购物、拉面街（Ramen Stadium）、电影院、喷泉秀放在同一处，Grand Hyatt 也在场内。喷泉秀和拉面街的具体时间官网另有页面，这次没取到。步行去博多站约 0.9 km。退税要看店铺，买之前问清楚。",
+      "sources": [
+        "https://canalcity.co.jp/service/",
+        "https://canalcity.co.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "amu-plaza-hakata",
+      "category": "shopping",
+      "name": "JR博多城 AMU Plaza 博多",
+      "localName": "アミュプラザ博多 (JR博多シティ)",
+      "area": "博多站周边",
+      "lat": 33.59,
+      "lng": 130.4199,
+      "hours": "购物层 10:00–20:00（B1、2F 部分餐饮及 7F、8F 例外）；9–10F City Dining 11:00–22:00，部分到 24:00；屋顶 10:00–22:00",
+      "duration": "1–2小时",
+      "tags": [
+        "车站商场",
+        "美食",
+        "时尚",
+        "退税"
+      ],
+      "tips": "与博多站直连，B1–8F 是商店和咖啡店，9–10F 是餐厅层，屋顶有庭园（天气不好可能关闭）。第1天抵达、第4天早班机前后都顺路。坐标取博多站大楼位置，为估计值。",
+      "sources": [
+        "https://www.jrhakatacity.com/information/hours/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kitte-hakata",
+      "category": "shopping",
+      "name": "KITTE 博多",
+      "localName": "KITTE博多",
+      "area": "博多站周边",
+      "lat": 33.5888,
+      "lng": 130.4194,
+      "hours": "全馆约 7:00–24:00（各店不同，餐厅多为 11:00–23:00）；资料写 6 月第 3 个周二休业，其余无休",
+      "duration": "1小时",
+      "tags": [
+        "车站商场",
+        "餐厅层",
+        "UNIQLO"
+      ],
+      "tips": "B1、9F、10F 为餐饮层（约 50 家），1–7F 是博多 Maruit，8F 是 UNIQLO，11F 为婚礼场。适合顺路吃饭、买基础服饰。营业时间只有一个导览站的单一来源，去前确认。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80094800"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hakata-hankyu",
+      "category": "shopping",
+      "name": "博多阪急",
+      "localName": "博多阪急 (Hakata Hankyu)",
+      "area": "博多站周边",
+      "lat": 33.5893,
+      "lng": 130.4205,
+      "hours": "全馆 10:00–20:00（官网，可能变动）",
+      "duration": "1–2小时",
+      "tags": [
+        "百货",
+        "地下食品",
+        "伴手礼",
+        "退税"
+      ],
+      "tips": "百货，地下一层是九州食品和甜点，买点心伴手礼方便。Matcha 的文章提到这里有免税手续和外国游客柜台，官网这次没取到，到店再确认。电话 092-461-1381。",
+      "sources": [
+        "https://www.hankyu-dept.co.jp/hakata/",
+        "https://matcha-jp.com/jp/1339"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hakata-maing-omiyage",
+      "category": "shopping",
+      "name": "博多站「Maing」伴手礼街",
+      "localName": "マイング (JR博多駅1階おみやげ街)",
+      "area": "博多站周边",
+      "lat": 33.5896,
+      "lng": 130.4211,
+      "hours": "Maing 内博多织 Sanui 店 9:00–21:00（1/1 休）；DEITOS 1F「みやげもん市場」8:00–21:00",
+      "duration": "0.5–1小时",
+      "tags": [
+        "伴手礼",
+        "博多织",
+        "甜点",
+        "车站内"
+      ],
+      "tips": "博多站1楼集中卖博多通りもん、ひよ子、筑紫もち、明太子的地方，也有博多织 Sanui 直营店（博多织礼品、领带，另有小石原烧、博多人形）。搜索结果显示 2026-01-15 至 03-01 这里办过「あまおう苺祭」，所以草莓类点心集中在 1–3 月；2027年是否举办未知。坐标取博多站大楼位置，为估计值。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/17112",
+        "https://www.jrhakatacity.com/information/hours/",
+        "https://arne.media/?p=537574"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "daimaru-fukuoka-tenjin",
+      "category": "shopping",
+      "name": "大丸福冈天神店",
+      "localName": "大丸福岡天神店 (Daimaru Fukuoka Tenjin)",
+      "area": "天神",
+      "lat": 33.5885,
+      "lng": 130.4019,
+      "hours": "多数来源：10:00–19:00，本馆 B2–1F 和东馆 Elgala B2–2F 到 20:00；也有来源写全馆 10:00–20:00；东馆 6F 餐厅 11:00–22:00",
+      "duration": "1–2小时",
+      "tags": [
+        "百货",
+        "化妆品",
+        "地下食品",
+        "退税"
+      ],
+      "tips": "天神的主力百货，化妆品和地下食品层适合买礼物。有文章写东馆 Elgala 5F 有免税柜台、1F 综合柜台有中英韩语人员，但没明确指的是本店，要到店确认。邻近的岩田屋本店（约 10:00–20:00）也可一起逛。电话 092-712-8181。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/12656",
+        "https://www.mec-h.com/town/mh-fukuoka/113"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "daimyo-area",
+      "category": "shopping",
+      "name": "大名街区（天神西侧）",
+      "localName": "大名エリア",
+      "area": "天神",
+      "lat": 33.588,
+      "lng": 130.3955,
+      "hours": "各店不同，多数店下午才开门，咖啡店例如 Little Stand 大名 10:30–19:00（周一休）",
+      "duration": "2–3小时",
+      "tags": [
+        "精品店",
+        "古着",
+        "咖啡",
+        "设计师品牌"
+      ],
+      "tips": "天神往西步行约 5–7 分钟，是年轻人的买手店、古着、咖啡店聚集区，有约 60 家店的大名紺屋町商店街，BASEMENT 等设计师品牌选品店。适合逛街不赶时间的人。坐标为区域中心的估计，不是某一家店。",
+      "sources": [
+        "https://www.mapple.net/region/a0701010102/spot/",
+        "https://uridoki.net/brand/kiji_331618/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kawabata-shotengai",
+      "category": "shopping",
+      "name": "博多川端通商店街",
+      "localName": "博多川端通商店街",
+      "area": "中洲·川端",
+      "lat": 33.5937,
+      "lng": 130.4079,
+      "hours": "各店不同，没有统一营业时间",
+      "duration": "0.5–1小时",
+      "tags": [
+        "拱廊商店街",
+        "伴手礼",
+        "博多祇园山笠"
+      ],
+      "tips": "约 400 m 的拱廊，连接运河城和博多 Riverain，约 130 家店。川端ぜんざい广场全年展示山笠，夏天有冰善哉。中洲川端站步行 3–4 分钟，旁边就是栉田神社。适合顺路买小礼物、吃点心。",
+      "sources": [
+        "https://www.ekitan.com/local-info/leisure/spot/spid-8ee9b9eb8f2347f752670c35b46abf52",
+        "https://www.mapple.net/article/7374/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "yodobashi-multimedia-hakata",
+      "category": "shopping",
+      "name": "友都八喜 Multimedia 博多",
+      "localName": "ヨドバシカメラ マルチメディア博多",
+      "area": "博多站周边",
+      "lat": 33.5885,
+      "lng": 130.4222,
+      "hours": "9:30–22:00，全年无休（官网店铺一览；Y!mobile 页写受理到 20:00）",
+      "duration": "1小时",
+      "tags": [
+        "家电",
+        "药妆化妆品",
+        "退税",
+        "筑紫口"
+      ],
+      "tips": "博多驿中央街 6-12，博多站筑紫口步行约 1 分钟。买家电、化妆品、药品、玩具方便。这家的免税受理情况没查到，到店确认；新退税制要求同一店铺同一天消费满 5,000 日元（不含税）。",
+      "sources": [
+        "https://www.yodobashi.com/ec/print/store/",
+        "https://www.ymobile.jp/shop/detail/W95N/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "don-quijote-nakasu",
+      "category": "shopping",
+      "name": "唐吉诃德 中洲店",
+      "localName": "ドン・キホーテ 中洲店",
+      "area": "中洲·川端",
+      "lat": 33.594,
+      "lng": 130.4057,
+      "hours": "24小时（2022年公告：1F 8:00–次日5:00，2F 24小时，7F 14:00–次日1:00，可能已变）",
+      "duration": "0.5–1小时",
+      "tags": [
+        "综合折扣店",
+        "药妆",
+        "24小时",
+        "夜间"
+      ],
+      "tips": "中洲 3-7-24，中洲川端站 5 号出口步行约 1 分钟（Navitime / Yahoo 地图）。吃完屋台、逛完中洲后顺路买零食、药妆、伴手礼。这家是否有退税柜台没查到，到店确认；大阪道顿堀店的资料提到深夜退税柜台可能不受理，这家没有确认。",
+      "sources": [
+        "https://www.navitime.co.jp/category/0206006002/40/",
+        "https://livejapan.com/ja/in-tokyo/in-pref-other/in-pref-fukuoka/article-a0006044/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "sundrug-tenjin-nishidori",
+      "category": "shopping",
+      "name": "Sundrug 天神西通店",
+      "localName": "サンドラッグ 天神西通り店",
+      "area": "天神",
+      "lat": 33.5902,
+      "lng": 130.3962,
+      "hours": "每天 10:00–23:00（只有一篇博客来源）",
+      "duration": "0.5小时",
+      "tags": [
+        "药妆",
+        "退税",
+        "夜间"
+      ],
+      "tips": "天神 2-8-22 一楼，赤坂站约 5 分钟、天神站约 6 分钟。药品、化妆品、零食都有，据博客说比唐吉诃德人少。药品有购买数量限制。营业时间和退税是否受理，到店前先打电话（092-688-4036）。",
+      "sources": [
+        "https://www.trvlogue.com/ja/fukuoka-tenjin-sundrug-shopping",
+        "https://ekitan.com/sta-info/station/7824/drugstore"
+      ],
+      "confidence": "low"
+    },
+    {
+      "id": "fukuoka-airport-domestic-terminal",
+      "category": "shopping",
+      "name": "福冈机场 国内线航站楼 购物区",
+      "localName": "福岡空港 国内線ターミナルビル",
+      "area": "福冈机场",
+      "lat": 33.5976,
+      "lng": 130.4441,
+      "hours": "2F SWEETS HALL 多数 6:30–21:00；ふくや、茅乃舎 6:30–21:00；L'UNIQUE ひよ子、Frau Atsuko Kayashina 7:30–20:00；三日月屋 8:00–21:00；稚加榮 8:00–20:00（资料为 2025年2月）",
+      "duration": "0.5–1小时",
+      "tags": [
+        "伴手礼",
+        "机场",
+        "点心"
+      ],
+      "tips": "第4天飞那霸前在这里买伴手礼。2F 有 ふくや（あえもの明太子、明太キッシュ）、茅乃舎出发大厅店（博多限定あごだし）、L'UNIQUE ひよ子（机场限定款）、伊都きんぐ、博多通りもん 等。早班机（例如 07:05）前只有 6:30 开门的店能赶上，8:00 才开的店（稚加榮）就用不上。地铁福冈机场站直连国内线航站楼。冷藏明太子不适合带去冲绳后再回上海，见 notes。坐标取自 GSI 的下臼井地址，为航站楼附近。",
+      "sources": [
+        "https://www.jalan.net/news/article/217798/",
+        "https://www.fukuoka-airport.jp/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fukuoka-airport-international-terminal",
+      "category": "shopping",
+      "name": "福冈机场 国际线航站楼 免税店",
+      "localName": "福岡空港 国際線ターミナルビル",
+      "area": "福冈机场",
+      "lat": 33.5848,
+      "lng": 130.4443,
+      "hours": "免税和多数店铺 7:00 起，各店不同；预约免税取货：出发 7:00–20:30，到达 8:00–21:00",
+      "duration": "不适用",
+      "tags": [
+        "免税",
+        "机场",
+        "到达层"
+      ],
+      "tips": "本行只在第1天从上海抵达时经过。离开福冈走国内线，国际线出发区（3F 安检后）的点心食品免税区（约 810㎡，2025-11-18 开业，有 Tokyo Banana、LeTAO、ひよ子、久原本家等）和 2025-12-05 新开的 13 家店（UNIQLO、AirBicCamera 等）都用不上。到达层 1F 有扭蛋 Gacha World 和到达免税店（出示护照，主要是酒和烟）。国际线到市区：免费接驳巴士到国内线航站楼再换地铁，或西铁直达巴士到博多站筑紫口约 25 分钟、310 日元（2026年3月的资料）。",
+      "sources": [
+        "https://honichi.com/news/2025/11/17/fukuoka_airport/",
+        "https://dfree.fukuoka-airport.jp/",
+        "https://travel.watch.impress.co.jp/docs/news/2061246.html",
+        "https://trafficnews.jp/post/583878",
+        "https://www.trvlogue.com/ja/fukuoka-airport-hakata-transport-1"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "dazaifu-omotesando",
+      "category": "shopping",
+      "name": "太宰府天满宫参道（梅枝饼）",
+      "localName": "太宰府天満宮 参道",
+      "area": "太宰府",
+      "lat": 33.52,
+      "lng": 130.5331,
+      "hours": "各店不同，多数约 9:00–18:00（かさの家 9:00–18:00，无休）",
+      "duration": "1–1.5小时（不含神社参拜）",
+      "tags": [
+        "伴手礼",
+        "梅枝饼",
+        "神社参道",
+        "御守"
+      ],
+      "tips": "参道上边走边吃梅ヶ枝餅，かさの家 1个 150 日元（含税）。从博多站约 57 分钟、520 日元，从天神约 44 分钟、480 日元（乘西铁，在二日市换乘，乘换站数据，非官方）。御守在神社的授与所买，见 costs。参道多是小店，不一定有退税。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10574",
+        "https://jafmate.jp/drive/must-buy-souvenir_0722.html",
+        "https://ekitan.com/transit/fare/sf-7824/st-7785"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tosu-premium-outlets",
+      "category": "shopping",
+      "name": "鸟栖 Premium Outlets",
+      "localName": "鳥栖プレミアム・アウトレット (Tosu Premium Outlets)",
+      "area": "鸟栖",
+      "lat": 33.4063,
+      "lng": 130.5118,
+      "hours": "10:00–20:00（随季节变化），餐厅 11:00–21:00；2月第3个周四休馆，其余无休",
+      "duration": "半天（含往返约 1.5 小时以上）",
+      "tags": [
+        "奥特莱斯",
+        "佐贺县",
+        "半日游"
+      ],
+      "tips": "在佐贺县，不在福冈市。JR 鸟栖站乘西铁巴士约 15 分钟到终点站即到。从博多站过去的时间和费用没取到。福冈近郊现在能逛的大型奥特莱斯就是这里（Marinoa City 已于 2024-08 关闭，新的三井奥特莱斯福冈预计 2027 年春开业，见 notes）。3 天福冈行程不建议专程去。",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80038857",
+        "https://tenki.jp/lite/leisure/9/44/263/4688/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hakata-ikkousha-sohonten",
+      "category": "food",
+      "name": "博多一幸舍 总本店",
+      "localName": "博多一幸舎 総本店 / Hakata Ikkousha Sohonten",
+      "area": "福冈·博多",
+      "lat": 33.5882,
+      "lng": 130.4171,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥1,000–1,999（页面标注均价 ¥999 为占位值）；Gurunavi 午晚均价约 ¥1,000。官网菜单未显示价格"
+      },
+      "hours": "周一至周六 11:00–22:30，周日 11:00–21:00；全年营业（年末年始除外）",
+      "duration": "30–45 分钟",
+      "tags": [
+        "博多豚骨拉面",
+        "泡系豚骨",
+        "赤豚骨",
+        "当地特色",
+        "不收信用卡"
+      ],
+      "tips": "招牌是泡系豚骨拉面（Awakei，奶泡质感汤头）和辣味的赤豚骨拉面。博多站博多口步行约 5 分钟，只有 18 个座位。不可预约；Tabelog 标注不接受信用卡和电子货币，只收 d 払い 二维码，建议带现金。账单可能另加服务费。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40006062/",
+        "https://ikkousha.com/",
+        "https://gurunavi.com/en/fbrs700/rst"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "udon-taira",
+      "category": "food",
+      "name": "牛蒡天乌冬 平",
+      "localName": "うどん平 / Udon Taira",
+      "area": "福冈·博多",
+      "lat": 33.5832,
+      "lng": 130.4161,
+      "price": {
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注均价 ¥999 以下；菜单价格未查到。旧资料显示牛蒡天乌冬约 ¥430，已过时，只供参考"
+      },
+      "hours": "周一至周六 11:00–15:00（LO 14:30）；周日、节假日休息",
+      "duration": "30 分钟",
+      "tags": [
+        "牛蒡天乌冬",
+        "丸天",
+        "当地特色",
+        "午市",
+        "排队",
+        "只收现金"
+      ],
+      "tips": "2019 年迁到住吉，距博多站博多口步行约 11 分钟。主打牛蒡天（ごぼう天）和丸天，面条偏筋道，接近赞岐乌冬，不是福冈常见的软糯面，想吃软面可去太宰府的萩野屋。桌上有柚子胡椒。海老天迁址后已停售。Tabelog 标注不接受信用卡、电子货币和二维码，按现金准备。店内仅 22 席，午市口碑评论提到要排队。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40052349/",
+        "https://tabelog.com/fukuoka/A4001/A400101/40052349/dtlrvwlst/B485225660/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "taro-gen-sougyouten",
+      "category": "food",
+      "name": "味处太郎源 创业店",
+      "localName": "味処太郎源 創業店 / Taro Gen",
+      "area": "福冈·博多",
+      "lat": 33.5897,
+      "lng": 130.4153,
+      "price": {
+        "min": 6000,
+        "max": 10000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注晚餐 ¥6,000–7,999；评论者含酒水人均 ¥10,000–14,999。菜单价格页面未列出"
+      },
+      "hours": "周一至周六 17:30–24:00；周日、节假日休息",
+      "duration": "1.5–2 小时",
+      "tags": [
+        "居酒屋",
+        "海鲜",
+        "天妇罗",
+        "需预约",
+        "居酒屋百名店"
+      ],
+      "tips": "博多站步行约 5 分钟，地下一层，28 席加别馆。Tabelog 居酒屋 WEST 百名店 2022/2024/2025/2026 连续入选，热门店，务必提前预约（Tabelog 网络预约，页面注明电话通道暂停）。评论常提刺身拼盘、佐贺牛牛排饭、盐烤赤むつ（喉黑鱼）。可刷信用卡和 d 払い，不收电子货币。全店禁烟。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "hakata-gion-tetsunabe",
+      "category": "food",
+      "name": "博多祇园铁锅饺子",
+      "localName": "博多祇園 鉄なべ / Hakata Gion Tetsunabe",
+      "area": "福冈·博多",
+      "lat": 33.5925,
+      "lng": 130.414,
+      "price": {
+        "min": 1000,
+        "max": 2999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注 ¥1,000–1,999，评论者人均 ¥2,000–2,999（含饮品）；单品价格未列出"
+      },
+      "hours": "周一至周六 17:00–22:30；周日休息，节假日不固定，盂兰盆节和年末年始休息",
+      "duration": "45–60 分钟",
+      "tags": [
+        "铁锅煎饺",
+        "一口饺子",
+        "当地特色",
+        "排队",
+        "只收现金",
+        "饺子百名店"
+      ],
+      "tips": "圆形铁锅里同心圆排满一口小饺子，起源于屋台。不可预约，傍晚开门前后和工作日 18 点前后会排队，评论曾反映约等 1 小时。评论称铁锅饺子需一次点齐，之后不能追加（评论者说法）。Tabelog 标注不接受信用卡、电子货币和二维码；店内禁止拍照。祇园町，博多座附近，评论说店内挂满艺人签名。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40000836/",
+        "https://tabelog.com/fukuoka/A4001/A400101/40000836/dtlrvwlst/B230636460/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "shinshin-tenjin-honten",
+      "category": "food",
+      "name": "博多拉面 ShinShin 天神本店",
+      "localName": "博多らーめん ShinShin 天神本店 / Hakata Ramen ShinShin Tenjin Honten",
+      "area": "福冈·天神",
+      "lat": 33.5928,
+      "lng": 130.3969,
+      "price": {
+        "min": 790,
+        "max": 1380,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 菜单：加蛋拉面 ¥790、什锦面 ¥850；8 个煎饺 ¥590，葱炒饭 ¥790。拉面加煎饺约 ¥1,380"
+      },
+      "hours": "11:00–次日 3:00（LO 2:30）；周三及每月第三个周二休息（遇节假日可能变动）",
+      "duration": "30–45 分钟",
+      "tags": [
+        "博多豚骨拉面",
+        "清爽豚骨",
+        "深夜营业",
+        "当地特色",
+        "可刷卡",
+        "Tabelog 百名店"
+      ],
+      "tips": "汤头比一般博多豚骨清爽，推荐搭配炒饭（焼飯）。不可预约，28 席（吧台 12 + 桌位 16），晚间到深夜可能排队。接受信用卡、交通 IC 卡、PayPay、d 払い、au PAY。天神 PARCO 地下一层有分店，每天营业到约 23:00，可作周三休息时的备选。2025 年入选 Tabelog 拉面百名店。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40004980/",
+        "http://www.hakata-shinshin.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "rakutenchi-tenjin-sohonten",
+      "category": "food",
+      "name": "元祖牛杂锅 乐天地 福冈天神总本店",
+      "localName": "元祖もつ鍋 楽天地 福岡天神総本店 / Ganso Motsunabe Rakutenchi",
+      "area": "福冈·天神",
+      "lat": 33.5863,
+      "lng": 130.3973,
+      "price": {
+        "min": 3399,
+        "max": 4999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "满足套餐 ¥3,399/人（1.5 人份牛杂锅 + 小菜 + 豆腐 + 畅吃强棒面），Puri-Puri 牛杂套餐 ¥3,729；仅锅物单点 ¥1,771/份。评论者含酒水人均 ¥4,000–4,999"
+      },
+      "hours": "17:00–24:00，全年无休（12/31 营业到 22:00）",
+      "duration": "1–1.5 小时",
+      "tags": [
+        "牛杂锅",
+        "当地特色",
+        "可网络预约",
+        "可刷卡",
+        "英文菜单"
+      ],
+      "tips": "Tabelog 上有多家乐天地分店，这家今泉 1-19-18 乐天地大楼 2 楼是总本店，270 席。支持 Tabelog 网络预约，无服务费和开胃菜费。接受信用卡和二维码，不收电子货币。有加热烟草专用区。结尾可点强棒面（ちゃんぽん）。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nangoku-fruit-parlour",
+      "category": "food",
+      "name": "南国水果茶室",
+      "localName": "南国フルーツパーラー / Nangoku Fruit Parlour",
+      "area": "福冈·天神",
+      "lat": 33.5876,
+      "lng": 130.399,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；博多甘王草莓芭菲 ¥1,780（第三方评论，非官方菜单）"
+      },
+      "hours": "周一至周四、周日 10:00–18:00（LO 17:30）；周五、周六、节假日及其前一天 10:00–21:00（LO 20:00）",
+      "duration": "45–60 分钟",
+      "tags": [
+        "甜品",
+        "水果芭菲",
+        "甘王草莓",
+        "可网络预约",
+        "可刷卡",
+        "英文菜单"
+      ],
+      "tips": "警固神社社务所大楼 2 楼，西铁福冈站步行 2 分钟。甘王草莓（Amaou）盛产期一般在冬春，具体出行月份确定后要核对当季菜单。Tabelog 注明 11 月 11 日和 18 日（周三）休息，临近日期以官网为准。可网络预约，接受信用卡、IC 卡、PayPay。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40067037/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "tenjin-yatai-sou",
+      "category": "food",
+      "name": "天神屋台 宗",
+      "localName": "天神屋台 宗 / Tenjin Yatai Sou",
+      "area": "福冈·天神",
+      "lat": 33.5855,
+      "lng": 130.4024,
+      "price": {
+        "min": 2000,
+        "max": 2999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥2,000–2,999；照片标注：煎饺 ¥500–550、烧拉面 ¥900、朝日 Super Dry ¥600（可能已过时）"
+      },
+      "hours": "营业时间 Tabelog 未列；第三方资料称周一、二、三、五、六 19:00–24:00，周四、周日休息（未能核实）",
+      "duration": "40–60 分钟",
+      "tags": [
+        "屋台",
+        "拉面",
+        "烤鸡串",
+        "关东煮",
+        "12 席吧台",
+        "可用电子支付"
+      ],
+      "tips": "位于渡边通 4 丁目纸与天神大楼前，地铁天神南站步行约 2 分钟，12 个吧台座位，不可预约。Tabelog 标注可用电子货币和二维码，不收信用卡；屋台通例是带现金。座标取该街区，为估计。雨天和强风天多数摊位会休息，吸烟情况各摊不同，此摊允许吸烟。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/",
+        "https://macaro-ni.jp/404?page=4"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ichiran-sohonten-nakasu",
+      "category": "food",
+      "name": "一兰 本社总本店（中洲）",
+      "localName": "一蘭 本社総本店 / ICHIRAN Souhonten",
+      "area": "福冈·中洲",
+      "lat": 33.5932,
+      "lng": 130.4046,
+      "price": {
+        "min": 1080,
+        "max": 1500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：经典豚骨拉面 ¥1,080，加面 ¥210（半份 ¥150），加蛋 ¥140，米饭 ¥250，生啤中杯 ¥580。22:00–次日 6:00 另有深夜附加费（金额官网未列）。上限 ¥1,500 为加面、加蛋、加饭后的估算"
+      },
+      "hours": "24 小时营业（官网注明营业时间可能临时调整，繁忙时可能限制入场）",
+      "duration": "30 分钟",
+      "tags": [
+        "豚骨拉面",
+        "24 小时",
+        "单人隔间",
+        "当地特色",
+        "支持支付宝微信",
+        "中文菜单"
+      ],
+      "tips": "中洲 5-3-2，地铁中洲川端站步行可达，共 40 席（1 楼 14 + 2 楼 26），没有桌位和包间。先在售票机买券，官网列出的支付方式有微信、支付宝、PayPay 等二维码，Visa、Mastercard、JCB、AMEX、Diners 信用卡和各类 IC 卡，没有列银联卡。用填单纸选汤浓淡、面硬度、辣度。下雨天屋台休息时是常用备选。",
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "mizutaki-nagano",
+      "category": "food",
+      "name": "水炊 长野",
+      "localName": "水たき 長野 / Mizutaki Nagano",
+      "area": "福冈·中洲",
+      "lat": 33.5991,
+      "lng": 130.403,
+      "price": {
+        "min": 3300,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 说明：带骨鸡和鸡肉丸两种水炊套餐均 ¥3,300/人；标注均价 ¥4,000–4,999，评论者人均 ¥3,000–3,999（含饮品）"
+      },
+      "hours": "周一至周六 12:00–22:00；周日休息",
+      "duration": "1.5 小时",
+      "tags": [
+        "水炊（鸡肉火锅）",
+        "老字号",
+        "创业百年",
+        "需预约",
+        "可刷卡",
+        "有包间"
+      ],
+      "tips": "白浊鸡汤，最后加饭做杂炊。博多区对马小路，中洲川端站步行约 10 分钟，210 席但热门，建议 Tabelog 网络预约（页面注明电话通道暂停）。接受信用卡（VISA、Master、JCB、AMEX）和 PayPay，不收电子货币。全店禁烟。另一家同类老店是新三浦（博多本店），本次未核实。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "ganso-hakata-mentaiju-nishinakasu",
+      "category": "food",
+      "name": "元祖博多明太重 西中洲本店",
+      "localName": "元祖博多めんたい重 / Ganso Hakata Mentaiju",
+      "area": "福冈·中洲",
+      "lat": 33.5912,
+      "lng": 130.404,
+      "price": {
+        "min": 2000,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥2,000–2,999；饭吸套餐（明太重）¥2,380（未税）；西中洲料亭布丁 ¥680"
+      },
+      "hours": "7:00–22:30（餐点 LO 22:00），全年营业",
+      "duration": "45–60 分钟",
+      "tags": [
+        "明太子",
+        "明太重",
+        "当地特色",
+        "早餐可",
+        "支持支付宝微信银联",
+        "排队"
+      ],
+      "tips": "整条昆布卷明太子铺在米饭上的明太重，是博多明太子名物。中洲川端站旁，西中洲 6-15。网络预约只接受 17:00 以后的时段，午餐要排队。支持银联、支付宝、微信、PayPay 和各类信用卡与 IC 卡。可自带饮料。甜品推荐料亭布丁。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "nakasu-yatai-tsukasa",
+      "category": "food",
+      "name": "中洲屋台 司",
+      "localName": "屋台 司（つかさ）/ Tsukasa Yatai, Nakasu",
+      "area": "福冈·中洲",
+      "lat": 33.5906,
+      "lng": 130.4085,
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "福冈市官方观光站：明太子天妇罗 ¥1,000，对马穴子天妇罗 ¥1,000（时令）。人均为按菜价和一杯酒的估算"
+      },
+      "hours": "18:00–23:00（官方未标固定休息日；屋台依天气和摊主情况休息）",
+      "duration": "40–60 分钟",
+      "tags": [
+        "屋台",
+        "明太子天妇罗",
+        "当地特色",
+        "只收现金"
+      ],
+      "tips": "位于中洲清流公园内（中洲 1-8），营业 40 年以上的天妇罗屋台，招牌自制辛子明太子紫苏天妇罗。适合 2–3 人小组或独酌。同公园有 Takechan 饺子屋台（一口葱饺 8 个 ¥700，每周只开约 3–4 天，每人只能点一次饺子，可续点饮料）。座标取该街区，为估计。",
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://www.ticketsinjapan.com/en/articles/fukuoka-sightseeing-805062/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "nakasu-yatai-kurochan",
+      "category": "food",
+      "name": "中洲屋台 KUROchan",
+      "localName": "屋台 KUROちゃん / KURO-chan Yatai",
+      "area": "福冈·中洲",
+      "lat": 33.5951,
+      "lng": 130.4034,
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官方：糸岛地鸡炭烤配柚子胡椒 ¥1,300，猪软骨炖 ¥500。人均为估算"
+      },
+      "hours": "18:30–次日 1:00（官方未标固定休息日；依天气休息）",
+      "duration": "40–60 分钟",
+      "tags": [
+        "屋台",
+        "炭烤地鸡",
+        "糸岛鸡",
+        "柚子胡椒",
+        "只收现金"
+      ],
+      "tips": "在中洲中岛町，福冈 K Square 前（里中洲），比清流公园一带安静。摊主来自宫崎，主打炭烤糸岛鸡和长时间炖煮的猪软骨。座标取该街区，为估计。",
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://www.ticketsinjapan.com/en/articles/fukuoka-sightseeing-805062/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kawabata-zenzai-hiroba",
+      "category": "food",
+      "name": "川端善哉广场",
+      "localName": "川端ぜんざい広場 / Kawabata Zenzai Hiroba",
+      "area": "福冈·中洲",
+      "lat": 33.5937,
+      "lng": 130.4079,
+      "price": {
+        "min": 450,
+        "max": 500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Crossroad Fukuoka 官方：善哉 ¥450，夏季刨冰善哉 ¥450；Mapple 标注 ¥500，来源有出入"
+      },
+      "hours": "11:00–18:00；周一至周四及节假日休息（长假可能营业）；7/1–7/14 山笠期间每天营业",
+      "duration": "20–30 分钟",
+      "tags": [
+        "甜品",
+        "善哉（红豆汤）",
+        "当地特色",
+        "现烤年糕"
+      ],
+      "tips": "川端商店街内，地铁中洲川端站步行可到。使用北海道大纳言红豆和现烤手工年糕，号称日本最甜的善哉。实际营业日集中在周五至周日，出发前看官网 hakata.or.jp/zenzaihiroba。可外带。",
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10006"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kasanoya-dazaifu",
+      "category": "food",
+      "name": "笠之家（梅枝饼）",
+      "localName": "お食事処 かさの家 / Kasanoya",
+      "area": "太宰府",
+      "lat": 33.5195,
+      "lng": 130.5335,
+      "price": {
+        "min": 300,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "梅枝饼约 ¥150–180/个（2026 年指南约 ¥150；每月 17 日限定古代米梅枝饼 ¥180），按 2–3 个估算"
+      },
+      "hours": "9:00–18:00（Tabelog，营业时间可能变动）",
+      "duration": "20–30 分钟",
+      "tags": [
+        "梅枝饼",
+        "当地特色",
+        "老字号",
+        "现烤",
+        "支持支付宝微信银联",
+        "甜品百名店"
+      ],
+      "tips": "太宰府站步行约 4 分钟，参道上，1922 年作为旅馆创业。每月 17 日有古代米梅枝饼，25 日有艾草梅枝饼，限量，上午可能售罄。接受信用卡、IC 卡、PayPay、支付宝、微信、银联。注意不要与别家同名读音的笠乃家（宰府 3-2-43，周一休）混淆。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40006129/",
+        "https://tabelog.com/matome/19133/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "yasutake-umegae-dazaifu",
+      "category": "food",
+      "name": "安武（梅枝饼本铺）",
+      "localName": "やす武 / Yasutake",
+      "area": "太宰府",
+      "lat": 33.5195,
+      "lng": 130.5328,
+      "price": {
+        "min": 150,
+        "max": 450,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "梅枝饼 ¥150/个（含税，Tabelog 照片标注）；按 1–3 个估算"
+      },
+      "hours": "8:30–18:00，每天；休息日不固定，年末年始可能延长",
+      "duration": "15–20 分钟",
+      "tags": [
+        "梅枝饼",
+        "伴手礼",
+        "当地特色",
+        "可用 PayPay"
+      ],
+      "tips": "太宰府天满宫参道 2-7-16，距太宰府站约 3 分钟。有小块店内食用空间，也可外带伴手礼。不收信用卡，可用 PayPay。参道上有数家梅枝饼老店，各家馅料略有差异，可各买一个比较。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40000059/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "oishi-chaya-dazaifu",
+      "category": "food",
+      "name": "阿石茶屋",
+      "localName": "お石茶屋 / Oishi Chaya",
+      "area": "太宰府",
+      "lat": 33.5215,
+      "lng": 130.5354,
+      "price": {
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥999 以下；抹茶套餐 ¥600（照片标注）"
+      },
+      "hours": "周二、三、四、六、日 11:00–16:30；周一、周五休息",
+      "duration": "30–45 分钟",
+      "tags": [
+        "梅枝饼",
+        "丸天乌冬",
+        "抹茶套餐",
+        "榻榻米席",
+        "只收现金"
+      ],
+      "tips": "太宰府市宰府 4-7-43，距太宰府站步行约 12 分钟，在参道深处，可与天满宫参拜顺路。主打梅枝饼和乌冬，评论称丸天乌冬面扁平、略有嚼劲。Tabelog 标注不接受信用卡、电子货币和二维码，带现金。可预约。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40003617/",
+        "https://tabelog.com/matome/19133/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hagino-ya-dazaifu",
+      "category": "food",
+      "name": "萩野屋（宰府乌冬）",
+      "localName": "萩野屋 / Haginoya",
+      "area": "太宰府",
+      "lat": 33.5189,
+      "lng": 130.5315,
+      "price": {
+        "min": 700,
+        "max": 999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥999 以下；盐味冷乌冬（ざる）¥700（含税，照片标注）"
+      },
+      "hours": "10:30–17:00；周四休息",
+      "duration": "30 分钟",
+      "tags": [
+        "宰府乌冬",
+        "乌冬",
+        "猪排饭",
+        "午市",
+        "只收现金"
+      ],
+      "tips": "太宰府站前，宰府 2-6-2，距车站约 42 米，适合刚下车就吃。供应乌冬、猪排饭、荞麦面。Tabelog 标注不接受信用卡、电子货币和二维码。参道上午饭时段（11 点到 14 点）最挤，可避开。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40029612/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "starbucks-dazaifu-omotesando",
+      "category": "food",
+      "name": "星巴克 太宰府天满宫表参道店",
+      "localName": "スターバックス コーヒー 太宰府天満宮表参道店 / Starbucks Dazaifu Tenmangu Omotesando",
+      "area": "太宰府",
+      "lat": 33.5197,
+      "lng": 130.5334,
+      "price": {
+        "min": 390,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "仅查到 2023 年 Tall 滴滤咖啡 ¥390；星巴克日本 2026 年 2 月和 10 月 9 日两次涨价（标准饮品 +4 至 35 日元），现价需到店确认"
+      },
+      "hours": "8:00–20:00（资料来自 2014–2024 年，未找到 2026 年官方时间）",
+      "duration": "30 分钟",
+      "tags": [
+        "咖啡",
+        "隈研吾设计",
+        "参道景点",
+        "排队"
+      ],
+      "tips": "隈研吾设计，室内外都用木结构，在天满宫参道上。游客多，拍照和排队时间要预留。营业时间用前请到星巴克日本官网核对，电话 092-919-5690。",
+      "sources": [
+        "https://en.japantravel.com/article/top-10-unique-starbucks-in-japan/46363",
+        "https://www.gltjp.com/en/directory/item/13309/",
+        "https://www.watch.impress.co.jp/docs/news/2142316.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ganso-motoyoshiya-honten",
+      "category": "food",
+      "name": "元祖本吉屋 本店",
+      "localName": "元祖 本吉屋 本店 / Ganso Motoyoshiya Honten",
+      "area": "柳川",
+      "lat": 33.168,
+      "lng": 130.4104,
+      "price": {
+        "min": 4100,
+        "max": 5500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Mapple：特蒸笼饭套餐 ¥5,500，蒸笼饭套餐 ¥4,900，蒸笼饭（肝吸+腌菜）¥4,100；Tabelog 照片标注特蒸笼饭 ¥4,100；Tabelog 均价 ¥5,000–5,999"
+      },
+      "hours": "周二至周日 10:30–19:00（Tabelog；另有来源写 19:30 或 20:00 闭店）；周一休息",
+      "duration": "1 小时",
+      "tags": [
+        "鳗鱼蒸笼饭",
+        "せいろ蒸し",
+        "创业 1681 年",
+        "当地特色",
+        "鳗鱼百名店",
+        "可刷卡"
+      ],
+      "tips": "传说是蒸笼鳗鱼饭的发祥店，2024 和 2026 年入选 Tabelog 鳗鱼百名店。西铁柳川站步行约 12 分钟，矢加部站约 10 分钟。周末不可预约，按到店顺序，午间可能要等；平日可网络或电话预约。接受信用卡，不收电子货币和二维码。140 席，有包间、日式庭园景观席和 15 个车位。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "wakamatsuya-yanagawa",
+      "category": "food",
+      "name": "若松屋",
+      "localName": "若松屋 / Wakamatsuya",
+      "area": "柳川",
+      "lat": 33.1582,
+      "lng": 130.3963,
+      "price": {
+        "min": 3265,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 照片标注上蒸笼饭 ¥3,365；Mapple 标注鳗鱼蒸笼饭（肝吸）¥3,265 起；Tabelog 均价 ¥4,000–4,999"
+      },
+      "hours": "11:00–14:30、17:00–20:00（餐点 LO 19:15）；周三休息",
+      "duration": "1 小时",
+      "tags": [
+        "鳗鱼蒸笼饭",
+        "せいろ蒸し",
+        "安政年间创业",
+        "鳗鱼百名店",
+        "可刷卡",
+        "银联可用"
+      ],
+      "tips": "冲端町，靠近柳川游船「冲端」下船处，适合游船后吃饭。上、并、梅的区别在鳗鱼片数。接受信用卡（含银联）、IC 卡、PayPay。预约规则 Tabelog 页面自相矛盾，出发前电话确认 0944-72-3163；午间高峰要等但翻台快。190 席，旁有停车场。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40000145/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "saraya-fukuryu-yanagawa",
+      "category": "food",
+      "name": "皿屋 福柳",
+      "localName": "皿屋 福柳 / Saraya Fukuryu",
+      "area": "柳川",
+      "lat": 33.1584,
+      "lng": 130.3966,
+      "price": {
+        "min": 2000,
+        "max": 3999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥2,000–2,999，评论者人均 ¥3,000–3,999；菜单价格页面未列出"
+      },
+      "hours": "11:30–15:00（餐点 LO 14:30）；周四及每月第 2、4 个周三休息",
+      "duration": "1 小时",
+      "tags": [
+        "鳗鱼蒸笼饭",
+        "鳗鱼玉子烧",
+        "鳗鱼饭团",
+        "可预约",
+        "英文菜单",
+        "可刷卡"
+      ],
+      "tips": "冲端町 29-1，与若松屋为邻，较便宜的蒸笼鳗鱼饭选择，有迷你和特别版蒸笼饭。可电话预约 0944-72-2404；新年、黄金周、盂兰盆节旺季不接受预约，先到先得。接受信用卡，不收电子货币和二维码。有 17 个车位。座标与若松屋同街区，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001150/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kaki-goya-sumiyoshimaru-kafuri",
+      "category": "food",
+      "name": "牡蛎小屋 住吉丸（加布里）",
+      "localName": "牡蠣小屋 住吉丸 / Sumiyoshimaru",
+      "area": "糸岛·加布里",
+      "lat": 33.549,
+      "lng": 130.1594,
+      "price": {
+        "min": 1500,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：烤牡蛎每盘 ¥1,300（普通）/ ¥1,500（大）/ ¥1,700（特大）/ ¥1,800（三倍体）；桌位加气费 ¥220/人；其他海鲜 ¥350–1,800/份。人均为估算"
+      },
+      "hours": "冬季营业从 10 月 10 日起 9:00–17:00，休息日不固定，12/31 和 1/1 休息（2026 年资料，2027 年季节需重新确认）",
+      "duration": "1.5–2 小时",
+      "tags": [
+        "牡蛎小屋",
+        "当季（约 10 月–4 月）",
+        "当地特色",
+        "自己烤"
+      ],
+      "tips": "糸岛牡蛎小屋里离筑前前原站最近的一家，在加布里渔港。昭和巴士从博多巴士总站到「加布里东」下车再步行约 5 分钟；JR 加布里站步行约 24 分钟，打车约 5 分钟约 ¥600。电话 080-8554-2444，是否可预约和支付方式官网未写明。坐标为加布里渔港附近，为估计。",
+      "sources": [
+        "https://kafuri.com/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "kaki-goya-senryumaru-funakoshi",
+      "category": "food",
+      "name": "牡蛎小屋 千龙丸（船越）",
+      "localName": "牡蠣小屋 千龍丸 / Senryumaru",
+      "area": "糸岛·志摩",
+      "lat": 33.556,
+      "lng": 130.1228,
+      "price": {
+        "min": 1700,
+        "max": 3000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网：烤牡蛎一盘 ¥1,200（半盘 ¥600），牡蛎饭 ¥250/盒，鲷鱼茶泡饭 ¥700；桌费 ¥500/桌（含炭、手套、牡蛎刀）。人均为估算"
+      },
+      "hours": "2026 年 10 月 11 日开业；10:00–17:00，休息日不固定（官网未列营业时间，取自 Crossroad Fukuoka 汇总）",
+      "duration": "1.5–2 小时",
+      "tags": [
+        "牡蛎小屋",
+        "当季（约 10 月–4 月）",
+        "自己烤",
+        "船越渔港"
+      ],
+      "tips": "糸岛市志摩船越 415，电话 092-328-1812。船越周末和节假日停车场几乎满，早到；公交班次少，从筑前前原站北口乘船越线巴士，到船越站下车再步行约 6 分钟，或打车约 20 分钟。饮酒不可开车。官网未写预约和支付方式。",
+      "sources": [
+        "https://kakigoya-senryumaru.com/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki",
+        "https://kanko-itoshima.jp/spot/itoshima-oyster/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "kaki-goya-fujimaru-kishi",
+      "category": "food",
+      "name": "牡蛎小屋 冨士丸（岐志）",
+      "localName": "牡蠣小屋 冨士丸 / Fujimaru",
+      "area": "糸岛·志摩",
+      "lat": 33.5754,
+      "lng": 130.1207,
+      "price": {
+        "min": 2000,
+        "max": 2300,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "官网套餐：梅 ¥2,000（1 人起，牡蛎 500g + 海螺、蛤、扇贝、虾、牡蛎饭、牡蛎汤）；竹 ¥5,500（4–5 人，牡蛎 2kg）；松 ¥9,000（6–7 人，牡蛎 3kg）；炭费 ¥550/桌（2 人桌摊到每人约 ¥275）"
+      },
+      "hours": "10:00–16:30（最后入店 16:00），休息日不固定；2026 年开业公告 9 月 25 日发出，具体日期以官网为准",
+      "duration": "1.5–2 小时",
+      "tags": [
+        "牡蛎小屋",
+        "套餐",
+        "当季（约 10 月–4 月）",
+        "团体可预约"
+      ],
+      "tips": "岐志渔港是糸岛牡蛎小屋最集中的区域。团体随时可预约，电话 080-5249-3824，个人是否可预约官网未写明。可接旅游大巴，有大巴停车位。官网 2026-09-30 发过交通管制公告，旺季渔港周边道路拥堵。",
+      "sources": [
+        "http://www.kaki-fujimaru.jp/",
+        "https://www.crossroadfukuoka.jp/feature/itoshima-kaki"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "tsukamoto-sengyoten-itoshima",
+      "category": "food",
+      "name": "塚本鲜鱼店",
+      "localName": "塚本鮮魚店 / Tsukamoto Sengyoten",
+      "area": "糸岛·加布里",
+      "lat": 33.5467,
+      "lng": 130.1693,
+      "price": {
+        "min": 1200,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 照片标注：海鲜丼 ¥1,200，极上海鲜丼 ¥3,800，特选刺身拼盘 ¥1,800/人，岩牡蛎刺身 ¥1,380；评论者人均 ¥3,000–3,999"
+      },
+      "hours": "周一至周五 11:00–14:30（LO 14:15）、17:00–21:30（LO 21:00）；周六日加 8:00–10:00 早餐；全年营业",
+      "duration": "1–1.5 小时",
+      "tags": [
+        "海鲜丼",
+        "糸岛海产",
+        "当地特色",
+        "排队",
+        "可早餐"
+      ],
+      "tips": "JR 加布里站步行约 736 米，80 席，有停车场。极上海鲜丼限量，平日午市也有队。Tabelog 标注不接受信用卡、电子货币和二维码，带现金。预约规则页面有出入，出发前确认。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40006148/",
+        "https://tabelog.com/matome/29691/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "farmhouse-uovo-itoshima",
+      "category": "food",
+      "name": "糸岛农场屋 UOVO（布丁）",
+      "localName": "糸島ファームハウス UOVO / Itoshima Farmhouse UOVO",
+      "area": "糸岛·志摩",
+      "lat": 33.6267,
+      "lng": 130.1848,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论人均 ¥1,000–1,999；评论提到软冰淇淋 ¥780；布丁价格页面未列出"
+      },
+      "hours": "周一至周五 10:00–17:30；周六、周日 9:00–17:30；休息日以店方为准",
+      "duration": "45–60 分钟",
+      "tags": [
+        "布丁",
+        "咖啡",
+        "蛋糕卷",
+        "糸岛特色",
+        "可刷卡",
+        "景观"
+      ],
+      "tips": "志摩樱井，以「天上卵」土鸡蛋做布丁和蛋糕卷。可用信用卡（JCB、AMEX）、电子货币和二维码，有停车位，不可预约。离其他糸岛餐厅较远，自驾或包车比较合适。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40017140/",
+        "https://tabelog.com/matome/21817/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ganso-nagahamaya",
+      "category": "food",
+      "name": "元祖长浜屋",
+      "localName": "元祖長浜屋 / Ganso Nagahamaya",
+      "area": "福冈·长浜",
+      "lat": 33.5925,
+      "lng": 130.3867,
+      "price": {
+        "min": 550,
+        "max": 700,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 2026 年 10 月评论：拉面 ¥550、替肉 ¥100；替玉约 ¥150（检索摘要，日期不明）。人均含一份替玉"
+      },
+      "hours": "6:00–次日 1:45，每天；12/31–1/5 休息",
+      "duration": "20–30 分钟",
+      "tags": [
+        "长浜拉面",
+        "替玉发祥店（1952）",
+        "清晨营业",
+        "凌晨营业",
+        "只收现金",
+        "食券"
+      ],
+      "tips": "鲜鱼市场对面的老店，汤头清淡，面细。食券制，Tabelog 标注不接受信用卡、电子货币和二维码，带零钱。32 席，不可预约，近旁停车场。与附近的元祖拉面长浜家（另一店，24 小时）名字相近，别搞混。地铁赤坂站 1 号出口步行约 10 分钟。有网友说 2026 年 5 月到 7 月初曾因厨房装修休业，晚秋评论显示已恢复且价格未涨。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "okiyo-nagahama-ichiba",
+      "category": "food",
+      "name": "OKIYO 食堂（鲜鱼市场会馆）",
+      "localName": "おきよ / Okiyo",
+      "area": "福冈·长浜",
+      "lat": 33.5943,
+      "lng": 130.3898,
+      "price": {
+        "min": 1000,
+        "max": 2500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；晚餐鲭鱼涮涮锅套餐 ¥2,500，鰤鱼涮涮锅套餐 ¥2,500，河豚套餐 ¥8,000"
+      },
+      "hours": "周一至周六 9:00–15:00、18:00–21:30；周日休息",
+      "duration": "1 小时",
+      "tags": [
+        "海鲜丼",
+        "市场食堂",
+        "鲭鱼涮涮锅",
+        "可刷卡"
+      ],
+      "tips": "长浜鲜鱼市场「市场会馆」1 楼，长浜 3-11-3。午餐吃海鲜丼和定食，晚上有涮鱼套餐。接受 JCB、AMEX、Diners、PayPay、d 払い等，不收电子货币。市场会馆前有 1 小时免费停车。坐标取市场会馆大楼，同楼多店，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40000036/",
+        "https://www.crossroadfukuoka.jp/en/experience/12642"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "ichiba-zushi-uotatsu",
+      "category": "food",
+      "name": "市场寿司 鱼辰（回转寿司）",
+      "localName": "市場ずし 魚辰 / Ichiba Zushi Uotatsu",
+      "area": "福冈·长浜",
+      "lat": 33.5944,
+      "lng": 130.3899,
+      "price": {
+        "min": 2000,
+        "max": 3999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 评论者人均 ¥2,000–3,999；菜单价格未列出"
+      },
+      "hours": "周一至周六 9:30–20:30；周日 11:00–20:30",
+      "duration": "45–60 分钟",
+      "tags": [
+        "回转寿司",
+        "鲜鱼市场",
+        "排队",
+        "午市",
+        "可用 PayPay"
+      ],
+      "tips": "鲜鱼市场会馆入口左手边，2008 年开业，37 席，不可预约，周末和饭点会排队。评论称某些时段不上传送带，改为点单制。Tabelog 标注不收信用卡，可用 PayPay。会馆前 1 小时免费停车。座标取市场会馆大楼附近，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006362/",
+        "https://tabelog.com/fukuoka/A4001/A400104/40006362/dtlrvwlst/B425798552/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "fukuuo-shokudo",
+      "category": "food",
+      "name": "福鱼食堂",
+      "localName": "福魚食堂 / Fukuuo Shokudo",
+      "area": "福冈·长浜",
+      "lat": 33.5942,
+      "lng": 130.3897,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；盐烤真鲷定食（附刺身）¥1,000（照片标注）"
+      },
+      "hours": "周一至周六 7:00–14:00；周日休息（评论有写 4:00 开门，以 Tabelog 为准）",
+      "duration": "30–45 分钟",
+      "tags": [
+        "鱼定食",
+        "日替定食",
+        "早餐",
+        "只收现金",
+        "米饭可续"
+      ],
+      "tips": "市场会馆 1 楼，前仲买人做的整条带头尾的日替定食，煮鱼口碑好，米饭大碗和续添免费，改刺身要加价。27 席，不可预约。Tabelog 标注不接受信用卡、电子货币和二维码。座标取市场会馆大楼附近，为估计。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40020882/",
+        "https://tabelog.com/fukuoka/A4001/A400104/40020882/dtlrvwlst/B351828742/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "hakata-gomasaba-ya",
+      "category": "food",
+      "name": "博多芝麻鲭鱼屋",
+      "localName": "博多ごまさば屋 / Hakata Gomasaba-ya",
+      "area": "福冈·长浜",
+      "lat": 33.591,
+      "lng": 130.393,
+      "price": {
+        "min": 1000,
+        "max": 1999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 均价 ¥1,000–1,999；照片标注：芝麻鲭鱼单点 ¥1,000（2026-09），刺身定食 ¥1,800（2026-06），鲭鱼腹肉单点 ¥1,400"
+      },
+      "hours": "周一至周六 11:00–14:00、17:30–21:30；周日及节假日仅 11:00–14:00；食材售完提前结束",
+      "duration": "45 分钟",
+      "tags": [
+        "芝麻鲭鱼（胡麻鯖）",
+        "定食",
+        "当地特色",
+        "定食百名店",
+        "只收现金"
+      ],
+      "tips": "鱼从长浜市场每天采购，赤坂站步行约 5 分钟（舞鹤 1-2-11）。32 席，晚餐可通过 Tabelog 预约，午餐不可。Tabelog 标注不接受信用卡、电子货币和二维码。2026、2024、2021 年入选定食百名店，午餐开门前就可能排队。",
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "costs": [
+    {
+      "item": "上海浦东⇄福冈 直飞往返经济舱（春秋/东航及日航联运）",
+      "price": {
+        "min": 1268,
+        "max": 7995,
+        "currency": "CNY",
+        "unit": "往返",
+        "note": "区间来自 Kayak 历史平均 ¥1,268（春秋低价档）到日航官网 ¥7,995 的往返标价；ANA 官网同航线低价档约 ¥3,285–3,424（2026 年 10 月、2027 年 1 月出发样本）。实际价以出行日期为准，春秋含税低价与行李另收需自行核对"
+      },
+      "sources": [
+        "https://www.jal.co.jp/flights/zh-cn/从上海到福冈的航班",
+        "https://flights.ana.co.jp/zh-cn/flights-from-shanghai-to-fukuoka",
+        "https://www.cn.kayak.com/航班/福冈机场-FUK/上海-浦东国际机场-PVG"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "上海浦东⇄福冈 直飞班次与飞行时间",
+      "price": {
+        "currency": "CNY",
+        "note": "春秋 9C 每周 11 班（9C6538 每日、9C6610 每周 4 班，2026-10-25 冬航季维持 11 班，AeroRoutes 与 monomoney 一致）；东航 MU518（午后）、MU5088（傍晚）在订票网站上各为每日一班，日航 JL5625/JL5659 为其代码共享，冬季班次数官方未核实；国航上海–福冈已取消（2026 夏季即停，NW26 删除）。飞行约 2 小时–2 小时 20 分。福冈→上海 日间班约 11:55、13:55、15:55（CA916 旧）、18:00、18:15"
+      },
+      "sources": [
+        "https://www.aeroroutes.com/eng/260803-cnnw26jp",
+        "https://monomoney-living.com/?p=22053",
+        "https://ekitan.com/timetable/airplane/international/section/all/sf-air_FUK/st-city_SHA",
+        "https://www.joytel.jp/topics/travel-china/go-to-china-airlines/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "上海浦东⇄那霸 直飞班次（对比）",
+      "price": {
+        "currency": "CNY",
+        "note": "2026-10-25 冬航季：春秋航空复航，每周 2 班（A320，2026-08 备案、2026-10-17 汇总页一致）；东航每周 2 班自 10-25 取消。此前所说每周 3–4 班（东航+春秋）已减为春秋每周 2 班。飞行约 2.5 小时（夏季时刻表 14:00–16:35）。班期、是否执行、票价均未经航司官方核实，不要作为唯一返程方案"
+      },
+      "sources": [
+        "https://www.aeroroutes.com/eng/260803-cnnw26jp",
+        "https://monomoney-living.com/?p=22053",
+        "https://www.joytel.jp/topics/travel-china/go-to-china-airlines/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "福冈→那霸 国内线单程（LCC 低价档：Peach/Solaseed/Skymark）",
+      "price": {
+        "min": 5980,
+        "max": 8450,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "比价站快照：Peach ¥5,980 起、Solaseed ¥6,840 起、Skymark ¥8,450 起；含税，行李另计，随日期和余票大幅波动，旺季/临近出发可能到 ¥15,000 以上"
+      },
+      "sources": [
+        "https://www.sorahapi.jp/calendar/FUK/OKA/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "福冈→那霸 国内线单程（ANA/JAL 传统航司低价档）",
+      "price": {
+        "min": 13000,
+        "max": 18388,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "比价站 ANA ¥13,000 起、JAL ¥14,100 起；ANA 官网某日期页显示 ¥18,388 起。同路线可从数千日元到 3 万日元以上，越早订越便宜"
+      },
+      "sources": [
+        "https://www.sorahapi.jp/calendar/FUK/OKA/",
+        "https://www.ana.co.jp/ja-jp/flights-from-fukuoka-to-okinawa-naha"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "福冈→那霸 国内线班次与飞行时间",
+      "price": {
+        "currency": "JPY",
+        "note": "2026-10-30（冬航季首周）时刻表共 24 班/天：ANA 10、JAL（JTA）6、Peach 4、Skymark 3、Solaseed 1；首班 7:05（ANA1201）、末班 20:45（JTA065）；飞行 1 小时 45 分–2 小时。全部从福冈机场国内线航站楼出发。比价站标注该航线最多约 40 班/天，数字取决于统计口径"
+      },
+      "sources": [
+        "https://ekitan.com/timetable/airplane/domestic/section/all/sf-45/st-53",
+        "https://www.sorahapi.jp/calendar/FUK/OKA/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "那霸→福冈 国内线班次（回程备用方案 b）",
+      "price": {
+        "currency": "JPY",
+        "note": "2026-10-30 时刻表共 24 班/天：ANA 10、JAL 6、Peach 4、Skymark 3、Solaseed 1；首班 7:10（JTA050）、末班 19:40（JTA062/APJ292）；飞行约 1 小时 35 分–1 小时 55 分。福冈→上海 的下午/傍晚班约 13:55、18:00、18:15，早班约 11:55，所以早上 7:10–10:05 的 OKA→FUK 航班能衔接"
+      },
+      "sources": [
+        "https://ekitan.com/timetable/airplane/domestic/section/all/sf-53/st-45"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "那霸→关西 国内线（备用方案 c）",
+      "price": {
+        "min": 6150,
+        "max": 13880,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "2023 年资料：Peach/Jetstar ¥6,150–6,160 起、JAL/ANA ¥13,880 起，已过期，仅作量级参考；班次约每周 84–98 班/单向，飞行约 2 小时 5–20 分"
+      },
+      "sources": [
+        "https://tour.l-tike.com/flights/domestic/lowest-price/OKA-KIX/",
+        "https://www.nap-camp.com/mag/?p=108424"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "关西⇄上海浦东 直飞班次（备用方案 c）",
+      "price": {
+        "currency": "CNY",
+        "note": "2026-10 时刻表快照：每天约 10 班以上（东航 MU730/MU226/MU516、上航 FM822、春秋 9C 多班、吉祥 HO1506/HO1338、国航 CA858、日航 JL891、ANA NH973/975 每周 4 班、Peach MM079）；冬季中国航司继续削减，具体班次请出发前复核。国航 2026-10-25 起浦东–关西 1 班/天（原计划 3 班）"
+      },
+      "sources": [
+        "https://www.joytel.jp/topics/travel-china/go-to-china-airlines/",
+        "https://www.aeroroutes.com/eng/260803-cnnw26jp",
+        "https://www.aviationwire.jp/?p=352704"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "那霸⇄台北桃园 班次（备用方案 d，对大陆护照基本不可行）",
+      "price": {
+        "currency": "JPY",
+        "note": "JTA 那霸–台北桃园 2026-10-25 起每日 2 往返（约每周 14 往返）。大陆居民入台需《往来台湾通行证》+入台证，且不能从日本等第三地入台，因此持大陆护照从那霸转台北回上海很可能不行；转机免入境的规则网上没有可靠 2026 年资料，务必向航司和台方确认后再考虑"
+      },
+      "sources": [
+        "https://monomoney-living.com/?p=22053",
+        "https://www.uscreditcardguide.com/mainland-china-resident-transit-in-tpe/",
+        "https://www.extrabux.com/chs/guide/6780678"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "福冈机场→博多 地铁空港线",
+      "price": {
+        "min": 260,
+        "max": 260,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "约 5 分钟；福冈机场站由扶梯直连国内线航站楼；国际线航站楼需先坐免费接驳巴士"
+      },
+      "sources": [
+        "https://www.fukuoka-airport.jp/en/access/subway.html",
+        "https://www.pa.qsr.mlit.go.jp/fap/rencho/info1/pdf/step01/pirepo01-2-1.pdf"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "福冈机场→天神 地铁空港线",
+      "price": {
+        "min": 260,
+        "max": 260,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "约 11 分钟；博多→天神 ¥210（约 5 分钟，未核实）。地铁与巴士可用 Suica 等全国互通 IC 卡；末班车时间各来源不一（23 点台到 0 点后），请查福冈市地铁官网"
+      },
+      "sources": [
+        "https://www.fukuoka-airport.jp/en/access/subway.html",
+        "https://www.pa.qsr.mlit.go.jp/fap/rencho/info1/pdf/step01/pirepo01-2-1.pdf"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "福冈市地铁 1 日乘车券（空港线+箱崎线+七隈线）",
+      "price": {
+        "min": 640,
+        "max": 640,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "儿童 ¥320；可在车站售票机、天神/博多/福冈机场国际线观光案内所购买；信用卡触碰支付每天同样封顶 ¥640（同一张卡/设备，凌晨 3:00 算一天）；不含 JR、西铁电车和巴士。箱崎宫（箱崎线）可用"
+      },
+      "sources": [
+        "https://monomoney-living.com/fukuoka-subway-1day-pass-2026/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "福冈机场国内线⇄国际线 免费接驳巴士",
+      "price": {
+        "min": 0,
+        "max": 0,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "免费；约 5–6 分钟一班（高峰），约 6:00–23:20 运行，车程约 10–15 分钟；转场（含取行李）预留至少 30 分钟，加值机安检请总共留 3–4 小时"
+      },
+      "sources": [
+        "https://www.fukuoka-airport.jp/en/access/bus2.html",
+        "https://travelist.jp/airport_FUK/guide/posts/p334"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "太宰府 Liner 巴士「旅人」福冈机场国际线→太宰府",
+      "price": {
+        "min": 700,
+        "max": 700,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "约 25 分钟；IC 卡/信用卡支付减 ¥20；博多巴士总站→太宰府 ¥800、约 40 分钟（平日 28 班、周末 36 班）；无需预约"
+      },
+      "sources": [
+        "https://www.nishitetsu.jp/bus/rosen/dazaihu_liner/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "西铁福冈（天神）→太宰府 电车（经西铁二日市换乘）",
+      "price": {
+        "min": 480,
+        "max": 480,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "往返 ¥960，约 30–44 分钟（乘换案内站数据）；周末/节假日有观光列车「旅人」，无需另付。西铁已申请涨价，如已实施请以现场为准"
+      },
+      "sources": [
+        "https://ekitan.com/transit/fare/sf-7824/st-7785",
+        "http://inf.nishitetsu.jp/train/tabito/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "太宰府・柳川观光きっぷ 2026（天神/药院出发，2 天有效）",
+      "price": {
+        "min": 3620,
+        "max": 3730,
+        "currency": "JPY",
+        "unit": "每位成人",
+        "note": "数码版 ¥3,620、纸质票 ¥3,730；儿童 ¥1,810/¥1,870。含西铁福冈（天神）或药院往返太宰府+柳川的电车、柳川川下り乘船券一次、12 处设施优惠券；途中只能在太宰府站和西铁柳川站下车；乘船是单程。数码版在 Paymul/my route 购买，纸票在天神/药院站售票处。若只去太宰府，单买往返 ¥960 更划算"
+      },
+      "sources": [
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/",
+        "https://www.fukuoka-now.com/en/?p=71762"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "福冈市内＋太宰府 Liner「旅人」巴士 1 日乘车券",
+      "price": {
+        "min": 2100,
+        "max": 2100,
+        "currency": "JPY",
+        "unit": "每位成人",
+        "note": "西铁日文官网 ¥2,100（儿童 ¥1,050）；旧中文页为 ¥1,600，说明已涨价。只含巴士，不含电车。西铁官网上另有福冈市内巴士 1 日券，价格在图片里"
+      },
+      "sources": [
+        "https://www.nishitetsu.jp/bus/jyousha/cityfree_tabito/",
+        "https://www.nishitetsu.jp/zh_tw/1daypass/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "柳川川下り（集合船）",
+      "price": {
+        "min": 1800,
+        "max": 1900,
+        "currency": "JPY",
+        "unit": "每位成人",
+        "note": "柳川观光开发 ¥1,900（儿童 ¥950），另一来源 ¥1,800；约 60–70 分钟；常规 9:40 起，冬季暖桌船，2 月水落期有调整；电话 0944-72-6177"
+      },
+      "sources": [
+        "https://www.yanagawa-net.com/en/?p=349",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "西铁 天神→西铁柳川 特急（单程）",
+      "price": {
+        "currency": "JPY",
+        "note": "约 48–50 分钟；单程票价本次没有查到可靠数字（只查到天神–大牟田 ¥1,140、柳川–大牟田 ¥420 的参考），请到西铁窗口或乘换案内确认；最划算的是上面的观光きっぷ"
+      },
+      "sources": [
+        "https://www.yanagawa-net.com/en/?p=349",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "姪浜→能古岛 渡轮",
+      "price": {
+        "min": 220,
+        "max": 230,
+        "currency": "JPY",
+        "unit": "单程",
+        "note": "约 10 分钟；平日与周日/节假日班次不同；渡轮码头→Island Park 的巴士约 13 分钟，约 ¥240（旧资料）；台风天停航。水上巴士从天神中央公园出发 ¥1,300，只在特定时期运行"
+      },
+      "sources": [
+        "https://www.fukuoka-now.com/en/wp-json/wp/v2/posts/72088",
+        "https://www.crossroadfukuoka.jp/cn/spot/12460"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "福冈出租车起步价",
+      "price": {
+        "min": 600,
+        "max": 830,
+        "currency": "JPY",
+        "unit": "起步",
+        "note": "改定前普通车 1.6 km ¥830；2025-12 提出的改定申请为 1.0 km ¥600，九州运输局 2026-06-01 公示了新运价（增收率 10.62%），具体新数字没有核实；机场↔博多约 ¥1,500–2,000（旧资料）"
+      },
+      "sources": [
+        "https://wwwtb.mlit.go.jp/kyushu/content/000374925.pdf",
+        "https://wwwtb.mlit.go.jp/kyushu/content/000363949.pdf",
+        "https://travelist.jp/airport_FUK/guide/posts/p135"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "租车（中国大陆驾照）",
+      "price": {
+        "currency": "JPY",
+        "note": "不适用：中国大陆驾照即使附日文翻译也不能在日本驾驶，只有瑞士、德国、法国、比利时、摩纳哥、中国台湾的驾照+日文翻译件，或持日内瓦公约国际驾照才行。本行程请用地铁、西铁、出租车和一日游。"
+      },
+      "sources": [
+        "https://jaf.or.jp/-/media/1/2590/2708/3096/pdf_info_jp_202607_ippan_001.pdf",
+        "https://www.pref.kyoto.jp/fukei/menkyo/s_men1/gaimen/unten.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "博多通りもん（明月堂）6个装",
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年7月 JAF Mate 价；另有 4个装 620、9个装 1,500（Jalan 福冈机场文章）。机场、博多站、天神的百货和伴手礼店都有，最方便是在博多站 Maing 或机场国内线 2F 买"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html",
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "名菓ひよ子（吉野堂）角5个装",
+      "price": {
+        "min": 994,
+        "max": 994,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年7月 JAF Mate 价；7个装圆盒 2025年7月为 1,161。机场 2F 有 L'UNIQUE ひよ子 的机场限定款"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html",
+        "https://jafmate.jp/drive/must-buy-souvenir_0722.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "筑紫もち（如水庵）6个装",
+      "price": {
+        "min": 1296,
+        "max": 1296,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2025年的价格（JAF Mate 2025-07、Jalan 机场文章 2025-02）；同一来源 9个装 1,944、18个装 3,888。更早的资料写 6个装 1,026，说明价格涨过，2027年要再核实。博多站、机场国内线 2F 玉屋 / 菊ひら / SOLAE、国际线 3F 免税店都有"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_0722.html",
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "めんべい 明太子煎饼（福太郎）プレーン 2枚×8袋",
+      "price": {
+        "min": 860,
+        "max": 860,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年7月 JAF Mate 价；2025年同规格是 600，2026年4月调过价。常温保存，适合带去冲绳再回国"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html",
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "辛子明太子「紡」（稚加榮）120g",
+      "price": {
+        "min": 1836,
+        "max": 1836,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "お徳用切子，福冈机场国内线 2F 稚加榮店（8:00–20:00）。资料为 2025年2月，需冷藏，不适合带去冲绳后再回国，见 notes"
+      },
+      "sources": [
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "あごだしめんたいこ うまくち（久原本家・椒房庵）210g",
+      "price": {
+        "min": 3412,
+        "max": 3412,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "2026年7月 JAF Mate 价，高端送礼款，需冷藏"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "味の明太子（ふくや）120g",
+      "price": {
+        "min": 1080,
+        "max": 1080,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "口碑站写的建议零售价，没有日期；有用户说店里去年秋天涨过价。ふくや 官网当前价没取到（403）。想买就以店里标价为准"
+      },
+      "sources": [
+        "https://minhyo.jp/azinomentaiko-hukuya"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "めんツナかんかん（ふくや）1罐",
+      "price": {
+        "min": 370,
+        "max": 370,
+        "currency": "JPY",
+        "unit": "每罐",
+        "note": "2026年7月 JAF Mate 价；明太子腌制的辣金枪鱼罐头，常温保存，是明太子里最适合带去冲绳的一款"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "めんたいチューブ（やまや）1支",
+      "price": {
+        "min": 756,
+        "max": 756,
+        "currency": "JPY",
+        "unit": "每支",
+        "note": "2026年7月 JAF Mate 价；明太子酱，冷藏约 30 天、冷冻约 2 个月（页面说明）。主要在线上店，实体店以やまや 门店为准"
+      },
+      "sources": [
+        "https://jafmate.jp/drive/must-buy-souvenir_20260722.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "ひよ子のあまおうピィナンシェ（吉野堂，机场限定）",
+      "price": {
+        "min": 789,
+        "max": 1534,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "5个装 789，10个装 1,534；Jalan 机场文章（2025年2月），机场国内线 2F L'UNIQUE ひよ子。あまおう 草莓点心 1–3 月品种最多，当季才有鲜草莓"
+      },
+      "sources": [
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "博多まっかな苺のラングドシャ（あまおう草莓，花福堂）",
+      "price": {
+        "min": 1188,
+        "max": 2754,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "10枚 1,188、16枚 1,890、24枚 2,754；Jalan 机场文章（2025年2月），机场国内线 2F 有专门店，独立包装好分发"
+      },
+      "sources": [
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "一蘭ラーメン 博多细面直面 5食装（含秘传红粉）",
+      "price": {
+        "min": 2300,
+        "max": 2300,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "一蘭官网英文页的建议零售价（含税），2025-04 改版；JAF Mate 2025年7月写的是卷面款 2,150。机场、博多站、一蘭 店里都有"
+      },
+      "sources": [
+        "https://en.ichiran.com/omiyage-introduce/hoso/hoso5",
+        "https://jafmate.jp/drive/must-buy-souvenir_0722.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "博多一幸舎 豚骨拉面（味蔵）3食装",
+      "price": {
+        "min": 1350,
+        "max": 1350,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "Jalan 机场文章（2025年2月），机场国内线 2F 玉屋、菊ひら、ANA FESTA 等"
+      },
+      "sources": [
+        "https://www.jalan.net/news/article/217798/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "梅ヶ枝餅（太宰府，かさの家）",
+      "price": {
+        "min": 150,
+        "max": 150,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "含税；5个装 750（JAF Mate 2025-07）。店里现烤现吃，参道多数店都卖，不用提前买"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10574",
+        "https://jafmate.jp/drive/must-buy-souvenir_0722.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "博多织 束口小包（福冈市传统工艺游客项目）",
+      "price": {
+        "min": 4000,
+        "max": 4000,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "不含税，樱花或格纹图案；同一项目的手工 DIY 套件 1,300–2,500（不含税）。没有日期。博多站 Maing 的 Sanui 店、博多 Riverain B2F 賑わいプラザ、博多町家ふるさと館 可以买，具体价格没取到"
+      },
+      "sources": [
+        "https://yokanavi.com/en/news/97355/",
+        "https://www.crossroadfukuoka.jp/spot/17112"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "茅乃舎 博多限定あごだし 8g×20袋（久原本家）",
+      "price": {
+        "min": 1890,
+        "max": 1890,
+        "currency": "JPY",
+        "unit": "每盒",
+        "note": "Jalan 机场文章（2025年2月），机场国内线出发大厅店；2026年6月夏季限定 8g×30袋 为 2,268（PR TIMES）。常温，可带去冲绳"
+      },
+      "sources": [
+        "https://www.jalan.net/news/article/217798/",
+        "https://prtimes.jp/main/html/rd/p/000000264.000079541.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "神社御守（一般价位）",
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "多数资料写一般 500–1,000 日元，简单的更便宜，工艺复杂的更贵；神社不叫「价格」而叫初穂料。太宰府天满宫、栉田神社的官网没有价格，这个区间不是它们的定价"
+      },
+      "sources": [
+        "https://www.tsunagujapan.com/en/omamori-physical-well-wishes/",
+        "https://www.jeepe.jp/en/articles/omamori-guide-japan-1760"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "太宰府天满宫 学业御守",
+      "price": {
+        "min": 1000,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "2019年的资料，同来源还有：学业铅笔 500、通勤安全 1,200、梅实金襕袋守 1,500、おみくじ 100。官网只列了品种没有价格，现价到神社授与所确认（电话 092-922-8225）"
+      },
+      "sources": [
+        "https://www.fun-japan.jp/en/articles/1199",
+        "https://www.dazaifutenmangu.or.jp/omamori"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "博多豚骨拉面一碗（连锁名店：一兰、ShinShin 等）",
+      "price": {
+        "min": 790,
+        "max": 1080,
+        "currency": "JPY",
+        "unit": "每碗",
+        "note": "一兰总本店经典豚骨 ¥1,080（官网）；ShinShin 天神本店加蛋拉面 ¥790、什锦面 ¥850（Tabelog）"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40004980/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "长浜式老店拉面（元祖长浜屋）",
+      "price": {
+        "min": 550,
+        "max": 550,
+        "currency": "JPY",
+        "unit": "每碗",
+        "note": "Tabelog 2026 年 10 月多条评论均写 ¥550；加肉（替肉）¥100"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "拉面加面（替玉）",
+      "price": {
+        "min": 150,
+        "max": 210,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "一兰加面 ¥210（半份 ¥150，官网）；屋台约 ¥150–200（第三方指南）"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "屋台一顿（含 1 杯饮料，每人）",
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "第三方指南：含一杯约 ¥1,500–3,000，多摊串吃 ¥4,000–6,000；中洲比天神、长浜贵约 10–20%。单品：拉面 ¥700–900，煎饺 ¥500–700，烤地鸡 ¥1,300，明太子天妇罗 ¥1,000（官方观光站、Tabelog）。取 ¥2,000–3,500 作为一顿的合理范围"
+      },
+      "sources": [
+        "https://www.gofukuoka.jp/articles/detail/fa8b9f5e-6120-4fe9-b7d3-ede84d278755",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "牛杂锅（もつ鍋）晚餐",
+      "price": {
+        "min": 3399,
+        "max": 4999,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "乐天地总本店套餐 ¥3,399/人（1.5 人份牛杂锅含畅吃强棒面）；评论者含酒水人均 ¥4,000–4,999"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "水炊（鸡肉火锅）晚餐",
+      "price": {
+        "min": 3300,
+        "max": 5000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "水炊长野两种水炊套餐均 ¥3,300/人；含酒水可到 ¥5,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "居酒屋名店晚餐（太郎源这类）",
+      "price": {
+        "min": 6000,
+        "max": 10000,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Tabelog 标注 ¥6,000–7,999，评论者含酒水人均 ¥10,000–14,999；取 ¥6,000–10,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "午市定食 / 鱼定食",
+      "price": {
+        "min": 1000,
+        "max": 1800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "福鱼食堂盐烤真鲷定食 ¥1,000；博多芝麻鲭鱼屋刺身定食 ¥1,800；OKIYO 午餐均价 ¥1,000–1,999"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40020882/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40000036/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "明太子套餐（明太重饭吸套餐）",
+      "price": {
+        "min": 2380,
+        "max": 2618,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "饭吸套餐 ¥2,380（未税，Tabelog 照片标注）；按 10% 税约 ¥2,618"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "糸岛海鲜丼",
+      "price": {
+        "min": 1200,
+        "max": 3800,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "塚本鲜鱼店：海鲜丼 ¥1,200，极上海鲜丼 ¥3,800（限量）"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4009/A400901/40006148/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "糸岛牡蛎小屋（每人）",
+      "price": {
+        "min": 2000,
+        "max": 3500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "烤牡蛎每盘 ¥1,200–1,300（住吉丸、千龙丸 2026 年价），桌费 ¥220/人或 ¥500–550/桌；冨士丸梅套餐 ¥2,000/人。人均为估算，各小屋价格不同，另有每公斤计价的旧资料（约 ¥800/kg，年份不明）"
+      },
+      "sources": [
+        "https://kafuri.com/",
+        "https://kakigoya-senryumaru.com/",
+        "http://www.kaki-fujimaru.jp/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "柳川鳗鱼蒸笼饭",
+      "price": {
+        "min": 3265,
+        "max": 5500,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "若松屋 ¥3,265 起（肝吸），元祖本吉屋蒸笼饭 ¥4,100，特蒸笼饭套餐 ¥5,500"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://www.mapple.net/region/a0701020000_g03050000/spot/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "太宰府梅枝饼（每个）",
+      "price": {
+        "min": 150,
+        "max": 180,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "やす武 ¥150（含税，Tabelog）；かさの家 约 ¥150，每月 17 日古代米限定 ¥180"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40000059/",
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40006129/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "善哉 / 甜品",
+      "price": {
+        "min": 450,
+        "max": 1780,
+        "currency": "JPY",
+        "unit": "每份",
+        "note": "川端善哉 ¥450；西中洲料亭布丁 ¥680；南国水果茶室甘王草莓芭菲 ¥1,780（第三方评论）"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10006",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40025222/",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40067037/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "便利店一餐（2 个饭团，或 1 份便当）",
+      "price": {
+        "min": 356,
+        "max": 645,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "7-Eleven 手卷饭团含税约 ¥178–232/个（未税 ¥165–215，2026 年 2 月和 9 月调价）；便当 ¥626–645（含税）。不含饮料。堂食会按 10% 计税，略贵"
+      },
+      "sources": [
+        "https://pricey.jp/web/articles/4744",
+        "https://pricey.jp/web/articles/4489"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "咖啡（连锁咖啡店一杯）",
+      "price": {
+        "min": 390,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每杯",
+        "note": "星巴克 Tall 滴滤 2023 年 ¥390（旧价，2026 年 2 月和 10 月 9 日已两次涨价）；太宰府お石茶屋抹茶套餐 ¥600。最高值为参考，现价需确认"
+      },
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/news/2142316.html",
+        "https://tabelog.com/en/fukuoka/A4003/A400301/40003617/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "啤酒（生啤中杯）",
+      "price": {
+        "min": 500,
+        "max": 600,
+        "currency": "JPY",
+        "unit": "每杯",
+        "note": "一兰总本店生啤中杯 ¥580（官网）；天神屋台朝日 Super Dry ¥600（Tabelog 照片标注）；屋台每人必须点一杯，生啤约 ¥500–600，无酒精饮料 ¥300–400"
+      },
+      "sources": [
+        "https://en.ichiran.com/shop/kyushu/sohonten",
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40019897/",
+        "https://japanactivity.com/fukuoka-yatai-etiquette-a-guide-to-street-food-stalls"
+      ],
+      "confidence": "high"
+    },
+    {
+      "item": "御守（护身符）初穂料",
+      "price": {
+        "min": 500,
+        "max": 1000,
+        "currency": "JPY",
+        "unit": "每个",
+        "note": "太宰府天满宫学业御守 ¥1,000（含税，2016 年 Fun Japan 文章），一般御守 ¥500–1,000；交通安全守 ¥1,200，梅实护身袋 ¥1,500。官网未列价格，其他神社（栉田、住吉）价格未查到，现价到神社确认"
+      },
+      "sources": [
+        "https://www.fun-japan.jp/en/articles/1199",
+        "https://www.jeepe.jp/en/articles/shrine-temple-japanese-souvenir-1492"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "柳川游船（乘合船）",
+      "price": {
+        "min": 1900,
+        "max": 2200,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "Crossroad Fukuoka（柳川观光开发）成人 ¥1,900、6–11 岁 ¥950；另一处挂牌写 12 岁以上 ¥2,200，可能是新价。乘合船受理 9:30–14:30，每 30 分钟，约 1 小时；12 月到 2 月底有暖桌船"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/10846",
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "西铁太宰府・柳川观光车票（含福冈天神往返和柳川游船票）",
+      "price": {
+        "min": 3620,
+        "max": 3730,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2026 年资料：电子票 ¥3,620，纸质票 ¥3,730，儿童 ¥1,810/¥1,870；2 天内有效，只能在太宰府和西铁柳川站下车；含 12 处设施优惠，电子票不含天满宫观光历史馆团体价。只在福冈（天神）或薬院站出发时适用"
+      },
+      "sources": [
+        "https://monomoney-living.com/dazaifu-yanagawa-kippu-2026/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "糸岛牡蛎巴士游（观光协会）",
+      "price": {
+        "min": 6400,
+        "max": 6900,
+        "currency": "JPY",
+        "unit": "每人",
+        "note": "2026 年 1–3 月班次：糸岛西部牡蛎小屋团 ¥6,400（牡蛎 750g、蛤 2、扇贝 1、虾 1），烤牡蛎与糸岛半岛团 ¥6,900（牡蛎 500g 等）；含 ¥500 咖啡馆/温泉券。2027 年班次未知，在糸岛市观光协会官网预约"
+      },
+      "sources": [
+        "https://www.crossroadfukuoka.jp/event/14991"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：经济档",
+      "price": {
+        "min": 4500,
+        "max": 6500,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：便利店早餐 ¥400–650 + 拉面或乌冬午餐 ¥550–1,100 + 屋台或拉面加煎饺晚餐 ¥1,500–2,500 + 小吃甜品 ¥300–600 + 市内交通和零用 ¥1,000–1,500。第三方指南的背包客档约 ¥5,000–8,000/天（含住宿，口径不同）"
+      },
+      "sources": [
+        "https://pricey.jp/web/articles/4744",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40006844/dtlrvwlst/",
+        "https://japanactivity.com/fukuoka-travel-budget-and-daily-costs-2026"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：舒适档",
+      "price": {
+        "min": 10000,
+        "max": 15000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：咖啡早餐 ¥800–1,200 + 定食或海鲜丼午餐 ¥1,000–3,000 + 牛杂锅/水炊/居酒屋晚餐含酒 ¥3,500–6,000 + 甜品咖啡 ¥500–1,800 + 屋台第二摊 ¥1,000–2,500 + 交通和门票 ¥1,500–3,000。2 位成人一天约 ¥20,000–30,000"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400103/40046191/",
+        "https://tabelog.com/en/fukuoka/A4001/A400102/40000010/",
+        "https://tabelog.com/en/fukuoka/A4001/A400104/40034751/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "每日餐饮和市内杂费预算：宽裕档",
+      "price": {
+        "min": 20000,
+        "max": 35000,
+        "currency": "JPY",
+        "unit": "每人每天",
+        "note": "不含机票、住宿。自行估算：居酒屋名店或柳川鳗鱼午晚餐各 ¥4,000–10,000、甜品咖啡、出租车和包车。第三方指南高档档 ¥28,000 以上/天（含住宿，口径不同）"
+      },
+      "sources": [
+        "https://tabelog.com/en/fukuoka/A4001/A400101/40004636/",
+        "https://tabelog.com/en/fukuoka/A4008/A400806/40001048/",
+        "https://japanactivity.com/fukuoka-travel-budget-and-daily-costs-2026"
+      ],
+      "confidence": "low"
+    },
+    {
+      "item": "汇率：1 日元折合人民币",
+      "price": {
+        "min": 0.0424,
+        "max": 0.0424,
+        "currency": "CNY",
+        "unit": "每 1 JPY",
+        "note": "x-rates 2026 年 10 月日均价 1 JPY = 0.042375 CNY（约 100 JPY = 4.24 CNY），2026-10-30 查询，数据到 10 月下旬；valutafx 2026-08-28 为 1 CNY = 23.794 JPY（约 0.0420）；2026 年内区间约 21.94–24.20 JPY/CNY。2027 年汇率未知，预算时留 ±5% 余量"
+      },
+      "sources": [
+        "https://www.x-rates.com/average/?from=JPY&to=CNY&amount=1&year=2026",
+        "https://www.valutafx.com/history/cny-jpy-2026-08-28"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "notes": [
+    "签证：中国大陆护照赴日需要签证，没有免签或落地签。可申请单次或多次旅游签证（多次入境：3 年签证每次停留 30 天，5 年签证每次停留 90 天，需满足条件）；出发前通过日本驻华使领馆指定代办机构办理，并查看 Visit Japan Web。",
+    "出行风险提醒：中国外交部 2025-11 发布「近期避免前往日本」提醒，2026-03-26 再次重申（页面无截止日期）；文旅部也在 2025-11-17 提醒。我没有找到 2026-10 时点的更新或撤销，行前请查外交部领事服务网、文旅部和驻日使领馆最新通知，并确认保险和机票退改条款（大航司对 2026-01-26 前购买的日本航线客票曾延长免费退改至 2026-10-24，新票不一定适用）。",
+    "航空运力：自 2025-11 起中国航司对日航班大幅削减。2026 夏季上海浦东–福冈国航已停飞，2026-10-25 冬航季春秋保持每周 11 班（东航是否仍每日 1–2 班需核对）。上海–那霸仅春秋每周 2 班，东航取消。因此请以「上海⇄福冈」作为主进出口，不要把上海–那霸直飞作为唯一回程。",
+    "驾照：中国大陆驾照不能在日本开车，加日文翻译也不行（翻译件制度只适用于瑞士、德国、法国、比利时、摩纳哥、中国台湾）。本次福冈和冲绳全程用公共交通、出租车或包车/一日游。",
+    "返程备用方案（那霸→上海）：(a) 直飞那霸→浦东：春秋每周 2 班，A320，约 2.5 小时，单张机票最省事，但班次太少且可能随时调整；(b) 那霸→福冈→浦东：国内线约 1 小时 45 分–2 小时、每天 24 班，福冈→浦东 约 2 小时–2 小时 20 分、有春秋（11 班/周）和东航（约每日）。通常是分开购票（国内线+国际线），不是联程票，国内线延误或取消不会自动改签国际线，请订早上的国内线（7:05–10:05）衔接下午/傍晚的上海航班（约 13:55、18:00、18:15）；班次最多，推荐作为首选备用；(c) 那霸→关西→浦东：国内线约 2 小时 5–20 分，每天约 12–14 班，关西–浦东班次较多（每天约 10 班以上）但冬季仍在削减；也多为分开购票，关西机场 T1/T2 之间需要 7–9 分钟免费接驳巴士，Peach 国内线与春秋国际线都在 T2，可免换乘；ANA/JAL 在 T1 落地则可能要换楼；(d) 那霸→台北→上海：对大陆护照基本不可行，因入台需要大通证+入台证且不能从第三地入台；(e) 其他（东京成田/羽田转机、名古屋、首尔、香港）可行但更绕、更贵，且需要核实过境规则，本次没有展开调研。",
+    "福冈机场国内线→国际线转机（方案 b）：国内线落地后先取托运行李（分开购票时行李不会直挂），出来乘免费接驳巴士（约 5–6 分钟一班，车程约 10–15 分钟，约 6:00–23:20 运行）到国际线航站楼，办理国际线值机、出境手续。九州大学的指南建议转场至少留 30 分钟，加上值机、安检，建议国内线落地到国际线起飞至少留 3–4 小时。入境手续不需要再办。国际线航站楼与国内线、地铁是两栋楼，别搞错。",
+    "福冈市内交通：福冈机场→博多地铁 5 分钟 ¥260、→天神 11 分钟 ¥260；地铁 1 日券 ¥640（信用卡触碰支付每天封顶 ¥640）；地铁和巴士可用 Suica 等全国互通 IC 卡；但神社御守柜台多数只收现金（太宰府天满宫、筥崎宫已确认），请准备零钱。出租车起步价 2026-06 已改定，具体数字未核实。去太宰府有两条路线：西铁天神大牟田线→西铁二日市换太宰府线（约 ¥480，30–45 分钟），或福冈机场/博多巴士总站直达的「旅人」巴士（¥700/¥800）。去柳川：西铁天神站特急约 50 分钟；去糸岛、宫地岳、门司港等都要换车或打车，不开车较折腾。",
+    "神社礼仪：进鸟居前一鞠躬，走参道侧边（中央是神明之路）；手水舍依次洗左手、右手、漱口；拜殿「二礼二拍手一礼」；多数神社拜殿内禁止拍照；御守是「领受」而不是「购买」，付的是初穂料（现金）。",
+    "御守须知：不同愿望的御守可以同时带，内含神灵，不要拆开；通常一年后送回原神社。太宰府天满宫的御守柜台只收现金，筥崎宫收现金；住吉神社、筥崎宫给出了官方价格表（多为 ¥500–1,200），竈门神社和宫地岳神社官网也有价格；太宰府天满宫、栉田神社、爱宕神社、祐德稻荷的初穂料网上查不到可靠数字（一般 ¥500–1,500）。最贴本次行程的是住吉神社「旅行安全守」（航空航海之神，¥1,200）；缘结选竈门神社，必胜/考试选筥崎宫勝守（¥1,000）和太宰府学业御守，开运选宫地岳花まもり（¥1,000）。",
+    "天气与穿衣（福冈 1991–2020 平年值，均温/降水）：1 月 6.9°C/74mm；2 月 7.8°C/70mm；3 月 10.8°C/104mm；4 月 15.4°C/118mm；5 月 19.9°C/134mm；6 月 23.3°C/250mm；7 月 27.4°C/299mm；8 月 28.4°C/210mm；9 月 24.7°C/175mm；10 月 19.6°C/95mm；11 月 14.2°C/91mm；12 月 9.1°C/68mm。冬季（12–2 月）穿羽绒/厚外套，北风体感更冷；春秋早晚温差大，带薄外套；6–7 月是梅雨季，带雨具；7–8 月炎热潮湿，防晒与补水。",
+    "季节与神社活动：梅雨季约 6 月上旬–7 月中旬；台风季集中在 7–9 月，可能导致福冈↔那霸国内线延误取消、能古岛渡轮和川下り停航，务必预留缓冲日。博多祇园山笠 7 月 1–15 日（栉田神社周边极拥挤）；放生会（筥崎宫）9 月 12–18 日；玉取祭 1 月 3 日；太宰府鷽替え 1 月 7 日；梅花 2 月上旬–3 月中旬；福冈城樱花约 3 月底–4 月初；红叶约 11 月下旬–12 月上旬（竈门神社 2026 年点灯期为 11/21–12/06）；宫地岳光之道每年 2 月下旬和 10 月中下旬（2026 年为 10/10–10/20 与 2/19–3/3）；1 月 1–3 日太宰府初诣人潮极大。屋台冬天也营业，但雨天、台风天常休；柳川冬季是暖桌船，2 月有水落期班次调整。",
+    "季节性关闭与施工：太宰府天满宫本殿已完工，2026-09-19 起正面参拜；福冈城遗址的天守台 2026-05-26 至年底（预定）禁入，2027 年恢复情况需确认；大濠公园日本庭园计划 2027-03-31 起暂时休园（新县立美术馆施工）；光明禅寺寺内目前不对外开放；福冈塔每年 6 月最后一周周一、周二休馆；筥崎宫神苑花庭园周三休；九州国立博物馆周一休。",
+    "太宰府一日线建议：上午从天神或博多出发，在天满宫参拜并买御守（尽量上午去，人少），顺路看光明禅寺外观、九州国立博物馆；下午可去竈门神社（缘结、御守最丰富）。全程约 5–6 小时，穿舒适的鞋。与柳川合并买观光きっぷ要一天跑两个远方向，较累，建议拆开日子。博多一日线：栉田神社→（步行）住吉神社→中洲屋台夜游；箱崎线到筥崎宫另配半天。第 4 天飞那霸时，早班 7:05–8:00 需 6:00 前出发，建议订 9:35 以后的航班，国内线航班都是福冈机场国内线航站楼，地铁直达。",
+    "建议住宿安排：3晚连住同一个区域，不换酒店。首选「博多站周边」（舒适档选 JR九州 Blossom 博多中央，想升级选日航福冈，预算紧选 Comfort Hotel 博多）；备选「祇园」（想泡温泉、安静一点：Dormy Inn 博多祇园 / 三井花园祇园）；偏重天神购物和夜生活可选「天神」。理由：1）第1天从上海抵达福冈机场国际线航站楼，到博多站最省事（西铁直达巴士到博多站筑紫口约25分钟、310日元，或免费接驳巴士到国内线航站楼再换地铁）；2）第4天早班机飞那霸（ANA 2026年2–3月时刻表有 07:05 福冈—那霸，2027年时刻未知），博多站到机场地铁约5分钟、260日元，天神约11分钟、260日元，首班地铁时间没查到，赶不上就打车（参考 1,500–2,000日元）；3）博多站到天神地铁约5分钟、210日元，天神地下街、大丸、大名、运河城、川端、栉田神社都方便；太宰府从博多约57分钟、从天神约44分钟，差别不大。参考节奏：第1天下午抵达→博多站、运河城、川端、中洲屋台；第2天太宰府（御守、梅枝饼）后回天神购物；第3天天神、大名，傍晚在博多站买好常温伴手礼并整理行李；第4天早班机。要是第3晚改住天神得多搬一次行李，不推荐。",
+    "住宿区域｜博多站周边：优点是新干线、JR、地铁、巴士都在这里，去福冈机场地铁约5分钟，AMU Plaza、KITTE、博多阪急、友都八喜、Maing 伴手礼街都在站里站外，运河城步行约 12 分钟（约 0.9 km）；缺点是站前夜晚没有什么氛围，晚餐要去中洲或天神。适合第1天抵达、第4天早班机的行程。价格：经济 Comfort Hotel 博多 1.1万日元起，中档 Blossom 博多中央约 2–5万，高档日航福冈约 2.7万起。",
+    "住宿区域｜天神：优点是九州最大的商业区，天神地下街、大丸、岩田屋、PARCO、大名、药妆店都在步行范围，去太宰府要在西铁福冈（天神）站上车，约44分钟；缺点是去机场约11分钟，比博多站稍远，第4天早班机要早起，周末晚上人多。适合购物比重大、晚上想逛街的人。价格：经济 MYSTAYS 天神约 1.2万起，中档 Solaria 西铁约 2.7–7万，高档丽思卡尔顿约 10万以上。",
+    "住宿区域｜中洲·川端：优点是屋台、中洲夜景、川端商店街、栉田神社、运河城都在步行范围，中洲川端站是地铁空港线，去机场约9分钟（按天神11分钟推算，没有逐站核实）；缺点是中洲是夜店区，周末晚上较吵，白天店铺较冷清。适合想吃屋台、晚上多逛的人。价格：经济 Resol Trinity 博多约 1.4万起，中档 Royal Park Canvas 中洲约 2.5万起，高档君悦福冈约 3.3万起。",
+    "住宿区域｜祇园：优点是在博多站和中洲川端之间（祇园站是空港线上博多站的下一站），去博多站步行约 7–10 分钟，比站前安静，酒店有温泉大浴场和屋顶浴场，价位与博多站周边接近；缺点是周边吃饭购物不如博多站和天神密集，自己走路多一些。适合想住得舒服、白天主要在博多和川端一带走动的人。价格：经济 APA 博多祇园站前约 0.9万起（波动很大），中档 Dormy Inn 约 1.5–4万，中高档三井花园祇园约 2.4–8万。",
+    "价格与旺季：以上价格都是 2名成人 1间房的广告价（Jalan、jcation、Royal Park Hotels 等），不含餐的最低价到旺日最高价，2027年实价未知。这类酒店对日期非常敏感：2026-11-27（周五）的样本里，博多站周边商务酒店 3–6.7万日元，同一酒店平日可能只要 1–2万。Kayak 的平台均价显示福冈 8 月最便宜、12 月最贵（福冈市页面 8 月约 2.08万、12 月约 3.62万；福冈县页面 8 月 1.70万、12 月 2.59万），属抽样平均，仅作趋势参考。出行月份未定，要避开的高峰：黄金周（2027年约 4/29–5/5）、博多どんたく（每年 5/3–4，2026年官方确认，2027年未发布）、博多祇园山笠（通常 7/1–15，7/15 清晨为追い山，没找到来源核实）、盂兰盆节（8月中）、大相撲九州场所（11月，2026年为 11/8–22，2027年日期没查到）、年末年始、以及中国的国庆黄金周和春节（2027年春节为 2/6，农历推算）。福冈巨蛋（PayPay Dome）和 Marine Messe 有大型演唱会时也会涨价。",
+    "住宿税：福冈市每人每晚，住宿费 2万日元以下 200日元（县 50 + 市 150），2万日元以上 500日元（县 50 + 市 450）。从 2020-04-01 起征，不分年龄，福冈县页面更新于 2026-04-01，没有公布调整；条例有定期复核条款，2027年是否变化未确认。",
+    "机场往返：福冈机场的国内线和国际线航站楼相隔约 1.4 km，免费接驳巴士约每 10–15 分钟一班，地铁空港线只接国内线航站楼。地铁福冈机场站到博多站约5分钟、260日元，到天神约11分钟、260日元；国际线航站楼到博多站筑紫口的西铁直达巴士约25分钟、310日元（2026年3月资料）；出租车到博多一带约 10–15 分钟、1,500–2,000日元（参考）。早班机的首班地铁、国际线航站楼的最新巴士时刻都没查到，出发前看福冈市交通局和西铁官网。",
+    "退税制度（2026-11-01 起，购买日在此日及以后的都适用，没有过渡期）：日本把游客免税改成「退税方式」。在店里先付含税价，出示护照登记购买记录；离开日本时，在国际线出发大厅、办理托运行李之前，到海关的自助终端出示护照核验，终端判绿灯就完成，红灯要去海关检查场地出示商品；成田、羽田、关西、中部、福冈、新千岁、那霸等主要机场还可以在国际线出发大厅的专用无线网区域（安检前）用 Visit Japan Web 在线办理，代替终端。海关确认之后，由店铺或其委托的退款公司把消费税退给你，方式有银行转账、信用卡、APP、机场现金等，各店不同，要在店里买时登记。条件：同一店铺同一天消费满 5,000日元（不含税）；购买后 90 天内出境；买的数量要是出境时自己能带走的量；取消了 50 万日元上限、一般品和消耗品的区分和专用封装，但食品、化妆品等消耗品在日本境内用掉就拿不到退款；同一张小票里只要有一件拿不出来，整张小票都不退；税前单价 100 万日元以上的商品要登记详细信息。适用对象是外国游客等非居民，据二手来源是入境后 6 个月内（官方页面没有写这条）。退款手续费、到账时间官方没写，二手来源说信用卡约 1–2 周、转账 2–4 周。机场免税店（保税区内的）不受影响。",
+    "本行买东西的退税要点：从福冈国内线转那霸再出境的，官方 FAQ 明确写要在最终离开日本的机场办理，也就是那霸机场，那霸属于可用 Visit Japan Web 的机场。所以在福冈买的退税商品必须带到那霸，不要在福冈托运，第8天回上海那天先在值机前办理海关确认，被抽检时要拿得出来；一旦托运就不能取回再办。吃的、化妆品不要在日本境内用掉。冲绳特定免税（DFS）是另一套制度，不受上面的规则限制，见冲绳调研。",
+    "购物｜奥特莱斯：福冈机场里没有奥特莱斯。原来的 Marinoa City 福冈（西区小户）已于 2024-08-18 闭馆，原址在建「（仮称）三井奥特莱斯公园 福冈」，约 200 家店，2025-11-05 动工，官方只说「2027年春」开业，没有确切日期，名称也是暂定。现在能去的最近大型奥特莱斯是佐贺县的鸟栖 Premium Outlets。此外还有北九州的 THE OUTLETS KITAKYUSHU（搜索结果提到近 Spaceworld 站，这次没有调研）。如果出行在 2027年春以后，开业前再查官方公告，也不建议为它多留一天。",
+    "伴手礼购买策略：本行第4天在福冈买完后还要在冲绳住4晚，再从那霸飞回上海，所以冷藏的明太子（ふくや、稚加榮、椒房庵）和草莓鲜果不适合，建议买常温的：博多通りもん、ひよ子、筑紫もち、めんべい、茅乃舎だし、一蘭拉面、めんツナ罐头。另外，2025年11月中国再次暂停进口日本水产品（Caixin 报道，起因是外交争议），个人携带明太子（鱼卵）入境是否受影响没有查到，带之前向海关 12360 确认；新鲜水果、肉类、乳制品入境也有检疫限制，没有逐项核实。买的时间也要看：机场国内线早班机前只有 6:30 开门的店可用（稚加榮 8:00 才开），博多站 Maing 约 9:00 开、DEITOS 1F 8:00 开，所以第3天傍晚在博多站先买好比较稳。",
+    "御守与神社：太宰府天满宫的御守有学业、心守、夢守「叶糸」、金うそ幸せ守、梅実守、健康、开运、厄除、交通安全等十多种，官网没有写初穂料，要到现场或电话确认（社务所 092-922-8225）。栉田神社的授与所约 9:00–17:00，参拜 4:00–22:00（来自旅游信息站，现场确认），有博多水引做的缘结御守。住吉神社、筥崎宫的初穂料没有找到。太宰府每年10月有特别受验合格祈愿大祭，2026年为 10/18，期间特殊的御守只给参加祈愿的人。",
+    "屋台怎么吃：每个摊位只有约 8–12 个座位，不能预约，站在入口比手指表示人数，等摊主点头。落座先点饮料，每人至少一杯（生啤 ¥500–600，无酒精 ¥300–400），菜单常夹在吧台边或贴在帆布内，不会点就说 osusume（推荐）。每摊坐 30–45 分钟，吃完就走，一杯酒坐很久会被认为失礼。结账在座位上付，用两根食指交叉比 X 表示买单。",
+    "屋台营业：多数 18:00 左右开，到次日 1:00–2:00，18:00–19:00 最容易有位置，20:00–22:00 中洲可能要等 30–45 分钟。每摊每周通常休息一天（周日、周一或周三常见），大雨或强风天多数不出摊，小雨一般照常。屋台没有厕所，坐下前先去地铁站或便利店。中洲一带比天神、长浜贵约 10–20%，新手可以先去天神渡边通。下雨备选：一兰总本店（24 小时）、ShinShin 天神本店（到 3:00）。",
+    "屋台现金为主：几乎全部只收现金，部分新摊可用 PayPay 或二维码，不要指望。每人备 ¥3,000–5,000，最好是 1,000 日元纸币和零钱。屋台多数已禁吸烟，但各摊规则不同，Tabelog 上有的摊位仍允许吸烟。",
+    "付款方式：连锁和观光餐厅多数支持信用卡，一兰总本店支持微信、支付宝（官网未列银联卡）；元祖博多明太重和太宰府的かさの家支持微信、支付宝、银联。老式小店多是现金或 PayPay，Tabelog 上标「不接受信用卡、电子货币、二维码」的店包括博多一幸舍（只收 d 払い）、铁锅饺子、牛蒡天乌冬 平、元祖长浜屋、福鱼食堂、博多芝麻鲭鱼屋、塚本鲜鱼店、お石茶屋、萩野屋。这些标注通常意味着只收现金，但 Tabelog 没有明确写「现金」，请随身带足现金（每天 ¥10,000 以上较稳）。",
+    "预约：热门店（太郎源、水炊长野、元祖本吉屋平日）尽量提前预约。Tabelog 的店铺页面多处注明店内电话通道暂停，请用 Tabelog 网络预约，或让酒店前台代订。元祖博多明太重的网络预约只接受 17:00 之后的时段。屋台、拉面店、柳川本吉屋周末都不能预约，按到店顺序排队。",
+    "福冈拉面点法：Hakata 豚骨可选面硬度（常见从粉あり、ハリガネ、カタ、普通到柔らかめ），吃完可加面（替玉，¥100–210），长浜屋另有替肉 ¥100。一兰用纸单选择汤浓淡、辣度、大蒜等，22:00–6:00 有深夜附加费。长浜屋是食券制。拉面汤底为猪骨，注意猪肉制品。",
+    "福冈名物饮食禁忌：豚骨拉面、炒饭、煎饺含猪肉和猪油；牛杂锅（もつ鍋）是牛或猪内脏；水炊为鸡；明太子是鳕鱼子；芝麻鲭鱼和刺身为生鱼；牡蛎小屋多数烤熟吃但生牡蛎也有供应，肠胃弱或孕妇谨慎。过敏和素食者很难放心点餐，可把过敏原写成日文卡片给店员看。部分店有英文菜单（如乐天地、南国水果茶室、皿屋 福柳）。",
+    "小费和附加费：日本不给小费。居酒屋常收「お通し」（座位附带小菜），一般每人几百日元，是否收取要看店家，Tabelog 提示博多一幸舍可能另加服务费。乐天地总本店明确不收服务费和开胃菜费。",
+    "季节：出行月份未定。牡蛎小屋（糸岛）约 10 月到 3、4 月，各小屋自定开业日（2026 年 10 月 3 日起陆续开），卖完牡蛎当天提前关门，12/31 和 1/1 多数休息，周末和节假日渔港拥堵，建议公共交通；2027 年开业日期要等 9–10 月公布。关东煮屋台 10–3 月最全。甘王草莓芭菲冬春才有，南国水果茶室、ノトキ（Solaria Stage 地下一层）等店需看当季菜单。柳川游船 12 月到 2 月有暖桌船，夏季（2026 年 7/1–9/15）只开早晚班，2 月有水落（mizuochi）期间约 40 分钟的缩短行程。7 月上旬博多祇园山笠：川端善哉广场 7/1–7/14 每天营业。太宰府梅花季（约 2–3 月）和新年参拜期间参道很挤。",
+    "太宰府参道商店多数 17:00–18:00 收工，梅枝饼边走边吃现烤最好；参道午餐高峰 11:00–14:00，建议提前到。柳川的蒸笼鳗鱼饭（せいろ蒸し）是把鳗鱼和米饭一起放蒸笼里蒸，鳗鱼和饭都有酱汁，价格比普通鳗鱼饭略低，周末午餐要等位。",
+    "明太子购物：福冈本地品牌ふくや的明太子工厂「ハクハク」2026 年 2 月 1 日开业，在福冈市东区社领 2-14-28，参观 10:00–16:00（最后入馆 15:30），周二、周三休息（检索摘要，未核实）。中洲本店在中洲 2-6-10，营业时间未查到。",
+    "吸烟：日本餐饮店室内原则上禁烟但可设吸烟室（一般规定，非本次检索），部分老店、屋台和居酒屋仍允许吸烟。本次 Tabelog 查到的拉面店、水炊长野、鳗鱼店、乐天地总本店（仅加热烟草区和电子烟室）多为禁烟。",
+    "常见替代：Nagahama 一带有多家叫长浜家的拉面店，元祖长浜屋、元祖拉面长浜家（大手门，24 小时，周一周二 7:00–9:00 清洁）和长浜屋台是不同店。第二家未做进一步核实。"
+  ],
+  "unverified": [
+    "上海浦东⇄福冈 东航每周班次、班期，以及春秋 9C6610 的运行日（来自第三方订票和汇总页，而非航司官方时刻）；各航司实际机票价格（本次没有取得春秋/东航官方报价，价格区间为第三方快照）。",
+    "上海浦东⇄那霸 春秋每周 2 班的具体班期、航班号（AeroRoutes 备案为 9C6977/9C6978，夏季时刻表为 9C6246）、是否按计划执行；东航每周 2 班取消后是否有恢复。",
+    "外交部/文旅部赴日提醒在 2026 年 10 月 30 日是否仍有效，航司免费退改政策是否延期到 2027 年（只找到 2026-03-28 与 2026-10-24 的旧延期）。",
+    "太宰府天满宫、栉田神社、爱宕神社、警固神社、祐德稻荷神社的御守初穂料和授与所具体时间；宫地岳「叶う守」价格；竈门神社社区巴士「まほろば号」的车费与班次。",
+    "光明禅寺现状（寺内是否仍不开放、门票）；福冈城むかし探访馆门票；大濠公园日本庭园是否收费 ¥250；福冈城遗址天守台 2027 年是否恢复开放。",
+    "能古岛 Island Park 门票（¥1,200 与 ¥1,500 两说）、渡轮票价（¥220–230）及最新时刻表；柳川川下り票价（¥1,800–1,900）、冬季暖桌船日期；西铁天神→柳川单程票价。",
+    "西铁天神→太宰府 ¥480 与 44 分钟（乘换案内站，可能含候车）；西铁是否已实施涨价；福冈出租车 2026-06 改定后的起步价。",
+    "地铁空港线首末班车时间（来源互相矛盾）；福冈机场国内线各航司柜台位置；国际线新「专用接驳道」开通后的接驳时间缩短。",
+    "关西机场各航司具体航站楼（已知 Peach、春秋、济州在 T2）；中国航司在 KIX 的航站楼；关西–浦东冬季准确班次。",
+    "持大陆护照从那霸转台北回上海的过境规则（入台证需求）；经东京、名古屋、首尔、香港转机的可行性与价格。",
+    "门司港怀旧区交通费用（新干线+在来线）及关门海峡博物馆门票（第三方 ¥500）；糸岛的公共交通班次，樱井神社的御守。",
+    "福冈机场站和天神站、国内线航站楼的坐标为估计；柳川川下り坐标取自柳川观光开发办公地，各乘船点略有不同。",
+    "祐德稻荷神社博多出发的特急列车名、票价和班次（据称约 1 小时）；福津宫地岳从博多的 JR 车程（预估 30–40 分钟）。",
+    "酒店价格都是预订站（Jalan、jcation、Royal Park Hotels）的广告价，不是实订价；Jalan 页面的单价和 2 人合计靠「合计恰好是单价的两倍」来推断，页面没写明口径；2027年各月价格未知。最高价多取自 2026-11-27（周五）jcation 单晚样本，当天为什么这么贵（演唱会等活动）没查到，所以每家的 max 偏高，只能当旺日参考。",
+    "福冈日航、丽思卡尔顿、APA 的价格区间最不稳定：日航没写 max；丽思卡尔顿几个来源口径不同；APA 的 9,000 日元起价写法含糊。其他酒店的实际双人价要订房时按具体日期复查。",
+    "Dormy Inn 博多祇园页面写 2026-04-01 翻新开业；Solaria 西铁酒店计划里有「开业纪念计划 2026年12月18日 OPEN」，不清楚是否翻新重开；搜索结果还提到天神一带某家酒店近旁的大楼 2026年4月至2028年1月有建设工程，没确认是哪一家。这些在订房前都要看官网公告。",
+    "酒店停车只查到君悦（1,980日元/晚）、三井花园祇园（2,000日元/天）、Royal Park Canvas（优惠券 1,800日元）；其余没查，本行不自驾，影响不大。",
+    "营业时间：大丸福冈天神店各来源 19:00 / 20:00 不一致；KITTE 博多只有导览站的单一来源（包括 6 月第3周二休业）；友都八喜 20:00 或 22:00 两种写法；唐吉诃德中洲店为 2022年公告；Sundrug 天神西通店只有一篇博客；运河城 Ramen Stadium 和喷泉秀时间没取到；大名、川端商店街、Maing 内各店没有统一时间；机场国内线店铺时间来自 2025年2月文章。",
+    "退税：各店是否有退税柜台（大丸、岩田屋、KITTE、友都八喜博多、唐吉诃德中洲、Sundrug）没有逐一核实，只有博多阪急被 Matcha 提到有外国游客柜台。「入境 6 个月内」条件、退款到账时间和手续费来自二手来源，官方页面没写；福冈机场国际线、那霸机场的终端具体位置没取到。官方 FAQ 里「福冈→那霸出境」在那霸办理的结论是明确的。",
+    "三井奥特莱斯公园 福冈的开业日期只有「2027年春」，名称为暂定，没有官方具体日期；鸟栖 Premium Outlets 从博多站的交通时间和费用、北九州奥特莱斯的信息没有取到。",
+    "伴手礼价格：Jalan 机场文章的价格是 2025年2月的数据，ひよ子、あまおう 点心、一幸舎、茅乃舎、稚加榮明太子、ふくや あえもの 可能已涨价（めんべい 从 600 涨到 860 就是例子）；筑紫もち 2025年的 6个装 1,296 比更早的 1,026 贵，2027年需再看；ふくや 味の明太子 官网价格没取到（403），120g 1,080 来自口碑站、无日期；博多织的价格只有福冈市项目页的 4,000日元（不含税）束口包，其他小物（名片夹、钱包）的价格没查到；あまおう 点心没有取到统一的价格表。",
+    "御守价格：太宰府天满宫、栉田神社、住吉神社、筥崎宫的官方初穂料都没取到，学业御守 1,000 日元来自 2019年的 Fun-Japan，已过时；一般 500–1,000 日元来自通用指南。",
+    "中国海关对日本水产品（明太子）、水果、肉乳制品的个人携带规定，没有找到 2026年现行的官方说法，只确认 2025年11月再次暂停进口日本水产品；2027年状态未知。",
+    "早班机时刻：ANA 07:05 福冈—那霸来自 2026年2–3月时刻表，2027年时刻和 JAL、Skymark、Solaseed、Peach 的早班没查到；地铁空港线首班时间、中洲川端和祇园到机场的具体时间（9分钟为推算）没查到；太宰府、博多站到太宰府的时间和票价来自乘换案内搜索结果，不是西铁官方。",
+    "2027年节庆日期：博多祇园山笠（7/1–15）和 2027年九州场所日期、黄金周日期、2027年春节（2/6）都不是从来源核实的，只是通常日期或推算。",
+    "坐标：酒店和商场多数取自 GSI 地址搜索（日航、Blossom、Dormy Inn、丽思卡尔顿、君悦、三井花园祇园、大丸、阪急、KITTE、友都八喜、川端、唐吉诃德、Sundrug、鸟栖），其余取自 OSM（Photon）；AMU Plaza、Maing 取博多站大楼位置，大名取区域中心，国内线航站楼取下臼井778-1，国际线航站楼取 OSM，均为估计。",
+    "出行月份未定，所有营业时间、季节性项目（牡蛎小屋开业日、甘王草莓、游船班次）都以 2026 年资料为准，2027 年出发前要重新核对。",
+    "福冈市官方屋台名单（yokanavi PDF）打不开（404），屋台名单取自福冈市观光官网 gofukuoka 文章和第三方站，没有逐摊核实 2027 年是否营业。天神屋台 宗的营业时间 Tabelog 没写，第三方说法为周一二三五六 19:00–24:00，未能核实。长浜一带屋台未找到可靠的店名和资料，所以没有列入。",
+    "座标：天神屋台 宗、中洲屋台 司、KUROchan 只到街区或门牌街区级别；住吉丸取加布里渔港附近；市场会馆里的 OKIYO、鱼辰、福鱼食堂以及皿屋 福柳取大楼或街区附近，彼此略有偏移，都是估计。其余座标来自日本国土地理院地址检索，精度到门牌街区。",
+    "Tabelog 对多家小店的支付方式只写「不接受信用卡、电子货币、二维码」，没有明说收现金，且价格栏多为占位值（¥999）。除个别标注价格外，人均价取 Tabelog 评论者人均区间，不是菜单价。",
+    "元祖长浜屋：¥550 来自 2026 年 10 月的用户评论，替玉 ¥150 来自检索摘要且日期不明。网友曾提到 2026 年 5 月到 7 月初厨房装修休业，只有一条帖子说明，未核实。",
+    "博多一幸舍、牛蒡天乌冬 平、ShinShin 以外的菜单价格未能取得（官网菜单不显示价格）。因幡うどん、牧のうどん 等福冈软乌冬连锁店只有第三方摘要（因幡牛蒡天约 ¥670），所以没有列入餐厅。",
+    "糸岛牡蛎小屋：各家支付方式（现金或刷卡）和预约规则官网大多没写；每公斤计价的旧价（约 ¥800/kg）年份不明。其余未列出的小屋如カキの阿部 飛龍丸（福吉站步行 12 分钟，可自带饮料和饭团，不提供酒精给驾车者）可备选。",
+    "星巴克现价：只查到 2023 年 Tall 滴滤 ¥390，2026 年两次涨价后的价格没找到；太宰府店营业时间资料来自 2014–2024 年。",
+    "御守价格：太宰府天满宫官网不列价格，¥1,000 学业守来自 2016 年文章；栉田神社、住吉神社、宗像大社等的御守价格没找到。",
+    "柳川游船价格有 ¥1,900 和 ¥2,200 两种说法；元祖本吉屋的闭店时间有 19:00、19:30、20:00 几种；若松屋预约规则 Tabelog 页面自相矛盾；かさの家营业时间只有 Tabelog 一处来源。",
+    "元祖博多明太重的价格只有 ¥2,380（未税）饭吸套餐和布丁，明太重单品价格未取得；ふくや中洲本店营业时间未查到。",
+    "每日预算三档是根据已查到的菜价自行估算，没有找到直接对应的权威口径；日本便利店 ATM 能否取银联卡、市内交通 1 日券价格本次没有核实。",
+    "汇率为 2026 年 10 月数据，2027 年实际汇率未知；x-rates 页面数据可能只到 10 月下旬。"
+  ]
+}

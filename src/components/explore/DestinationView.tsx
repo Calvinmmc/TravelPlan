@@ -197,6 +197,26 @@ function PlanList({ dest }: { dest: DestinationEntry }) {
           return (
             <div key={plan.key} className="rounded-lg border border-stone-200 p-3">
               <div className="font-medium">{trip.name}</div>
+              {trip.destinations && trip.destinations.length > 1 && (
+                <div className="mt-0.5 text-xs text-stone-500">
+                  途经：
+                  {trip.destinations.map((slug, i) => {
+                    const d = getDestination(slug)
+                    return (
+                      <span key={slug}>
+                        {i > 0 && ' → '}
+                        {d && slug !== dest.slug ? (
+                          <a href={routeHref({ name: 'destination', slug })} className="underline hover:text-stone-700">
+                            {d.name}
+                          </a>
+                        ) : (
+                          (d?.name ?? slug)
+                        )}
+                      </span>
+                    )
+                  })}
+                </div>
+              )}
               <div className="mt-1 flex flex-wrap gap-x-3 text-xs text-stone-400">
                 <span>
                   {formatDay(trip.startDate)} → {formatDay(trip.endDate)}

@@ -177,6 +177,9 @@ export function validateTrip(trip) {
   if (!DATE_RE.test(trip.startDate ?? '') || !DATE_RE.test(trip.endDate ?? '')) errors.push('startDate / endDate 必须是 YYYY-MM-DD')
   if (trip.currency !== undefined && !/^[A-Z]{3}$/.test(trip.currency)) errors.push('currency 必须是 3 位大写货币代码')
   if (trip.destination !== undefined && !SLUG_RE.test(trip.destination)) errors.push('destination 必须是目的地 slug')
+  if (trip.destinations !== undefined && (!Array.isArray(trip.destinations) || !trip.destinations.every((d) => SLUG_RE.test(d)))) {
+    errors.push('destinations 必须是目的地 slug 数组')
+  }
   if (!Array.isArray(trip.days) || trip.days.length === 0) errors.push('days 必须是非空数组')
   if (errors.length) return { errors, warnings }
 

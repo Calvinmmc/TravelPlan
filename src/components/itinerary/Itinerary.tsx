@@ -2,6 +2,7 @@ import { useState } from 'react'
 import type { Trip } from '../../types'
 import { useTripStore } from '../../store/useTripStore'
 import DayCard from './DayCard'
+import { addDays, dateRange } from '../../lib/date'
 import ShareDialog from '../share/ShareDialog'
 import ExportDialog from '../share/ExportDialog'
 
@@ -15,8 +16,10 @@ export default function Itinerary({ trip }: { trip: Trip }) {
 
   const changeDates = (startDate: string, endDate: string) => {
     if (!startDate || !endDate || endDate < startDate) return
-    const dropped = trip.days.filter((d) => (d.date < startDate || d.date > endDate) && d.stops.length > 0)
-    if (dropped.length && !confirm(`有 ${dropped.length} 天的地点会被移除，确定修改日期吗？`)) return
+    // 行程按天平移；天数变少时，末尾那几天的地点会被去掉
+    const newLength = dateRange(startDate, endDate).length
+    const dropped = trip.days.slice(newLength).filter((d) => d.stops.length > 0)
+    if (dropped.length && !confirm(`天数变少，最后 ${dropped.length} 天的地点会被移除，确定修改吗？`)) return
     setTripDates(startDate, endDate)
   }
 
@@ -38,7 +41,8 @@ export default function Itinerary({ trip }: { trip: Trip }) {
         </div>
         <div className="mt-2 flex items-center gap-2 text-sm text-stone-500">
           <input type="date" value={trip.startDate}
-            onChange={(e) => changeDates(e.target.value, trip.endDate)}
+            // 改出发日期 = 整体平移，天数不变；改结束日期才会改变天数
+            onChange={(e) => e.target.value && changeDates(e.target.value, addDays(e.target.value, trip.days.length - 1))}
             className="rounded px-1 hover:bg-stone-100" />
           <span>→</span>
           <input type="date" value={trip.endDate} min={trip.startDate}

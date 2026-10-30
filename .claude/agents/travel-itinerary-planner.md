@@ -36,6 +36,7 @@ model: inherit
 - `Day.title`：用一句话概括当天主题。
 - `currency`：当地货币。
 - `destination`：目的地 slug，与所在目录 `research/<slug>/` 一致。
+- `destinations`：只有多城市方案才填，按顺序列出途经的所有目的地 slug（包含 `destination` 自己），如 `["fukuoka", "okinawa"]`。
 - `createdAt`、`updatedAt`：当前毫秒时间戳。
 
 ## 输出
